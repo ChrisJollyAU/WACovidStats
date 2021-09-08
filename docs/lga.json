@@ -1,0 +1,977 @@
+{
+  "data": [
+    {
+      "LGAName": "Albany (C)",
+      "LGANameFull": "City of Albany",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "6"
+    },
+    {
+      "LGAName": "Armadale (C)",
+      "LGANameFull": "City of Armadale",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "19"
+    },
+    {
+      "LGAName": "Ashburton (S)",
+      "LGANameFull": "Shire of Ashburton  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Augusta-Margaret River (S)",
+      "LGANameFull": "Shire of Augusta-Margaret River",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "< 5"
+    },
+    {
+      "LGAName": "Bassendean (T)",
+      "LGANameFull": "Town of Bassendean",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "< 5"
+    },
+    {
+      "LGAName": "Bayswater (C)",
+      "LGANameFull": "City of Bayswater",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "19"
+    },
+    {
+      "LGAName": "Belmont (C)",
+      "LGANameFull": "City of Belmont",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "8"
+    },
+    {
+      "LGAName": "Beverley (S)",
+      "LGANameFull": "Shire of Beverley  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Boddington (S)",
+      "LGANameFull": "Shire of Boddington",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Boyup Brook (S)",
+      "LGANameFull": "Shire of Boyup Brook  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Bridgetown-Greenbushes (S)",
+      "LGANameFull": "Shire of Bridgetown-Greenbushes",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "< 5"
+    },
+    {
+      "LGAName": "Brookton (S)",
+      "LGANameFull": "Shire of Brookton  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Broome (S)",
+      "LGANameFull": "Shire of Broome",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "10"
+    },
+    {
+      "LGAName": "Broomehill-Tambellup (S)",
+      "LGANameFull": "Shire of Broomehill-Tambellup  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Bruce Rock (S)",
+      "LGANameFull": "Shire of Bruce Rock  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Bunbury (C)",
+      "LGANameFull": "City of Bunbury ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "< 5"
+    },
+    {
+      "LGAName": "Busselton (C)",
+      "LGANameFull": "City of Busselton ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "6"
+    },
+    {
+      "LGAName": "Cambridge (T)",
+      "LGANameFull": "Town of Cambridge",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "< 5"
+    },
+    {
+      "LGAName": "Canning (C)",
+      "LGANameFull": "City of Canning",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "20"
+    },
+    {
+      "LGAName": "Capel (S)",
+      "LGANameFull": "Shire of Capel  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Carnamah (S)",
+      "LGANameFull": "Shire of Carnamah  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Carnarvon (S)",
+      "LGANameFull": "Shire of Carnarvon",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "< 5"
+    },
+    {
+      "LGAName": "Chapman Valley (S)",
+      "LGANameFull": "Shire of Chapman Valley  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Chittering (S)",
+      "LGANameFull": "Shire of Chittering  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Claremont (T)",
+      "LGANameFull": "Town of Claremont",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "5"
+    },
+    {
+      "LGAName": "Collie (S)",
+      "LGANameFull": "Shire of Collie  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "<5"
+    },
+    {
+      "LGAName": "Coolgardie (S)",
+      "LGANameFull": "Shire of Coolgardie  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Coorow (S)",
+      "LGANameFull": "Shire of Coorow  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Corrigin (S)",
+      "LGANameFull": "Shire of Corrigin  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Cottesloe (T)",
+      "LGANameFull": "Town of Cottesloe",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "9"
+    },
+    {
+      "LGAName": "Cranbrook (S)",
+      "LGANameFull": "Shire of Cranbrook  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Cuballing (S)",
+      "LGANameFull": "Shire of Cuballing  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Cue (S)",
+      "LGANameFull": "Shire of Cue  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Cunderdin (S)",
+      "LGANameFull": "Shire of Cunderdin  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Dalwallinu (S)",
+      "LGANameFull": "Shire of Dalwallinu  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "<5"
+    },
+    {
+      "LGAName": "Dandaragan (S)",
+      "LGANameFull": "Shire of Dandaragan  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Dardanup (S)",
+      "LGANameFull": "Shire of Dardanup",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "< 5"
+    },
+    {
+      "LGAName": "Denmark (S)",
+      "LGANameFull": "Shire of Denmark  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Derby-West Kimberley (S)",
+      "LGANameFull": "Shire of Derby-West Kimberley  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Donnybrook-Balingup (S)",
+      "LGANameFull": "Shire of Donnybrook-Balingup  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "< 5"
+    },
+    {
+      "LGAName": "Dowerin (S)",
+      "LGANameFull": "Shire of Dowerin  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Dumbleyung (S)",
+      "LGANameFull": "Shire of Dumbleyung",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "< 5"
+    },
+    {
+      "LGAName": "Dundas (S)",
+      "LGANameFull": "Shire of Dundas  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "East Fremantle (T)",
+      "LGANameFull": "Town of East Fremantle",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "< 5"
+    },
+    {
+      "LGAName": "East Pilbara (S)",
+      "LGANameFull": "Shire of East Pilbara  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Esperance (S)",
+      "LGANameFull": "Shire of Esperance  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Exmouth (S)",
+      "LGANameFull": "Shire of Exmouth  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Fremantle (C)",
+      "LGANameFull": "City of Fremantle",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "6"
+    },
+    {
+      "LGAName": "Gingin (S)",
+      "LGANameFull": "Shire of Gingin",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "< 5"
+    },
+    {
+      "LGAName": "Gnowangerup (S)",
+      "LGANameFull": "Shire of Gnowangerup  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Goomalling (S)",
+      "LGANameFull": "Shire of Goomalling",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "< 5"
+    },
+    {
+      "LGAName": "Gosnells (C)",
+      "LGANameFull": "City of Gosnells",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "18"
+    },
+    {
+      "LGAName": "Greater Geraldton (C)",
+      "LGANameFull": "City of Greater Geraldton",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "< 5"
+    },
+    {
+      "LGAName": "Halls Creek (S)",
+      "LGANameFull": "Shire of Halls Creek",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "< 5"
+    },
+    {
+      "LGAName": "Harvey (S)",
+      "LGANameFull": "Shire of Harvey",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "< 5"
+    },
+    {
+      "LGAName": "Irwin (S)",
+      "LGANameFull": "Shire of Irwin  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Jerramungup (S)",
+      "LGANameFull": "Shire of Jerramungup  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Joondalup (C)",
+      "LGANameFull": "City of Joondalup",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "52"
+    },
+    {
+      "LGAName": "Kalamunda (C)",
+      "LGANameFull": "Cify of Kalamunda",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "9"
+    },
+    {
+      "LGAName": "Kalgoorlie - Boulder (C)",
+      "LGANameFull": "City of Kalgoorlie - Boulder ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "10"
+    },
+    {
+      "LGAName": "Karratha (C)",
+      "LGANameFull": "City of Karratha",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "5"
+    },
+    {
+      "LGAName": "Katanning (S)",
+      "LGANameFull": "Shire of Katanning  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Kellerberrin (S)",
+      "LGANameFull": "Shire of Kellerberrin  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Kent (S)",
+      "LGANameFull": "Shire of Kent  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Kojonup (S)",
+      "LGANameFull": "Shire of Kojonup  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Kondinin (S)",
+      "LGANameFull": "Shire of Kondinin  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Koorda (S)",
+      "LGANameFull": "Shire of Koorda  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Kulin (S)",
+      "LGANameFull": "Shire of Kulin  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Kwinana (C)",
+      "LGANameFull": "City of Kwinana",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "11"
+    },
+    {
+      "LGAName": "Lake Grace (S)",
+      "LGANameFull": "Shire of Lake Grace  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Laverton (S)",
+      "LGANameFull": "Shire of Laverton  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Leonora (S)",
+      "LGANameFull": "Shire of Leonora  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Mandurah (C)",
+      "LGANameFull": "City of Mandurah",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "32"
+    },
+    {
+      "LGAName": "Manjimup (S)",
+      "LGANameFull": "Shire of Manjimup  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Meekatharra (S)",
+      "LGANameFull": "Shire of Meekatharra  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Melville (C)",
+      "LGANameFull": "City of Melville",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "38"
+    },
+    {
+      "LGAName": "Menzies (S)",
+      "LGANameFull": "Shire of Menzies  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Merredin (S)",
+      "LGANameFull": "Shire of Merredin  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Mingenew (S)",
+      "LGANameFull": "Shire of Mingenew  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Moora (S)",
+      "LGANameFull": "Shire of Moora  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Morawa (S)",
+      "LGANameFull": "Shire of Morawa  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Mosman Park (T)",
+      "LGANameFull": "Town of Mosman Park",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "7"
+    },
+    {
+      "LGAName": "Mount Magnet (S)",
+      "LGANameFull": "Shire of Mount Magnet  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Mount Marshall (S)",
+      "LGANameFull": "Shire of Mount Marshall  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Mukinbudin (S)",
+      "LGANameFull": "Shire of Mukinbudin  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Mundaring (S)",
+      "LGANameFull": "Shire of Mundaring",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "11"
+    },
+    {
+      "LGAName": "Murchison (S)",
+      "LGANameFull": "Shire of Murchison  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Murray (S)",
+      "LGANameFull": "Shire of Murray",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "< 5"
+    },
+    {
+      "LGAName": "Nannup (S)",
+      "LGANameFull": "Shire of Nannup  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Narembeen (S)",
+      "LGANameFull": "Shire of Narembeen  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "< 5"
+    },
+    {
+      "LGAName": "Narrogin (S)",
+      "LGANameFull": "Shire of Narrogin  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "< 5"
+    },
+    {
+      "LGAName": "Nedlands (C)",
+      "LGANameFull": "City of Nedlands",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "9"
+    },
+    {
+      "LGAName": "Ngaanyatjarraku (S)",
+      "LGANameFull": "Shire of Ngaanyatjarraku  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Northam (S)",
+      "LGANameFull": "Shire of Northam",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "< 5"
+    },
+    {
+      "LGAName": "Northampton (S)",
+      "LGANameFull": "Shire of Northampton  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Nungarin (S)",
+      "LGANameFull": "Shire of Nungarin  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Peppermint Grove (S)",
+      "LGANameFull": "Shire of Peppermint Grove",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "< 5"
+    },
+    {
+      "LGAName": "Perenjori (S)",
+      "LGANameFull": "Shire of Perenjori  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Perth (C)",
+      "LGANameFull": "City of Perth",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "12"
+    },
+    {
+      "LGAName": "Pingelly (S)",
+      "LGANameFull": "Shire of Pingelly  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Plantagenet (S)",
+      "LGANameFull": "Shire of Plantagenet  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Port Hedland (T)",
+      "LGANameFull": "Town of Port Hedland",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "< 5"
+    },
+    {
+      "LGAName": "Quairading (S)",
+      "LGANameFull": "Shire of Quairading  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Ravensthorpe (S)",
+      "LGANameFull": "Shire of Ravensthorpe  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Sandstone (S)",
+      "LGANameFull": "Shire of Sandstone  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Serpentine-Jarrahdale (S)",
+      "LGANameFull": "Shire of Serpentine-Jarrahdale",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "5"
+    },
+    {
+      "LGAName": "Shark Bay (S)",
+      "LGANameFull": "Shire of Shark Bay  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "South Perth (C)",
+      "LGANameFull": "City of South Perth",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "13"
+    },
+    {
+      "LGAName": "Stirling (C)",
+      "LGANameFull": "City of Stirling",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "55"
+    },
+    {
+      "LGAName": "Subiaco (C)",
+      "LGANameFull": "City of Subiaco",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "5"
+    },
+    {
+      "LGAName": "Swan (C)",
+      "LGANameFull": "City of Swan",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "23"
+    },
+    {
+      "LGAName": "Tammin (S)",
+      "LGANameFull": "Shire of Tammin  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Three Springs (S)",
+      "LGANameFull": "Shire of Three Springs  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Toodyay (S)",
+      "LGANameFull": "Shire of Toodyay",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "< 5"
+    },
+    {
+      "LGAName": "Trayning (S)",
+      "LGANameFull": "Shire of Trayning  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Upper Gascoyne (S)",
+      "LGANameFull": "Shire of Upper Gascoyne  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Victoria Park (T)",
+      "LGANameFull": "Town of Victoria Park",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "10"
+    },
+    {
+      "LGAName": "Victoria Plains (S)",
+      "LGANameFull": "Shire of Victoria Plains  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Vincent (C)",
+      "LGANameFull": "City of Vincent",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "15"
+    },
+    {
+      "LGAName": "Wagin (S)",
+      "LGANameFull": "Shire of Wagin  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Wandering (S)",
+      "LGANameFull": "Shire of Wandering  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Wanneroo (C)",
+      "LGANameFull": "City of Wanneroo",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "45"
+    },
+    {
+      "LGAName": "Waroona (S)",
+      "LGANameFull": "Shire of Waroona  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "West Arthur (S)",
+      "LGANameFull": "Shire of West Arthur  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Westonia (S)",
+      "LGANameFull": "Shire of Westonia  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Wickepin (S)",
+      "LGANameFull": "Shire of Wickepin  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Williams (S)",
+      "LGANameFull": "Shire of Williams  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Wiluna (S)",
+      "LGANameFull": "Shire of Wiluna  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Wongan-Ballidu (S)",
+      "LGANameFull": "Shire of Wongan-Ballidu  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Woodanilling (S)",
+      "LGANameFull": "Shire of Woodanilling  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Wyalkatchem (S)",
+      "LGANameFull": "Shire of Wyalkatchem  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "< 5"
+    },
+    {
+      "LGAName": "Wyndham-East Kimberley (S)",
+      "LGANameFull": "Shire of Wyndham-East Kimberley",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "< 5"
+    },
+    {
+      "LGAName": "Yalgoo (S)",
+      "LGANameFull": "Shire of Yalgoo  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Yilgarn (S)",
+      "LGANameFull": "Shire of Yilgarn",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "< 5"
+    },
+    {
+      "LGAName": "York (S)",
+      "LGANameFull": "Shire of York  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Cockburn (C)",
+      "LGANameFull": "City of Cockburn  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Cockburn (C)",
+      "LGANameFull": "City of Cockburn",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "21"
+    },
+    {
+      "LGAName": "Rockingham (C)",
+      "LGANameFull": "City of Rockingham  ",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "0"
+    },
+    {
+      "LGAName": "Rockingham (C)",
+      "LGANameFull": "City of Rockingham",
+      "Total": null,
+      "Active": "0",
+      "Recovered": "29"
+    }
+  ]
+}
