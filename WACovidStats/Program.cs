@@ -7,6 +7,8 @@ namespace WACovidStats
         static void Main(string[] args)
         {
             CaseLGA.Execute();
+            TotalSummary.Execute();
+            SOF.Execute();
             Console.WriteLine("Hello World!");
         }
     }

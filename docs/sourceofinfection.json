@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "Name": "Overseas travel",
+      "Number": "649",
+      "Active": "3",
+      "NumberLast7Days": "528",
+      "NumberLast24Hours": "533"
+    },
+    {
+      "Name": "At sea  (cruise ships/other ocean going commercial vessels)",
+      "Number": "345",
+      "Active": "0",
+      "NumberLast7Days": "291",
+      "NumberLast24Hours": "291"
+    },
+    {
+      "Name": " Close contact",
+      "Number": "93",
+      "Active": "0",
+      "NumberLast7Days": "80",
+      "NumberLast24Hours": "80"
+    },
+    {
+      "Name": "Interstate travel",
+      "Number": "9",
+      "Active": "0",
+      "NumberLast7Days": "7",
+      "NumberLast24Hours": "7"
+    },
+    {
+      "Name": "Unknown source",
+      "Number": "14",
+      "Active": "7",
+      "NumberLast7Days": "13",
+      "NumberLast24Hours": "13"
+    },
+    {
+      "Name": "Pending",
+      "Number": "0",
+      "Active": "0",
+      "NumberLast7Days": "0",
+      "NumberLast24Hours": "0"
+    }
+  ]
+}
