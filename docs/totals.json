@@ -6049,6 +6049,16 @@
       "existing": "10",
       "total_ruledout": null,
       "hospitalized": null
+    },
+    {
+      "Date": "1634169600000",
+      "new_cases": "0",
+      "total_cases": "1111",
+      "total_recovered": "1093",
+      "total_death": "9",
+      "existing": "9",
+      "total_ruledout": null,
+      "hospitalized": null
     }
   ]
 }
