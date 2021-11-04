@@ -6042,21 +6042,231 @@
     },
     {
       "Date": "1634083200000",
-      "new_cases": "0",
-      "total_cases": "1111",
+      "new_cases": "1",
+      "total_cases": "1112",
       "total_recovered": "1092",
       "total_death": "9",
-      "existing": "10",
+      "existing": "11",
       "total_ruledout": null,
       "hospitalized": null
     },
     {
       "Date": "1634169600000",
       "new_cases": "0",
-      "total_cases": "1111",
+      "total_cases": "1112",
       "total_recovered": "1093",
       "total_death": "9",
-      "existing": "9",
+      "existing": "10",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "1634256000000",
+      "new_cases": "0",
+      "total_cases": "1112",
+      "total_recovered": "1096",
+      "total_death": "9",
+      "existing": "7",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "1634342400000",
+      "new_cases": "0",
+      "total_cases": "1112",
+      "total_recovered": "1097",
+      "total_death": "9",
+      "existing": "6",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "1634428800000",
+      "new_cases": "0",
+      "total_cases": "1112",
+      "total_recovered": "1099",
+      "total_death": "9",
+      "existing": "4",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "1634515200000",
+      "new_cases": "0",
+      "total_cases": "1112",
+      "total_recovered": "0",
+      "total_death": "0",
+      "existing": "1112",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "1634601600000",
+      "new_cases": "0",
+      "total_cases": "1112",
+      "total_recovered": "1100",
+      "total_death": "9",
+      "existing": "3",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "1634688000000",
+      "new_cases": "0",
+      "total_cases": "1112",
+      "total_recovered": "1101",
+      "total_death": "9",
+      "existing": "2",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "1634774400000",
+      "new_cases": "0",
+      "total_cases": "1112",
+      "total_recovered": "1101",
+      "total_death": "9",
+      "existing": "2",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "1634860800000",
+      "new_cases": "0",
+      "total_cases": "1112",
+      "total_recovered": "1101",
+      "total_death": "9",
+      "existing": "2",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "1634947200000",
+      "new_cases": "0",
+      "total_cases": "1112",
+      "total_recovered": "1101",
+      "total_death": "9",
+      "existing": "2",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "1635033600000",
+      "new_cases": "0",
+      "total_cases": "1112",
+      "total_recovered": "1101",
+      "total_death": "9",
+      "existing": "2",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "1635120000000",
+      "new_cases": "0",
+      "total_cases": "1112",
+      "total_recovered": "1101",
+      "total_death": "9",
+      "existing": "2",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "1635206400000",
+      "new_cases": "0",
+      "total_cases": "1112",
+      "total_recovered": "1102",
+      "total_death": "9",
+      "existing": "1",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "1635292800000",
+      "new_cases": "0",
+      "total_cases": "1112",
+      "total_recovered": "1102",
+      "total_death": "9",
+      "existing": "1",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "1635379200000",
+      "new_cases": "0",
+      "total_cases": "1112",
+      "total_recovered": "1103",
+      "total_death": "9",
+      "existing": "0",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "1635465600000",
+      "new_cases": "0",
+      "total_cases": "1112",
+      "total_recovered": "1103",
+      "total_death": "9",
+      "existing": "0",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "1635552000000",
+      "new_cases": "0",
+      "total_cases": "1112",
+      "total_recovered": "1103",
+      "total_death": "9",
+      "existing": "0",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "1635638400000",
+      "new_cases": "0",
+      "total_cases": "1112",
+      "total_recovered": "1103",
+      "total_death": "9",
+      "existing": "0",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "1635724800000",
+      "new_cases": "0",
+      "total_cases": "1112",
+      "total_recovered": "1103",
+      "total_death": "9",
+      "existing": "0",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "1635811200000",
+      "new_cases": "0",
+      "total_cases": "1112",
+      "total_recovered": "1103",
+      "total_death": "9",
+      "existing": "0",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "1635897600000",
+      "new_cases": "0",
+      "total_cases": "1112",
+      "total_recovered": "1103",
+      "total_death": "9",
+      "existing": "0",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "1635984000000",
+      "new_cases": "0",
+      "total_cases": "1112",
+      "total_recovered": "1103",
+      "total_death": "9",
+      "existing": "0",
       "total_ruledout": null,
       "hospitalized": null
     }

@@ -2,8 +2,8 @@
   "data": [
     {
       "Name": "Overseas travel",
-      "Number": "650",
-      "Active": "3",
+      "Number": "651",
+      "Active": "0",
       "NumberLast7Days": "528",
       "NumberLast24Hours": "533"
     },
@@ -31,7 +31,7 @@
     {
       "Name": "Unknown source",
       "Number": "14",
-      "Active": "6",
+      "Active": "0",
       "NumberLast7Days": "13",
       "NumberLast24Hours": "13"
     },
