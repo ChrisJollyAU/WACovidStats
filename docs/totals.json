@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "Date": "1581897600000",
+      "Date": "17/02/2020",
       "new_cases": "1",
       "total_cases": "1",
       "total_recovered": "0",
@@ -11,7 +11,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1581984000000",
+      "Date": "18/02/2020",
       "new_cases": "0",
       "total_cases": "1",
       "total_recovered": "0",
@@ -21,7 +21,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1582070400000",
+      "Date": "19/02/2020",
       "new_cases": "0",
       "total_cases": "1",
       "total_recovered": "0",
@@ -31,7 +31,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1582156800000",
+      "Date": "20/02/2020",
       "new_cases": "1",
       "total_cases": "2",
       "total_recovered": "0",
@@ -41,7 +41,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1582243200000",
+      "Date": "21/02/2020",
       "new_cases": "0",
       "total_cases": "2",
       "total_recovered": "0",
@@ -51,7 +51,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1582329600000",
+      "Date": "22/02/2020",
       "new_cases": "0",
       "total_cases": "2",
       "total_recovered": "0",
@@ -61,7 +61,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1582416000000",
+      "Date": "23/02/2020",
       "new_cases": "0",
       "total_cases": "2",
       "total_recovered": "0",
@@ -71,7 +71,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1582502400000",
+      "Date": "24/02/2020",
       "new_cases": "0",
       "total_cases": "2",
       "total_recovered": "0",
@@ -81,7 +81,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1582588800000",
+      "Date": "25/02/2020",
       "new_cases": "0",
       "total_cases": "2",
       "total_recovered": "0",
@@ -91,7 +91,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1582675200000",
+      "Date": "26/02/2020",
       "new_cases": "0",
       "total_cases": "2",
       "total_recovered": "0",
@@ -101,7 +101,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1582761600000",
+      "Date": "27/02/2020",
       "new_cases": "1",
       "total_cases": "3",
       "total_recovered": "0",
@@ -111,7 +111,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1582848000000",
+      "Date": "28/02/2020",
       "new_cases": "0",
       "total_cases": "3",
       "total_recovered": "0",
@@ -121,7 +121,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1582934400000",
+      "Date": "29/02/2020",
       "new_cases": "0",
       "total_cases": "3",
       "total_recovered": "0",
@@ -131,7 +131,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1583020800000",
+      "Date": "1/03/2020",
       "new_cases": "0",
       "total_cases": "3",
       "total_recovered": "0",
@@ -141,7 +141,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1583107200000",
+      "Date": "2/03/2020",
       "new_cases": "3",
       "total_cases": "6",
       "total_recovered": "0",
@@ -151,7 +151,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1583193600000",
+      "Date": "3/03/2020",
       "new_cases": "2",
       "total_cases": "8",
       "total_recovered": "0",
@@ -161,7 +161,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1583280000000",
+      "Date": "4/03/2020",
       "new_cases": "2",
       "total_cases": "10",
       "total_recovered": "0",
@@ -171,7 +171,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1583366400000",
+      "Date": "5/03/2020",
       "new_cases": "2",
       "total_cases": "12",
       "total_recovered": "0",
@@ -181,7 +181,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1583452800000",
+      "Date": "6/03/2020",
       "new_cases": "4",
       "total_cases": "16",
       "total_recovered": "0",
@@ -191,7 +191,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1583539200000",
+      "Date": "7/03/2020",
       "new_cases": "1",
       "total_cases": "17",
       "total_recovered": "0",
@@ -201,7 +201,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1583625600000",
+      "Date": "8/03/2020",
       "new_cases": "2",
       "total_cases": "19",
       "total_recovered": "0",
@@ -211,7 +211,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1583712000000",
+      "Date": "9/03/2020",
       "new_cases": "3",
       "total_cases": "22",
       "total_recovered": "0",
@@ -221,7 +221,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1583798400000",
+      "Date": "10/03/2020",
       "new_cases": "6",
       "total_cases": "28",
       "total_recovered": "0",
@@ -231,7 +231,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1583884800000",
+      "Date": "11/03/2020",
       "new_cases": "12",
       "total_cases": "40",
       "total_recovered": "0",
@@ -241,7 +241,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1583971200000",
+      "Date": "12/03/2020",
       "new_cases": "14",
       "total_cases": "54",
       "total_recovered": "1",
@@ -251,7 +251,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1584057600000",
+      "Date": "13/03/2020",
       "new_cases": "10",
       "total_cases": "64",
       "total_recovered": "1",
@@ -261,7 +261,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1584144000000",
+      "Date": "14/03/2020",
       "new_cases": "9",
       "total_cases": "73",
       "total_recovered": "1",
@@ -271,7 +271,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1584230400000",
+      "Date": "15/03/2020",
       "new_cases": "15",
       "total_cases": "88",
       "total_recovered": "1",
@@ -281,7 +281,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1584316800000",
+      "Date": "16/03/2020",
       "new_cases": "21",
       "total_cases": "109",
       "total_recovered": "1",
@@ -291,7 +291,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1584403200000",
+      "Date": "17/03/2020",
       "new_cases": "22",
       "total_cases": "131",
       "total_recovered": "1",
@@ -301,7 +301,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1584489600000",
+      "Date": "18/03/2020",
       "new_cases": "32",
       "total_cases": "163",
       "total_recovered": "1",
@@ -311,7 +311,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1584576000000",
+      "Date": "19/03/2020",
       "new_cases": "32",
       "total_cases": "195",
       "total_recovered": "1",
@@ -321,7 +321,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1584662400000",
+      "Date": "20/03/2020",
       "new_cases": "33",
       "total_cases": "228",
       "total_recovered": "1",
@@ -331,7 +331,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1584748800000",
+      "Date": "21/03/2020",
       "new_cases": "32",
       "total_cases": "260",
       "total_recovered": "5",
@@ -341,7 +341,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1584835200000",
+      "Date": "22/03/2020",
       "new_cases": "28",
       "total_cases": "288",
       "total_recovered": "5",
@@ -351,7 +351,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1584921600000",
+      "Date": "23/03/2020",
       "new_cases": "27",
       "total_cases": "315",
       "total_recovered": "6",
@@ -361,7 +361,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1585008000000",
+      "Date": "24/03/2020",
       "new_cases": "29",
       "total_cases": "344",
       "total_recovered": "13",
@@ -371,7 +371,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1585094400000",
+      "Date": "25/03/2020",
       "new_cases": "22",
       "total_cases": "366",
       "total_recovered": "19",
@@ -381,7 +381,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1585180800000",
+      "Date": "26/03/2020",
       "new_cases": "30",
       "total_cases": "396",
       "total_recovered": "24",
@@ -391,7 +391,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1585267200000",
+      "Date": "27/03/2020",
       "new_cases": "24",
       "total_cases": "420",
       "total_recovered": "27",
@@ -401,7 +401,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1585353600000",
+      "Date": "28/03/2020",
       "new_cases": "14",
       "total_cases": "434",
       "total_recovered": "34",
@@ -411,7 +411,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1585440000000",
+      "Date": "29/03/2020",
       "new_cases": "9",
       "total_cases": "443",
       "total_recovered": "38",
@@ -421,7 +421,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1585526400000",
+      "Date": "30/03/2020",
       "new_cases": "8",
       "total_cases": "451",
       "total_recovered": "56",
@@ -431,7 +431,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1585612800000",
+      "Date": "31/03/2020",
       "new_cases": "10",
       "total_cases": "461",
       "total_recovered": "75",
@@ -441,7 +441,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1585699200000",
+      "Date": "1/04/2020",
       "new_cases": "18",
       "total_cases": "479",
       "total_recovered": "90",
@@ -451,7 +451,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1585785600000",
+      "Date": "2/04/2020",
       "new_cases": "9",
       "total_cases": "488",
       "total_recovered": "116",
@@ -461,7 +461,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1585872000000",
+      "Date": "3/04/2020",
       "new_cases": "10",
       "total_cases": "498",
       "total_recovered": "146",
@@ -471,7 +471,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1585958400000",
+      "Date": "4/04/2020",
       "new_cases": "6",
       "total_cases": "504",
       "total_recovered": "152",
@@ -481,7 +481,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1586044800000",
+      "Date": "5/04/2020",
       "new_cases": "6",
       "total_cases": "510",
       "total_recovered": "168",
@@ -491,7 +491,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1586131200000",
+      "Date": "6/04/2020",
       "new_cases": "5",
       "total_cases": "515",
       "total_recovered": "179",
@@ -501,7 +501,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1586217600000",
+      "Date": "7/04/2020",
       "new_cases": "6",
       "total_cases": "521",
       "total_recovered": "193",
@@ -511,7 +511,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1586304000000",
+      "Date": "8/04/2020",
       "new_cases": "5",
       "total_cases": "526",
       "total_recovered": "217",
@@ -521,7 +521,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1586390400000",
+      "Date": "9/04/2020",
       "new_cases": "8",
       "total_cases": "534",
       "total_recovered": "229",
@@ -531,7 +531,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1586476800000",
+      "Date": "10/04/2020",
       "new_cases": "2",
       "total_cases": "536",
       "total_recovered": "245",
@@ -541,7 +541,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1586563200000",
+      "Date": "11/04/2020",
       "new_cases": "2",
       "total_cases": "538",
       "total_recovered": "270",
@@ -551,7 +551,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1586649600000",
+      "Date": "12/04/2020",
       "new_cases": "3",
       "total_cases": "541",
       "total_recovered": "284",
@@ -561,7 +561,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1586736000000",
+      "Date": "13/04/2020",
       "new_cases": "2",
       "total_cases": "543",
       "total_recovered": "330",
@@ -571,7 +571,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1586822400000",
+      "Date": "14/04/2020",
       "new_cases": "2",
       "total_cases": "545",
       "total_recovered": "346",
@@ -581,7 +581,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1586908800000",
+      "Date": "15/04/2020",
       "new_cases": "1",
       "total_cases": "546",
       "total_recovered": "354",
@@ -591,7 +591,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1586995200000",
+      "Date": "16/04/2020",
       "new_cases": "4",
       "total_cases": "550",
       "total_recovered": "371",
@@ -601,7 +601,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1587081600000",
+      "Date": "17/04/2020",
       "new_cases": "0",
       "total_cases": "550",
       "total_recovered": "400",
@@ -611,7 +611,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1587168000000",
+      "Date": "18/04/2020",
       "new_cases": "0",
       "total_cases": "550",
       "total_recovered": "435",
@@ -621,7 +621,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1587254400000",
+      "Date": "19/04/2020",
       "new_cases": "0",
       "total_cases": "550",
       "total_recovered": "442",
@@ -631,7 +631,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1587340800000",
+      "Date": "20/04/2020",
       "new_cases": "0",
       "total_cases": "550",
       "total_recovered": "450",
@@ -641,7 +641,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1587427200000",
+      "Date": "21/04/2020",
       "new_cases": "0",
       "total_cases": "550",
       "total_recovered": "458",
@@ -651,7 +651,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1587513600000",
+      "Date": "22/04/2020",
       "new_cases": "0",
       "total_cases": "550",
       "total_recovered": "467",
@@ -661,7 +661,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1587600000000",
+      "Date": "23/04/2020",
       "new_cases": "0",
       "total_cases": "550",
       "total_recovered": "473",
@@ -671,7 +671,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1587686400000",
+      "Date": "24/04/2020",
       "new_cases": "1",
       "total_cases": "551",
       "total_recovered": "483",
@@ -681,7 +681,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1587772800000",
+      "Date": "25/04/2020",
       "new_cases": "0",
       "total_cases": "551",
       "total_recovered": "491",
@@ -691,7 +691,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1587859200000",
+      "Date": "26/04/2020",
       "new_cases": "1",
       "total_cases": "552",
       "total_recovered": "491",
@@ -701,7 +701,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1587945600000",
+      "Date": "27/04/2020",
       "new_cases": "0",
       "total_cases": "552",
       "total_recovered": "499",
@@ -711,7 +711,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1588032000000",
+      "Date": "28/04/2020",
       "new_cases": "0",
       "total_cases": "552",
       "total_recovered": "504",
@@ -721,7 +721,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1588118400000",
+      "Date": "29/04/2020",
       "new_cases": "0",
       "total_cases": "552",
       "total_recovered": "511",
@@ -731,7 +731,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1588204800000",
+      "Date": "30/04/2020",
       "new_cases": "0",
       "total_cases": "552",
       "total_recovered": "515",
@@ -741,7 +741,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1588291200000",
+      "Date": "1/05/2020",
       "new_cases": "0",
       "total_cases": "552",
       "total_recovered": "523",
@@ -751,7 +751,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1588377600000",
+      "Date": "2/05/2020",
       "new_cases": "0",
       "total_cases": "552",
       "total_recovered": "527",
@@ -761,7 +761,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1588464000000",
+      "Date": "3/05/2020",
       "new_cases": "0",
       "total_cases": "552",
       "total_recovered": "529",
@@ -771,7 +771,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1588550400000",
+      "Date": "4/05/2020",
       "new_cases": "0",
       "total_cases": "552",
       "total_recovered": "530",
@@ -781,7 +781,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1588636800000",
+      "Date": "5/05/2020",
       "new_cases": "0",
       "total_cases": "552",
       "total_recovered": "530",
@@ -791,7 +791,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1588723200000",
+      "Date": "6/05/2020",
       "new_cases": "1",
       "total_cases": "553",
       "total_recovered": "532",
@@ -801,7 +801,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1588809600000",
+      "Date": "7/05/2020",
       "new_cases": "0",
       "total_cases": "553",
       "total_recovered": "535",
@@ -811,7 +811,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1588896000000",
+      "Date": "8/05/2020",
       "new_cases": "0",
       "total_cases": "553",
       "total_recovered": "537",
@@ -821,7 +821,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1588982400000",
+      "Date": "9/05/2020",
       "new_cases": "0",
       "total_cases": "553",
       "total_recovered": "537",
@@ -831,7 +831,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1589068800000",
+      "Date": "10/05/2020",
       "new_cases": "2",
       "total_cases": "555",
       "total_recovered": "537",
@@ -841,7 +841,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1589155200000",
+      "Date": "11/05/2020",
       "new_cases": "0",
       "total_cases": "555",
       "total_recovered": "538",
@@ -851,7 +851,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1589241600000",
+      "Date": "12/05/2020",
       "new_cases": "1",
       "total_cases": "556",
       "total_recovered": "539",
@@ -861,7 +861,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1589328000000",
+      "Date": "13/05/2020",
       "new_cases": "1",
       "total_cases": "557",
       "total_recovered": "539",
@@ -871,7 +871,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1589414400000",
+      "Date": "14/05/2020",
       "new_cases": "1",
       "total_cases": "558",
       "total_recovered": "539",
@@ -881,7 +881,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1589500800000",
+      "Date": "15/05/2020",
       "new_cases": "5",
       "total_cases": "563",
       "total_recovered": "540",
@@ -891,7 +891,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1589587200000",
+      "Date": "16/05/2020",
       "new_cases": "1",
       "total_cases": "564",
       "total_recovered": "541",
@@ -901,7 +901,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1589673600000",
+      "Date": "17/05/2020",
       "new_cases": "1",
       "total_cases": "565",
       "total_recovered": "543",
@@ -911,7 +911,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1589760000000",
+      "Date": "18/05/2020",
       "new_cases": "4",
       "total_cases": "569",
       "total_recovered": "543",
@@ -921,7 +921,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1589846400000",
+      "Date": "19/05/2020",
       "new_cases": "0",
       "total_cases": "569",
       "total_recovered": "543",
@@ -931,7 +931,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1589932800000",
+      "Date": "20/05/2020",
       "new_cases": "2",
       "total_cases": "571",
       "total_recovered": "543",
@@ -941,7 +941,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1590019200000",
+      "Date": "21/05/2020",
       "new_cases": "5",
       "total_cases": "576",
       "total_recovered": "543",
@@ -951,7 +951,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1590105600000",
+      "Date": "22/05/2020",
       "new_cases": "2",
       "total_cases": "578",
       "total_recovered": "544",
@@ -961,7 +961,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1590192000000",
+      "Date": "23/05/2020",
       "new_cases": "1",
       "total_cases": "579",
       "total_recovered": "544",
@@ -971,7 +971,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1590278400000",
+      "Date": "24/05/2020",
       "new_cases": "2",
       "total_cases": "581",
       "total_recovered": "544",
@@ -981,7 +981,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1590364800000",
+      "Date": "25/05/2020",
       "new_cases": "2",
       "total_cases": "583",
       "total_recovered": "544",
@@ -991,7 +991,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1590451200000",
+      "Date": "26/05/2020",
       "new_cases": "0",
       "total_cases": "583",
       "total_recovered": "544",
@@ -1001,7 +1001,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1590537600000",
+      "Date": "27/05/2020",
       "new_cases": "0",
       "total_cases": "583",
       "total_recovered": "545",
@@ -1011,7 +1011,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1590624000000",
+      "Date": "28/05/2020",
       "new_cases": "1",
       "total_cases": "584",
       "total_recovered": "546",
@@ -1021,7 +1021,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1590710400000",
+      "Date": "29/05/2020",
       "new_cases": "1",
       "total_cases": "585",
       "total_recovered": "546",
@@ -1031,7 +1031,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1590796800000",
+      "Date": "30/05/2020",
       "new_cases": "0",
       "total_cases": "585",
       "total_recovered": "546",
@@ -1041,7 +1041,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1590883200000",
+      "Date": "31/05/2020",
       "new_cases": "0",
       "total_cases": "585",
       "total_recovered": "546",
@@ -1051,7 +1051,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1590969600000",
+      "Date": "1/06/2020",
       "new_cases": "1",
       "total_cases": "586",
       "total_recovered": "546",
@@ -1061,7 +1061,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1591056000000",
+      "Date": "2/06/2020",
       "new_cases": "0",
       "total_cases": "586",
       "total_recovered": "550",
@@ -1071,7 +1071,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1591142400000",
+      "Date": "3/06/2020",
       "new_cases": "5",
       "total_cases": "591",
       "total_recovered": "550",
@@ -1081,7 +1081,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1591228800000",
+      "Date": "4/06/2020",
       "new_cases": "0",
       "total_cases": "591",
       "total_recovered": "550",
@@ -1091,7 +1091,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1591315200000",
+      "Date": "5/06/2020",
       "new_cases": "0",
       "total_cases": "591",
       "total_recovered": "550",
@@ -1101,7 +1101,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1591401600000",
+      "Date": "6/06/2020",
       "new_cases": "0",
       "total_cases": "591",
       "total_recovered": "550",
@@ -1111,7 +1111,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1591488000000",
+      "Date": "7/06/2020",
       "new_cases": "0",
       "total_cases": "591",
       "total_recovered": "550",
@@ -1121,7 +1121,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1591574400000",
+      "Date": "8/06/2020",
       "new_cases": "0",
       "total_cases": "591",
       "total_recovered": "551",
@@ -1131,7 +1131,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1591660800000",
+      "Date": "9/06/2020",
       "new_cases": "0",
       "total_cases": "591",
       "total_recovered": "553",
@@ -1141,7 +1141,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1591747200000",
+      "Date": "10/06/2020",
       "new_cases": "2",
       "total_cases": "593",
       "total_recovered": "561",
@@ -1151,7 +1151,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1591833600000",
+      "Date": "11/06/2020",
       "new_cases": "0",
       "total_cases": "593",
       "total_recovered": "564",
@@ -1161,7 +1161,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1591920000000",
+      "Date": "12/06/2020",
       "new_cases": "0",
       "total_cases": "593",
       "total_recovered": "565",
@@ -1171,7 +1171,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1592006400000",
+      "Date": "13/06/2020",
       "new_cases": "0",
       "total_cases": "593",
       "total_recovered": "572",
@@ -1181,7 +1181,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1592092800000",
+      "Date": "14/06/2020",
       "new_cases": "1",
       "total_cases": "594",
       "total_recovered": "581",
@@ -1191,7 +1191,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1592179200000",
+      "Date": "15/06/2020",
       "new_cases": "0",
       "total_cases": "594",
       "total_recovered": "581",
@@ -1201,7 +1201,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1592265600000",
+      "Date": "16/06/2020",
       "new_cases": "0",
       "total_cases": "594",
       "total_recovered": "582",
@@ -1211,7 +1211,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1592352000000",
+      "Date": "17/06/2020",
       "new_cases": "0",
       "total_cases": "594",
       "total_recovered": "582",
@@ -1221,7 +1221,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1592438400000",
+      "Date": "18/06/2020",
       "new_cases": "1",
       "total_cases": "595",
       "total_recovered": "582",
@@ -1231,7 +1231,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1592524800000",
+      "Date": "19/06/2020",
       "new_cases": "1",
       "total_cases": "596",
       "total_recovered": "582",
@@ -1241,7 +1241,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1592611200000",
+      "Date": "20/06/2020",
       "new_cases": "0",
       "total_cases": "596",
       "total_recovered": "582",
@@ -1251,7 +1251,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1592697600000",
+      "Date": "21/06/2020",
       "new_cases": "1",
       "total_cases": "597",
       "total_recovered": "582",
@@ -1261,7 +1261,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1592784000000",
+      "Date": "22/06/2020",
       "new_cases": "0",
       "total_cases": "597",
       "total_recovered": "583",
@@ -1271,7 +1271,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1592870400000",
+      "Date": "23/06/2020",
       "new_cases": "0",
       "total_cases": "597",
       "total_recovered": "583",
@@ -1281,7 +1281,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1592956800000",
+      "Date": "24/06/2020",
       "new_cases": "0",
       "total_cases": "597",
       "total_recovered": "583",
@@ -1291,7 +1291,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1593043200000",
+      "Date": "25/06/2020",
       "new_cases": "0",
       "total_cases": "597",
       "total_recovered": "583",
@@ -1301,7 +1301,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1593129600000",
+      "Date": "26/06/2020",
       "new_cases": "2",
       "total_cases": "599",
       "total_recovered": "583",
@@ -1311,7 +1311,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1593216000000",
+      "Date": "27/06/2020",
       "new_cases": "0",
       "total_cases": "599",
       "total_recovered": "583",
@@ -1321,7 +1321,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1593302400000",
+      "Date": "28/06/2020",
       "new_cases": "0",
       "total_cases": "599",
       "total_recovered": "584",
@@ -1331,7 +1331,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1593388800000",
+      "Date": "29/06/2020",
       "new_cases": "0",
       "total_cases": "599",
       "total_recovered": "586",
@@ -1341,7 +1341,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1593475200000",
+      "Date": "30/06/2020",
       "new_cases": "0",
       "total_cases": "599",
       "total_recovered": "586",
@@ -1351,7 +1351,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1593561600000",
+      "Date": "1/07/2020",
       "new_cases": "2",
       "total_cases": "601",
       "total_recovered": "586",
@@ -1361,7 +1361,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1593648000000",
+      "Date": "2/07/2020",
       "new_cases": "1",
       "total_cases": "602",
       "total_recovered": "586",
@@ -1371,7 +1371,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1593734400000",
+      "Date": "3/07/2020",
       "new_cases": "6",
       "total_cases": "608",
       "total_recovered": "587",
@@ -1381,7 +1381,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1593820800000",
+      "Date": "4/07/2020",
       "new_cases": "2",
       "total_cases": "610",
       "total_recovered": "587",
@@ -1391,7 +1391,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1593907200000",
+      "Date": "5/07/2020",
       "new_cases": "0",
       "total_cases": "610",
       "total_recovered": "587",
@@ -1401,7 +1401,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1593993600000",
+      "Date": "6/07/2020",
       "new_cases": "6",
       "total_cases": "616",
       "total_recovered": "587",
@@ -1411,7 +1411,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1594080000000",
+      "Date": "7/07/2020",
       "new_cases": "2",
       "total_cases": "618",
       "total_recovered": "588",
@@ -1421,7 +1421,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1594166400000",
+      "Date": "8/07/2020",
       "new_cases": "3",
       "total_cases": "621",
       "total_recovered": "588",
@@ -1431,7 +1431,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1594252800000",
+      "Date": "9/07/2020",
       "new_cases": "3",
       "total_cases": "624",
       "total_recovered": "588",
@@ -1441,7 +1441,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1594339200000",
+      "Date": "10/07/2020",
       "new_cases": "1",
       "total_cases": "625",
       "total_recovered": "588",
@@ -1451,7 +1451,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1594425600000",
+      "Date": "11/07/2020",
       "new_cases": "0",
       "total_cases": "625",
       "total_recovered": "589",
@@ -1461,7 +1461,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1594512000000",
+      "Date": "12/07/2020",
       "new_cases": "1",
       "total_cases": "626",
       "total_recovered": "590",
@@ -1471,7 +1471,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1594598400000",
+      "Date": "13/07/2020",
       "new_cases": "8",
       "total_cases": "634",
       "total_recovered": "590",
@@ -1481,7 +1481,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1594684800000",
+      "Date": "14/07/2020",
       "new_cases": "2",
       "total_cases": "636",
       "total_recovered": "591",
@@ -1491,7 +1491,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1594771200000",
+      "Date": "15/07/2020",
       "new_cases": "0",
       "total_cases": "636",
       "total_recovered": "594",
@@ -1501,7 +1501,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1594857600000",
+      "Date": "16/07/2020",
       "new_cases": "0",
       "total_cases": "636",
       "total_recovered": "597",
@@ -1511,7 +1511,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1594944000000",
+      "Date": "17/07/2020",
       "new_cases": "0",
       "total_cases": "636",
       "total_recovered": "599",
@@ -1521,7 +1521,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1595030400000",
+      "Date": "18/07/2020",
       "new_cases": "1",
       "total_cases": "637",
       "total_recovered": "601",
@@ -1531,7 +1531,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1595116800000",
+      "Date": "19/07/2020",
       "new_cases": "0",
       "total_cases": "637",
       "total_recovered": "605",
@@ -1541,7 +1541,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1595203200000",
+      "Date": "20/07/2020",
       "new_cases": "0",
       "total_cases": "637",
       "total_recovered": "608",
@@ -1551,7 +1551,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1595289600000",
+      "Date": "21/07/2020",
       "new_cases": "0",
       "total_cases": "637",
       "total_recovered": "609",
@@ -1561,7 +1561,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1595376000000",
+      "Date": "22/07/2020",
       "new_cases": "0",
       "total_cases": "637",
       "total_recovered": "611",
@@ -1571,7 +1571,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1595462400000",
+      "Date": "23/07/2020",
       "new_cases": "0",
       "total_cases": "637",
       "total_recovered": "613",
@@ -1581,7 +1581,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1595548800000",
+      "Date": "24/07/2020",
       "new_cases": "1",
       "total_cases": "638",
       "total_recovered": "620",
@@ -1591,7 +1591,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1595635200000",
+      "Date": "25/07/2020",
       "new_cases": "0",
       "total_cases": "638",
       "total_recovered": "621",
@@ -1601,7 +1601,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1595721600000",
+      "Date": "26/07/2020",
       "new_cases": "1",
       "total_cases": "639",
       "total_recovered": "624",
@@ -1611,7 +1611,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1595808000000",
+      "Date": "27/07/2020",
       "new_cases": "2",
       "total_cases": "641",
       "total_recovered": "624",
@@ -1621,7 +1621,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1595894400000",
+      "Date": "28/07/2020",
       "new_cases": "1",
       "total_cases": "642",
       "total_recovered": "624",
@@ -1631,7 +1631,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1595980800000",
+      "Date": "29/07/2020",
       "new_cases": "0",
       "total_cases": "642",
       "total_recovered": "624",
@@ -1641,7 +1641,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1596067200000",
+      "Date": "30/07/2020",
       "new_cases": "0",
       "total_cases": "642",
       "total_recovered": "624",
@@ -1651,7 +1651,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1596153600000",
+      "Date": "31/07/2020",
       "new_cases": "0",
       "total_cases": "642",
       "total_recovered": "624",
@@ -1661,7 +1661,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1596240000000",
+      "Date": "1/08/2020",
       "new_cases": "0",
       "total_cases": "642",
       "total_recovered": "624",
@@ -1671,7 +1671,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1596326400000",
+      "Date": "2/08/2020",
       "new_cases": "0",
       "total_cases": "642",
       "total_recovered": "624",
@@ -1681,7 +1681,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1596412800000",
+      "Date": "3/08/2020",
       "new_cases": "0",
       "total_cases": "642",
       "total_recovered": "626",
@@ -1691,7 +1691,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1596499200000",
+      "Date": "4/08/2020",
       "new_cases": "0",
       "total_cases": "642",
       "total_recovered": "626",
@@ -1701,7 +1701,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1596585600000",
+      "Date": "5/08/2020",
       "new_cases": "0",
       "total_cases": "642",
       "total_recovered": "626",
@@ -1711,7 +1711,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1596672000000",
+      "Date": "6/08/2020",
       "new_cases": "0",
       "total_cases": "642",
       "total_recovered": "626",
@@ -1721,7 +1721,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1596758400000",
+      "Date": "7/08/2020",
       "new_cases": "0",
       "total_cases": "642",
       "total_recovered": "627",
@@ -1731,7 +1731,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1596844800000",
+      "Date": "8/08/2020",
       "new_cases": "0",
       "total_cases": "642",
       "total_recovered": "628",
@@ -1741,7 +1741,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1596931200000",
+      "Date": "9/08/2020",
       "new_cases": "2",
       "total_cases": "644",
       "total_recovered": "629",
@@ -1751,7 +1751,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1597017600000",
+      "Date": "10/08/2020",
       "new_cases": "1",
       "total_cases": "645",
       "total_recovered": "630",
@@ -1761,7 +1761,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1597104000000",
+      "Date": "11/08/2020",
       "new_cases": "0",
       "total_cases": "645",
       "total_recovered": "630",
@@ -1771,7 +1771,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1597190400000",
+      "Date": "12/08/2020",
       "new_cases": "1",
       "total_cases": "646",
       "total_recovered": "632",
@@ -1781,7 +1781,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1597276800000",
+      "Date": "13/08/2020",
       "new_cases": "0",
       "total_cases": "646",
       "total_recovered": "632",
@@ -1791,7 +1791,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1597363200000",
+      "Date": "14/08/2020",
       "new_cases": "0",
       "total_cases": "646",
       "total_recovered": "632",
@@ -1801,7 +1801,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1597449600000",
+      "Date": "15/08/2020",
       "new_cases": "1",
       "total_cases": "647",
       "total_recovered": "632",
@@ -1811,7 +1811,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1597536000000",
+      "Date": "16/08/2020",
       "new_cases": "0",
       "total_cases": "647",
       "total_recovered": "633",
@@ -1821,7 +1821,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1597622400000",
+      "Date": "17/08/2020",
       "new_cases": "4",
       "total_cases": "651",
       "total_recovered": "633",
@@ -1831,7 +1831,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1597708800000",
+      "Date": "18/08/2020",
       "new_cases": "0",
       "total_cases": "651",
       "total_recovered": "633",
@@ -1841,7 +1841,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1597795200000",
+      "Date": "19/08/2020",
       "new_cases": "0",
       "total_cases": "651",
       "total_recovered": "633",
@@ -1851,7 +1851,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1597881600000",
+      "Date": "20/08/2020",
       "new_cases": "1",
       "total_cases": "652",
       "total_recovered": "633",
@@ -1861,7 +1861,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1597968000000",
+      "Date": "21/08/2020",
       "new_cases": "0",
       "total_cases": "652",
       "total_recovered": "633",
@@ -1871,7 +1871,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1598054400000",
+      "Date": "22/08/2020",
       "new_cases": "1",
       "total_cases": "653",
       "total_recovered": "633",
@@ -1881,7 +1881,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1598140800000",
+      "Date": "23/08/2020",
       "new_cases": "0",
       "total_cases": "653",
       "total_recovered": "634",
@@ -1891,7 +1891,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1598227200000",
+      "Date": "24/08/2020",
       "new_cases": "0",
       "total_cases": "653",
       "total_recovered": "635",
@@ -1901,7 +1901,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1598313600000",
+      "Date": "25/08/2020",
       "new_cases": "0",
       "total_cases": "653",
       "total_recovered": "635",
@@ -1911,7 +1911,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1598400000000",
+      "Date": "26/08/2020",
       "new_cases": "2",
       "total_cases": "655",
       "total_recovered": "636",
@@ -1921,7 +1921,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1598486400000",
+      "Date": "27/08/2020",
       "new_cases": "0",
       "total_cases": "655",
       "total_recovered": "637",
@@ -1931,7 +1931,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1598572800000",
+      "Date": "28/08/2020",
       "new_cases": "0",
       "total_cases": "655",
       "total_recovered": "637",
@@ -1941,7 +1941,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1598659200000",
+      "Date": "29/08/2020",
       "new_cases": "0",
       "total_cases": "655",
       "total_recovered": "637",
@@ -1951,7 +1951,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1598745600000",
+      "Date": "30/08/2020",
       "new_cases": "0",
       "total_cases": "655",
       "total_recovered": "641",
@@ -1961,7 +1961,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1598832000000",
+      "Date": "31/08/2020",
       "new_cases": "0",
       "total_cases": "655",
       "total_recovered": "641",
@@ -1971,7 +1971,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1598918400000",
+      "Date": "1/09/2020",
       "new_cases": "1",
       "total_cases": "656",
       "total_recovered": "641",
@@ -1981,7 +1981,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1599004800000",
+      "Date": "2/09/2020",
       "new_cases": "0",
       "total_cases": "656",
       "total_recovered": "641",
@@ -1991,7 +1991,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1599091200000",
+      "Date": "3/09/2020",
       "new_cases": "0",
       "total_cases": "656",
       "total_recovered": "643",
@@ -2001,7 +2001,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1599177600000",
+      "Date": "4/09/2020",
       "new_cases": "0",
       "total_cases": "656",
       "total_recovered": "644",
@@ -2011,7 +2011,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1599264000000",
+      "Date": "5/09/2020",
       "new_cases": "1",
       "total_cases": "657",
       "total_recovered": "644",
@@ -2021,7 +2021,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1599350400000",
+      "Date": "6/09/2020",
       "new_cases": "1",
       "total_cases": "658",
       "total_recovered": "644",
@@ -2031,7 +2031,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1599436800000",
+      "Date": "7/09/2020",
       "new_cases": "0",
       "total_cases": "658",
       "total_recovered": "644",
@@ -2041,7 +2041,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1599523200000",
+      "Date": "8/09/2020",
       "new_cases": "1",
       "total_cases": "659",
       "total_recovered": "644",
@@ -2051,7 +2051,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1599609600000",
+      "Date": "9/09/2020",
       "new_cases": "0",
       "total_cases": "659",
       "total_recovered": "646",
@@ -2061,7 +2061,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1599696000000",
+      "Date": "10/09/2020",
       "new_cases": "0",
       "total_cases": "659",
       "total_recovered": "646",
@@ -2071,7 +2071,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1599782400000",
+      "Date": "11/09/2020",
       "new_cases": "0",
       "total_cases": "659",
       "total_recovered": "646",
@@ -2081,7 +2081,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1599868800000",
+      "Date": "12/09/2020",
       "new_cases": "1",
       "total_cases": "660",
       "total_recovered": "646",
@@ -2091,7 +2091,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1599955200000",
+      "Date": "13/09/2020",
       "new_cases": "0",
       "total_cases": "660",
       "total_recovered": "646",
@@ -2101,7 +2101,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1600041600000",
+      "Date": "14/09/2020",
       "new_cases": "1",
       "total_cases": "661",
       "total_recovered": "646",
@@ -2111,7 +2111,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1600128000000",
+      "Date": "15/09/2020",
       "new_cases": "1",
       "total_cases": "662",
       "total_recovered": "646",
@@ -2121,7 +2121,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1600214400000",
+      "Date": "16/09/2020",
       "new_cases": "0",
       "total_cases": "662",
       "total_recovered": "646",
@@ -2131,7 +2131,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1600300800000",
+      "Date": "17/09/2020",
       "new_cases": "2",
       "total_cases": "664",
       "total_recovered": "648",
@@ -2141,7 +2141,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1600387200000",
+      "Date": "18/09/2020",
       "new_cases": "2",
       "total_cases": "666",
       "total_recovered": "649",
@@ -2151,7 +2151,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1600473600000",
+      "Date": "19/09/2020",
       "new_cases": "0",
       "total_cases": "666",
       "total_recovered": "649",
@@ -2161,7 +2161,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1600560000000",
+      "Date": "20/09/2020",
       "new_cases": "2",
       "total_cases": "668",
       "total_recovered": "650",
@@ -2171,7 +2171,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1600646400000",
+      "Date": "21/09/2020",
       "new_cases": "3",
       "total_cases": "671",
       "total_recovered": "650",
@@ -2181,7 +2181,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1600732800000",
+      "Date": "22/09/2020",
       "new_cases": "2",
       "total_cases": "673",
       "total_recovered": "650",
@@ -2191,7 +2191,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1600819200000",
+      "Date": "23/09/2020",
       "new_cases": "2",
       "total_cases": "675",
       "total_recovered": "650",
@@ -2201,7 +2201,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1600905600000",
+      "Date": "24/09/2020",
       "new_cases": "3",
       "total_cases": "678",
       "total_recovered": "650",
@@ -2211,7 +2211,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1600992000000",
+      "Date": "25/09/2020",
       "new_cases": "3",
       "total_cases": "681",
       "total_recovered": "650",
@@ -2221,7 +2221,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1601078400000",
+      "Date": "26/09/2020",
       "new_cases": "3",
       "total_cases": "684",
       "total_recovered": "650",
@@ -2231,7 +2231,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1601164800000",
+      "Date": "27/09/2020",
       "new_cases": "0",
       "total_cases": "684",
       "total_recovered": "651",
@@ -2241,7 +2241,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1601251200000",
+      "Date": "28/09/2020",
       "new_cases": "0",
       "total_cases": "684",
       "total_recovered": "653",
@@ -2251,7 +2251,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1601337600000",
+      "Date": "29/09/2020",
       "new_cases": "1",
       "total_cases": "685",
       "total_recovered": "653",
@@ -2261,7 +2261,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1601424000000",
+      "Date": "30/09/2020",
       "new_cases": "2",
       "total_cases": "687",
       "total_recovered": "653",
@@ -2271,7 +2271,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1601510400000",
+      "Date": "1/10/2020",
       "new_cases": "0",
       "total_cases": "687",
       "total_recovered": "654",
@@ -2281,7 +2281,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1601596800000",
+      "Date": "2/10/2020",
       "new_cases": "0",
       "total_cases": "687",
       "total_recovered": "655",
@@ -2291,7 +2291,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1601683200000",
+      "Date": "3/10/2020",
       "new_cases": "0",
       "total_cases": "687",
       "total_recovered": "655",
@@ -2301,7 +2301,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1601769600000",
+      "Date": "4/10/2020",
       "new_cases": "1",
       "total_cases": "688",
       "total_recovered": "660",
@@ -2311,7 +2311,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1601856000000",
+      "Date": "5/10/2020",
       "new_cases": "3",
       "total_cases": "691",
       "total_recovered": "662",
@@ -2321,7 +2321,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1601942400000",
+      "Date": "6/10/2020",
       "new_cases": "1",
       "total_cases": "692",
       "total_recovered": "664",
@@ -2331,7 +2331,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1602028800000",
+      "Date": "7/10/2020",
       "new_cases": "2",
       "total_cases": "694",
       "total_recovered": "670",
@@ -2341,7 +2341,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1602115200000",
+      "Date": "8/10/2020",
       "new_cases": "1",
       "total_cases": "695",
       "total_recovered": "670",
@@ -2351,7 +2351,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1602201600000",
+      "Date": "9/10/2020",
       "new_cases": "2",
       "total_cases": "697",
       "total_recovered": "670",
@@ -2361,7 +2361,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1602288000000",
+      "Date": "10/10/2020",
       "new_cases": "2",
       "total_cases": "699",
       "total_recovered": "670",
@@ -2371,7 +2371,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1602374400000",
+      "Date": "11/10/2020",
       "new_cases": "8",
       "total_cases": "707",
       "total_recovered": "670",
@@ -2381,7 +2381,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1602460800000",
+      "Date": "12/10/2020",
       "new_cases": "1",
       "total_cases": "708",
       "total_recovered": "671",
@@ -2391,7 +2391,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1602547200000",
+      "Date": "13/10/2020",
       "new_cases": "6",
       "total_cases": "714",
       "total_recovered": "676",
@@ -2401,7 +2401,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1602633600000",
+      "Date": "14/10/2020",
       "new_cases": "2",
       "total_cases": "716",
       "total_recovered": "676",
@@ -2411,7 +2411,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1602720000000",
+      "Date": "15/10/2020",
       "new_cases": "2",
       "total_cases": "718",
       "total_recovered": "676",
@@ -2421,7 +2421,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1602806400000",
+      "Date": "16/10/2020",
       "new_cases": "6",
       "total_cases": "724",
       "total_recovered": "683",
@@ -2431,7 +2431,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1602892800000",
+      "Date": "17/10/2020",
       "new_cases": "3",
       "total_cases": "727",
       "total_recovered": "683",
@@ -2441,7 +2441,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1602979200000",
+      "Date": "18/10/2020",
       "new_cases": "14",
       "total_cases": "741",
       "total_recovered": "685",
@@ -2451,7 +2451,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1603065600000",
+      "Date": "19/10/2020",
       "new_cases": "2",
       "total_cases": "743",
       "total_recovered": "685",
@@ -2461,7 +2461,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1603152000000",
+      "Date": "20/10/2020",
       "new_cases": "7",
       "total_cases": "750",
       "total_recovered": "685",
@@ -2471,7 +2471,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1603238400000",
+      "Date": "21/10/2020",
       "new_cases": "4",
       "total_cases": "754",
       "total_recovered": "690",
@@ -2481,7 +2481,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1603324800000",
+      "Date": "22/10/2020",
       "new_cases": "3",
       "total_cases": "757",
       "total_recovered": "690",
@@ -2491,7 +2491,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1603411200000",
+      "Date": "23/10/2020",
       "new_cases": "4",
       "total_cases": "761",
       "total_recovered": "692",
@@ -2501,7 +2501,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1603497600000",
+      "Date": "24/10/2020",
       "new_cases": "1",
       "total_cases": "762",
       "total_recovered": "692",
@@ -2511,7 +2511,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1603584000000",
+      "Date": "25/10/2020",
       "new_cases": "2",
       "total_cases": "764",
       "total_recovered": "694",
@@ -2521,7 +2521,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1603670400000",
+      "Date": "26/10/2020",
       "new_cases": "2",
       "total_cases": "766",
       "total_recovered": "700",
@@ -2531,7 +2531,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1603756800000",
+      "Date": "27/10/2020",
       "new_cases": "1",
       "total_cases": "767",
       "total_recovered": "700",
@@ -2541,7 +2541,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1603843200000",
+      "Date": "28/10/2020",
       "new_cases": "1",
       "total_cases": "768",
       "total_recovered": "706",
@@ -2551,7 +2551,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1603929600000",
+      "Date": "29/10/2020",
       "new_cases": "1",
       "total_cases": "769",
       "total_recovered": "708",
@@ -2561,7 +2561,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1604016000000",
+      "Date": "30/10/2020",
       "new_cases": "0",
       "total_cases": "769",
       "total_recovered": "712",
@@ -2571,7 +2571,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1604102400000",
+      "Date": "31/10/2020",
       "new_cases": "1",
       "total_cases": "770",
       "total_recovered": "715",
@@ -2581,7 +2581,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1604188800000",
+      "Date": "1/11/2020",
       "new_cases": "1",
       "total_cases": "771",
       "total_recovered": "718",
@@ -2591,7 +2591,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1604275200000",
+      "Date": "2/11/2020",
       "new_cases": "0",
       "total_cases": "771",
       "total_recovered": "722",
@@ -2601,7 +2601,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1604361600000",
+      "Date": "3/11/2020",
       "new_cases": "4",
       "total_cases": "775",
       "total_recovered": "738",
@@ -2611,7 +2611,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1604448000000",
+      "Date": "4/11/2020",
       "new_cases": "1",
       "total_cases": "776",
       "total_recovered": "748",
@@ -2621,7 +2621,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1604534400000",
+      "Date": "5/11/2020",
       "new_cases": "0",
       "total_cases": "776",
       "total_recovered": "750",
@@ -2631,7 +2631,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1604620800000",
+      "Date": "6/11/2020",
       "new_cases": "0",
       "total_cases": "776",
       "total_recovered": "751",
@@ -2641,7 +2641,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1604707200000",
+      "Date": "7/11/2020",
       "new_cases": "1",
       "total_cases": "777",
       "total_recovered": "755",
@@ -2651,7 +2651,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1604793600000",
+      "Date": "8/11/2020",
       "new_cases": "2",
       "total_cases": "779",
       "total_recovered": "757",
@@ -2661,7 +2661,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1604880000000",
+      "Date": "9/11/2020",
       "new_cases": "2",
       "total_cases": "781",
       "total_recovered": "757",
@@ -2671,7 +2671,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1604966400000",
+      "Date": "10/11/2020",
       "new_cases": "3",
       "total_cases": "784",
       "total_recovered": "757",
@@ -2681,7 +2681,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1605052800000",
+      "Date": "11/11/2020",
       "new_cases": "1",
       "total_cases": "785",
       "total_recovered": "757",
@@ -2691,7 +2691,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1605139200000",
+      "Date": "12/11/2020",
       "new_cases": "2",
       "total_cases": "787",
       "total_recovered": "760",
@@ -2701,7 +2701,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1605225600000",
+      "Date": "13/11/2020",
       "new_cases": "3",
       "total_cases": "790",
       "total_recovered": "761",
@@ -2711,7 +2711,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1605312000000",
+      "Date": "14/11/2020",
       "new_cases": "2",
       "total_cases": "792",
       "total_recovered": "761",
@@ -2721,7 +2721,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1605398400000",
+      "Date": "15/11/2020",
       "new_cases": "0",
       "total_cases": "792",
       "total_recovered": "765",
@@ -2731,7 +2731,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1605484800000",
+      "Date": "16/11/2020",
       "new_cases": "2",
       "total_cases": "794",
       "total_recovered": "766",
@@ -2741,7 +2741,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1605571200000",
+      "Date": "17/11/2020",
       "new_cases": "0",
       "total_cases": "794",
       "total_recovered": "767",
@@ -2751,7 +2751,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1605657600000",
+      "Date": "18/11/2020",
       "new_cases": "3",
       "total_cases": "797",
       "total_recovered": "767",
@@ -2761,7 +2761,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1605744000000",
+      "Date": "19/11/2020",
       "new_cases": "1",
       "total_cases": "798",
       "total_recovered": "767",
@@ -2771,7 +2771,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1605830400000",
+      "Date": "20/11/2020",
       "new_cases": "5",
       "total_cases": "803",
       "total_recovered": "767",
@@ -2781,7 +2781,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1605916800000",
+      "Date": "21/11/2020",
       "new_cases": "3",
       "total_cases": "806",
       "total_recovered": "772",
@@ -2791,7 +2791,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1606003200000",
+      "Date": "22/11/2020",
       "new_cases": "4",
       "total_cases": "810",
       "total_recovered": "772",
@@ -2801,7 +2801,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1606089600000",
+      "Date": "23/11/2020",
       "new_cases": "1",
       "total_cases": "811",
       "total_recovered": "774",
@@ -2811,7 +2811,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1606176000000",
+      "Date": "24/11/2020",
       "new_cases": "6",
       "total_cases": "817",
       "total_recovered": "774",
@@ -2821,7 +2821,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1606262400000",
+      "Date": "25/11/2020",
       "new_cases": "0",
       "total_cases": "817",
       "total_recovered": "774",
@@ -2831,7 +2831,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1606348800000",
+      "Date": "26/11/2020",
       "new_cases": "1",
       "total_cases": "818",
       "total_recovered": "776",
@@ -2841,7 +2841,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1606435200000",
+      "Date": "27/11/2020",
       "new_cases": "0",
       "total_cases": "818",
       "total_recovered": "778",
@@ -2851,7 +2851,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1606521600000",
+      "Date": "28/11/2020",
       "new_cases": "1",
       "total_cases": "819",
       "total_recovered": "784",
@@ -2861,7 +2861,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1606608000000",
+      "Date": "29/11/2020",
       "new_cases": "3",
       "total_cases": "822",
       "total_recovered": "0",
@@ -2871,7 +2871,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1606694400000",
+      "Date": "30/11/2020",
       "new_cases": "3",
       "total_cases": "825",
       "total_recovered": "788",
@@ -2881,7 +2881,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1606780800000",
+      "Date": "1/12/2020",
       "new_cases": "3",
       "total_cases": "828",
       "total_recovered": "789",
@@ -2891,7 +2891,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1606867200000",
+      "Date": "2/12/2020",
       "new_cases": "1",
       "total_cases": "829",
       "total_recovered": "795",
@@ -2901,7 +2901,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1606953600000",
+      "Date": "3/12/2020",
       "new_cases": "1",
       "total_cases": "830",
       "total_recovered": "798",
@@ -2911,7 +2911,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1607040000000",
+      "Date": "4/12/2020",
       "new_cases": "2",
       "total_cases": "832",
       "total_recovered": "802",
@@ -2921,7 +2921,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1607126400000",
+      "Date": "5/12/2020",
       "new_cases": "0",
       "total_cases": "832",
       "total_recovered": "805",
@@ -2931,7 +2931,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1607212800000",
+      "Date": "6/12/2020",
       "new_cases": "1",
       "total_cases": "833",
       "total_recovered": "808",
@@ -2941,7 +2941,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1607299200000",
+      "Date": "7/12/2020",
       "new_cases": "1",
       "total_cases": "834",
       "total_recovered": "808",
@@ -2951,7 +2951,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1607385600000",
+      "Date": "8/12/2020",
       "new_cases": "0",
       "total_cases": "834",
       "total_recovered": "810",
@@ -2961,7 +2961,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1607472000000",
+      "Date": "9/12/2020",
       "new_cases": "3",
       "total_cases": "837",
       "total_recovered": "810",
@@ -2971,7 +2971,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1607558400000",
+      "Date": "10/12/2020",
       "new_cases": "0",
       "total_cases": "837",
       "total_recovered": "811",
@@ -2981,7 +2981,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1607644800000",
+      "Date": "11/12/2020",
       "new_cases": "1",
       "total_cases": "838",
       "total_recovered": "813",
@@ -2991,7 +2991,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1607731200000",
+      "Date": "12/12/2020",
       "new_cases": "1",
       "total_cases": "839",
       "total_recovered": "815",
@@ -3001,7 +3001,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1607817600000",
+      "Date": "13/12/2020",
       "new_cases": "1",
       "total_cases": "840",
       "total_recovered": "816",
@@ -3011,7 +3011,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1607904000000",
+      "Date": "14/12/2020",
       "new_cases": "4",
       "total_cases": "844",
       "total_recovered": "818",
@@ -3021,7 +3021,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1607990400000",
+      "Date": "15/12/2020",
       "new_cases": "0",
       "total_cases": "844",
       "total_recovered": "821",
@@ -3031,7 +3031,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1608076800000",
+      "Date": "16/12/2020",
       "new_cases": "2",
       "total_cases": "846",
       "total_recovered": "821",
@@ -3041,7 +3041,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1608163200000",
+      "Date": "17/12/2020",
       "new_cases": "0",
       "total_cases": "846",
       "total_recovered": "821",
@@ -3051,7 +3051,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1608249600000",
+      "Date": "18/12/2020",
       "new_cases": "1",
       "total_cases": "847",
       "total_recovered": "821",
@@ -3061,7 +3061,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1608336000000",
+      "Date": "19/12/2020",
       "new_cases": "0",
       "total_cases": "847",
       "total_recovered": "822",
@@ -3071,7 +3071,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1608422400000",
+      "Date": "20/12/2020",
       "new_cases": "1",
       "total_cases": "848",
       "total_recovered": "825",
@@ -3081,7 +3081,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1608508800000",
+      "Date": "21/12/2020",
       "new_cases": "0",
       "total_cases": "848",
       "total_recovered": "826",
@@ -3091,7 +3091,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1608595200000",
+      "Date": "22/12/2020",
       "new_cases": "0",
       "total_cases": "848",
       "total_recovered": "827",
@@ -3101,7 +3101,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1608681600000",
+      "Date": "23/12/2020",
       "new_cases": "5",
       "total_cases": "853",
       "total_recovered": "828",
@@ -3111,7 +3111,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1608768000000",
+      "Date": "24/12/2020",
       "new_cases": "3",
       "total_cases": "856",
       "total_recovered": "830",
@@ -3121,7 +3121,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1608854400000",
+      "Date": "25/12/2020",
       "new_cases": "1",
       "total_cases": "857",
       "total_recovered": "832",
@@ -3131,7 +3131,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1608940800000",
+      "Date": "26/12/2020",
       "new_cases": "5",
       "total_cases": "862",
       "total_recovered": "832",
@@ -3141,7 +3141,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1609027200000",
+      "Date": "27/12/2020",
       "new_cases": "1",
       "total_cases": "863",
       "total_recovered": "833",
@@ -3151,7 +3151,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1609113600000",
+      "Date": "28/12/2020",
       "new_cases": "0",
       "total_cases": "863",
       "total_recovered": "834",
@@ -3161,7 +3161,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1609200000000",
+      "Date": "29/12/2020",
       "new_cases": "2",
       "total_cases": "865",
       "total_recovered": "836",
@@ -3171,7 +3171,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1609286400000",
+      "Date": "30/12/2020",
       "new_cases": "2",
       "total_cases": "867",
       "total_recovered": "838",
@@ -3181,7 +3181,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1609372800000",
+      "Date": "31/12/2020",
       "new_cases": "4",
       "total_cases": "871",
       "total_recovered": "838",
@@ -3191,7 +3191,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1609459200000",
+      "Date": "1/01/2021",
       "new_cases": "2",
       "total_cases": "873",
       "total_recovered": "838",
@@ -3201,7 +3201,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1609545600000",
+      "Date": "2/01/2021",
       "new_cases": "0",
       "total_cases": "873",
       "total_recovered": "838",
@@ -3211,7 +3211,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1609632000000",
+      "Date": "3/01/2021",
       "new_cases": "0",
       "total_cases": "873",
       "total_recovered": "839",
@@ -3221,7 +3221,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1609718400000",
+      "Date": "4/01/2021",
       "new_cases": "1",
       "total_cases": "874",
       "total_recovered": "842",
@@ -3231,7 +3231,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1609804800000",
+      "Date": "5/01/2021",
       "new_cases": "2",
       "total_cases": "876",
       "total_recovered": "845",
@@ -3241,7 +3241,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1609891200000",
+      "Date": "6/01/2021",
       "new_cases": "0",
       "total_cases": "876",
       "total_recovered": "845",
@@ -3251,7 +3251,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1609977600000",
+      "Date": "7/01/2021",
       "new_cases": "1",
       "total_cases": "877",
       "total_recovered": "847",
@@ -3261,7 +3261,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1610064000000",
+      "Date": "8/01/2021",
       "new_cases": "0",
       "total_cases": "877",
       "total_recovered": "847",
@@ -3271,7 +3271,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1610150400000",
+      "Date": "9/01/2021",
       "new_cases": "2",
       "total_cases": "879",
       "total_recovered": "849",
@@ -3281,7 +3281,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1610236800000",
+      "Date": "10/01/2021",
       "new_cases": "2",
       "total_cases": "881",
       "total_recovered": "851",
@@ -3291,7 +3291,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1610323200000",
+      "Date": "11/01/2021",
       "new_cases": "2",
       "total_cases": "883",
       "total_recovered": "851",
@@ -3301,7 +3301,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1610409600000",
+      "Date": "12/01/2021",
       "new_cases": "3",
       "total_cases": "886",
       "total_recovered": "855",
@@ -3311,7 +3311,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1610496000000",
+      "Date": "13/01/2021",
       "new_cases": "0",
       "total_cases": "886",
       "total_recovered": "855",
@@ -3321,7 +3321,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1610582400000",
+      "Date": "14/01/2021",
       "new_cases": "2",
       "total_cases": "888",
       "total_recovered": "855",
@@ -3331,7 +3331,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1610668800000",
+      "Date": "15/01/2021",
       "new_cases": "1",
       "total_cases": "889",
       "total_recovered": "857",
@@ -3341,7 +3341,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1610755200000",
+      "Date": "16/01/2021",
       "new_cases": "1",
       "total_cases": "890",
       "total_recovered": "862",
@@ -3351,7 +3351,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1610841600000",
+      "Date": "17/01/2021",
       "new_cases": "1",
       "total_cases": "891",
       "total_recovered": "864",
@@ -3361,7 +3361,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1610928000000",
+      "Date": "18/01/2021",
       "new_cases": "1",
       "total_cases": "892",
       "total_recovered": "865",
@@ -3371,7 +3371,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1611014400000",
+      "Date": "19/01/2021",
       "new_cases": "0",
       "total_cases": "892",
       "total_recovered": "865",
@@ -3381,7 +3381,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1611100800000",
+      "Date": "20/01/2021",
       "new_cases": "2",
       "total_cases": "894",
       "total_recovered": "866",
@@ -3391,7 +3391,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1611187200000",
+      "Date": "21/01/2021",
       "new_cases": "1",
       "total_cases": "895",
       "total_recovered": "868",
@@ -3401,7 +3401,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1611273600000",
+      "Date": "22/01/2021",
       "new_cases": "2",
       "total_cases": "897",
       "total_recovered": "869",
@@ -3411,7 +3411,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1611360000000",
+      "Date": "23/01/2021",
       "new_cases": "1",
       "total_cases": "898",
       "total_recovered": "872",
@@ -3421,7 +3421,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1611446400000",
+      "Date": "24/01/2021",
       "new_cases": "0",
       "total_cases": "898",
       "total_recovered": "873",
@@ -3431,7 +3431,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1611532800000",
+      "Date": "25/01/2021",
       "new_cases": "2",
       "total_cases": "900",
       "total_recovered": "873",
@@ -3441,7 +3441,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1611619200000",
+      "Date": "26/01/2021",
       "new_cases": "2",
       "total_cases": "902",
       "total_recovered": "873",
@@ -3451,7 +3451,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1611705600000",
+      "Date": "27/01/2021",
       "new_cases": "0",
       "total_cases": "902",
       "total_recovered": "873",
@@ -3461,7 +3461,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1611792000000",
+      "Date": "28/01/2021",
       "new_cases": "2",
       "total_cases": "904",
       "total_recovered": "875",
@@ -3471,7 +3471,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1611878400000",
+      "Date": "29/01/2021",
       "new_cases": "0",
       "total_cases": "904",
       "total_recovered": "876",
@@ -3481,7 +3481,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1611964800000",
+      "Date": "30/01/2021",
       "new_cases": "0",
       "total_cases": "904",
       "total_recovered": "878",
@@ -3491,7 +3491,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1612051200000",
+      "Date": "31/01/2021",
       "new_cases": "0",
       "total_cases": "904",
       "total_recovered": "881",
@@ -3501,7 +3501,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1612137600000",
+      "Date": "1/02/2021",
       "new_cases": "0",
       "total_cases": "904",
       "total_recovered": "881",
@@ -3511,7 +3511,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1612224000000",
+      "Date": "2/02/2021",
       "new_cases": "2",
       "total_cases": "906",
       "total_recovered": "886",
@@ -3521,7 +3521,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1612310400000",
+      "Date": "3/02/2021",
       "new_cases": "1",
       "total_cases": "907",
       "total_recovered": "887",
@@ -3531,7 +3531,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1612396800000",
+      "Date": "4/02/2021",
       "new_cases": "0",
       "total_cases": "907",
       "total_recovered": "887",
@@ -3541,7 +3541,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1612483200000",
+      "Date": "5/02/2021",
       "new_cases": "0",
       "total_cases": "907",
       "total_recovered": "887",
@@ -3551,7 +3551,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1612569600000",
+      "Date": "6/02/2021",
       "new_cases": "0",
       "total_cases": "907",
       "total_recovered": "887",
@@ -3561,7 +3561,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1612656000000",
+      "Date": "7/02/2021",
       "new_cases": "0",
       "total_cases": "907",
       "total_recovered": "887",
@@ -3571,7 +3571,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1612742400000",
+      "Date": "8/02/2021",
       "new_cases": "2",
       "total_cases": "909",
       "total_recovered": "888",
@@ -3581,7 +3581,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1612828800000",
+      "Date": "9/02/2021",
       "new_cases": "1",
       "total_cases": "910",
       "total_recovered": "889",
@@ -3591,7 +3591,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1612915200000",
+      "Date": "10/02/2021",
       "new_cases": "0",
       "total_cases": "910",
       "total_recovered": "892",
@@ -3601,7 +3601,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1613001600000",
+      "Date": "11/02/2021",
       "new_cases": "0",
       "total_cases": "910",
       "total_recovered": "893",
@@ -3611,7 +3611,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1613088000000",
+      "Date": "12/02/2021",
       "new_cases": "0",
       "total_cases": "910",
       "total_recovered": "894",
@@ -3621,7 +3621,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1613174400000",
+      "Date": "13/02/2021",
       "new_cases": "0",
       "total_cases": "910",
       "total_recovered": "895",
@@ -3631,7 +3631,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1613260800000",
+      "Date": "14/02/2021",
       "new_cases": "0",
       "total_cases": "910",
       "total_recovered": "896",
@@ -3641,7 +3641,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1613347200000",
+      "Date": "15/02/2021",
       "new_cases": "0",
       "total_cases": "910",
       "total_recovered": "896",
@@ -3651,7 +3651,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1613433600000",
+      "Date": "16/02/2021",
       "new_cases": "0",
       "total_cases": "910",
       "total_recovered": "897",
@@ -3661,7 +3661,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1613520000000",
+      "Date": "17/02/2021",
       "new_cases": "1",
       "total_cases": "911",
       "total_recovered": "898",
@@ -3671,7 +3671,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1613606400000",
+      "Date": "18/02/2021",
       "new_cases": "0",
       "total_cases": "911",
       "total_recovered": "898",
@@ -3681,7 +3681,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1613692800000",
+      "Date": "19/02/2021",
       "new_cases": "1",
       "total_cases": "912",
       "total_recovered": "897",
@@ -3691,7 +3691,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1613779200000",
+      "Date": "20/02/2021",
       "new_cases": "1",
       "total_cases": "913",
       "total_recovered": "0",
@@ -3701,7 +3701,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1613865600000",
+      "Date": "21/02/2021",
       "new_cases": "0",
       "total_cases": "913",
       "total_recovered": "899",
@@ -3711,7 +3711,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1613952000000",
+      "Date": "22/02/2021",
       "new_cases": "0",
       "total_cases": "913",
       "total_recovered": "899",
@@ -3721,7 +3721,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1614038400000",
+      "Date": "23/02/2021",
       "new_cases": "0",
       "total_cases": "913",
       "total_recovered": "901",
@@ -3731,7 +3731,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1614124800000",
+      "Date": "24/02/2021",
       "new_cases": "0",
       "total_cases": "913",
       "total_recovered": "901",
@@ -3741,7 +3741,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1614211200000",
+      "Date": "25/02/2021",
       "new_cases": "1",
       "total_cases": "914",
       "total_recovered": "901",
@@ -3751,7 +3751,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1614297600000",
+      "Date": "26/02/2021",
       "new_cases": "0",
       "total_cases": "914",
       "total_recovered": "901",
@@ -3761,7 +3761,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1614384000000",
+      "Date": "27/02/2021",
       "new_cases": "0",
       "total_cases": "914",
       "total_recovered": "901",
@@ -3771,7 +3771,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1614470400000",
+      "Date": "28/02/2021",
       "new_cases": "0",
       "total_cases": "914",
       "total_recovered": "901",
@@ -3781,7 +3781,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1614556800000",
+      "Date": "1/03/2021",
       "new_cases": "1",
       "total_cases": "915",
       "total_recovered": "901",
@@ -3791,7 +3791,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1614643200000",
+      "Date": "2/03/2021",
       "new_cases": "1",
       "total_cases": "916",
       "total_recovered": "901",
@@ -3801,7 +3801,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1614729600000",
+      "Date": "3/03/2021",
       "new_cases": "0",
       "total_cases": "916",
       "total_recovered": "901",
@@ -3811,7 +3811,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1614816000000",
+      "Date": "4/03/2021",
       "new_cases": "0",
       "total_cases": "916",
       "total_recovered": "902",
@@ -3821,7 +3821,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1614902400000",
+      "Date": "5/03/2021",
       "new_cases": "0",
       "total_cases": "916",
       "total_recovered": "902",
@@ -3831,7 +3831,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1614988800000",
+      "Date": "6/03/2021",
       "new_cases": "3",
       "total_cases": "919",
       "total_recovered": "903",
@@ -3841,7 +3841,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1615075200000",
+      "Date": "7/03/2021",
       "new_cases": "2",
       "total_cases": "921",
       "total_recovered": "903",
@@ -3851,7 +3851,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1615161600000",
+      "Date": "8/03/2021",
       "new_cases": "1",
       "total_cases": "922",
       "total_recovered": "903",
@@ -3861,7 +3861,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1615248000000",
+      "Date": "9/03/2021",
       "new_cases": "0",
       "total_cases": "922",
       "total_recovered": "903",
@@ -3871,7 +3871,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1615334400000",
+      "Date": "10/03/2021",
       "new_cases": "0",
       "total_cases": "922",
       "total_recovered": "903",
@@ -3881,7 +3881,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1615420800000",
+      "Date": "11/03/2021",
       "new_cases": "2",
       "total_cases": "924",
       "total_recovered": "905",
@@ -3891,7 +3891,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1615507200000",
+      "Date": "12/03/2021",
       "new_cases": "1",
       "total_cases": "925",
       "total_recovered": "905",
@@ -3901,7 +3901,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1615593600000",
+      "Date": "13/03/2021",
       "new_cases": "1",
       "total_cases": "926",
       "total_recovered": "0",
@@ -3911,7 +3911,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1615680000000",
+      "Date": "14/03/2021",
       "new_cases": "0",
       "total_cases": "926",
       "total_recovered": "906",
@@ -3921,7 +3921,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1615766400000",
+      "Date": "15/03/2021",
       "new_cases": "1",
       "total_cases": "927",
       "total_recovered": "906",
@@ -3931,7 +3931,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1615852800000",
+      "Date": "16/03/2021",
       "new_cases": "1",
       "total_cases": "928",
       "total_recovered": "907",
@@ -3941,7 +3941,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1615939200000",
+      "Date": "17/03/2021",
       "new_cases": "1",
       "total_cases": "929",
       "total_recovered": "907",
@@ -3951,7 +3951,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1616025600000",
+      "Date": "18/03/2021",
       "new_cases": "2",
       "total_cases": "931",
       "total_recovered": "908",
@@ -3961,7 +3961,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1616112000000",
+      "Date": "19/03/2021",
       "new_cases": "0",
       "total_cases": "931",
       "total_recovered": "908",
@@ -3971,7 +3971,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1616198400000",
+      "Date": "20/03/2021",
       "new_cases": "0",
       "total_cases": "931",
       "total_recovered": "908",
@@ -3981,7 +3981,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1616284800000",
+      "Date": "21/03/2021",
       "new_cases": "0",
       "total_cases": "931",
       "total_recovered": "909",
@@ -3991,7 +3991,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1616371200000",
+      "Date": "22/03/2021",
       "new_cases": "1",
       "total_cases": "932",
       "total_recovered": "911",
@@ -4001,7 +4001,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1616457600000",
+      "Date": "23/03/2021",
       "new_cases": "2",
       "total_cases": "934",
       "total_recovered": "912",
@@ -4011,7 +4011,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1616544000000",
+      "Date": "24/03/2021",
       "new_cases": "0",
       "total_cases": "934",
       "total_recovered": "913",
@@ -4021,7 +4021,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1616630400000",
+      "Date": "25/03/2021",
       "new_cases": "1",
       "total_cases": "935",
       "total_recovered": "915",
@@ -4031,7 +4031,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1616716800000",
+      "Date": "26/03/2021",
       "new_cases": "1",
       "total_cases": "936",
       "total_recovered": "915",
@@ -4041,7 +4041,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1616803200000",
+      "Date": "27/03/2021",
       "new_cases": "4",
       "total_cases": "940",
       "total_recovered": "915",
@@ -4051,7 +4051,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1616889600000",
+      "Date": "28/03/2021",
       "new_cases": "2",
       "total_cases": "942",
       "total_recovered": "915",
@@ -4061,7 +4061,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1616976000000",
+      "Date": "29/03/2021",
       "new_cases": "3",
       "total_cases": "945",
       "total_recovered": "916",
@@ -4071,7 +4071,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1617062400000",
+      "Date": "30/03/2021",
       "new_cases": "0",
       "total_cases": "945",
       "total_recovered": "918",
@@ -4081,7 +4081,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1617148800000",
+      "Date": "31/03/2021",
       "new_cases": "0",
       "total_cases": "945",
       "total_recovered": "918",
@@ -4091,7 +4091,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1617235200000",
+      "Date": "1/04/2021",
       "new_cases": "1",
       "total_cases": "946",
       "total_recovered": "918",
@@ -4101,7 +4101,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1617321600000",
+      "Date": "2/04/2021",
       "new_cases": "3",
       "total_cases": "949",
       "total_recovered": "919",
@@ -4111,7 +4111,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1617408000000",
+      "Date": "3/04/2021",
       "new_cases": "0",
       "total_cases": "949",
       "total_recovered": "921",
@@ -4121,7 +4121,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1617494400000",
+      "Date": "4/04/2021",
       "new_cases": "2",
       "total_cases": "951",
       "total_recovered": "922",
@@ -4131,7 +4131,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1617580800000",
+      "Date": "5/04/2021",
       "new_cases": "1",
       "total_cases": "952",
       "total_recovered": "922",
@@ -4141,7 +4141,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1617667200000",
+      "Date": "6/04/2021",
       "new_cases": "1",
       "total_cases": "953",
       "total_recovered": "923",
@@ -4151,7 +4151,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1617753600000",
+      "Date": "7/04/2021",
       "new_cases": "0",
       "total_cases": "953",
       "total_recovered": "924",
@@ -4161,7 +4161,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1617840000000",
+      "Date": "8/04/2021",
       "new_cases": "0",
       "total_cases": "953",
       "total_recovered": "928",
@@ -4171,7 +4171,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1617926400000",
+      "Date": "9/04/2021",
       "new_cases": "1",
       "total_cases": "954",
       "total_recovered": "932",
@@ -4181,7 +4181,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1618012800000",
+      "Date": "10/04/2021",
       "new_cases": "2",
       "total_cases": "956",
       "total_recovered": "933",
@@ -4191,7 +4191,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1618099200000",
+      "Date": "11/04/2021",
       "new_cases": "1",
       "total_cases": "957",
       "total_recovered": "933",
@@ -4201,7 +4201,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1618185600000",
+      "Date": "12/04/2021",
       "new_cases": "8",
       "total_cases": "965",
       "total_recovered": "935",
@@ -4211,7 +4211,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1618272000000",
+      "Date": "13/04/2021",
       "new_cases": "7",
       "total_cases": "972",
       "total_recovered": "937",
@@ -4221,7 +4221,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1618358400000",
+      "Date": "14/04/2021",
       "new_cases": "0",
       "total_cases": "972",
       "total_recovered": "938",
@@ -4231,7 +4231,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1618444800000",
+      "Date": "15/04/2021",
       "new_cases": "0",
       "total_cases": "972",
       "total_recovered": "938",
@@ -4241,7 +4241,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1618531200000",
+      "Date": "16/04/2021",
       "new_cases": "3",
       "total_cases": "975",
       "total_recovered": "940",
@@ -4251,7 +4251,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1618617600000",
+      "Date": "17/04/2021",
       "new_cases": "3",
       "total_cases": "978",
       "total_recovered": "941",
@@ -4261,7 +4261,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1618704000000",
+      "Date": "18/04/2021",
       "new_cases": "1",
       "total_cases": "979",
       "total_recovered": "941",
@@ -4271,7 +4271,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1618790400000",
+      "Date": "19/04/2021",
       "new_cases": "2",
       "total_cases": "981",
       "total_recovered": "941",
@@ -4281,7 +4281,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1618876800000",
+      "Date": "20/04/2021",
       "new_cases": "2",
       "total_cases": "983",
       "total_recovered": "942",
@@ -4291,7 +4291,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1618963200000",
+      "Date": "21/04/2021",
       "new_cases": "1",
       "total_cases": "984",
       "total_recovered": "943",
@@ -4301,7 +4301,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1619049600000",
+      "Date": "22/04/2021",
       "new_cases": "3",
       "total_cases": "987",
       "total_recovered": "944",
@@ -4311,7 +4311,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1619136000000",
+      "Date": "23/04/2021",
       "new_cases": "3",
       "total_cases": "990",
       "total_recovered": "945",
@@ -4321,7 +4321,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1619222400000",
+      "Date": "24/04/2021",
       "new_cases": "3",
       "total_cases": "993",
       "total_recovered": "946",
@@ -4331,7 +4331,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1619308800000",
+      "Date": "25/04/2021",
       "new_cases": "3",
       "total_cases": "996",
       "total_recovered": "946",
@@ -4341,7 +4341,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1619395200000",
+      "Date": "26/04/2021",
       "new_cases": "5",
       "total_cases": "1001",
       "total_recovered": "948",
@@ -4351,7 +4351,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1619481600000",
+      "Date": "27/04/2021",
       "new_cases": "1",
       "total_cases": "1002",
       "total_recovered": "953",
@@ -4361,7 +4361,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1619568000000",
+      "Date": "28/04/2021",
       "new_cases": "0",
       "total_cases": "1002",
       "total_recovered": "958",
@@ -4371,7 +4371,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1619654400000",
+      "Date": "29/04/2021",
       "new_cases": "2",
       "total_cases": "1004",
       "total_recovered": "961",
@@ -4381,7 +4381,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1619740800000",
+      "Date": "30/04/2021",
       "new_cases": "2",
       "total_cases": "1006",
       "total_recovered": "962",
@@ -4391,7 +4391,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1619827200000",
+      "Date": "1/05/2021",
       "new_cases": "2",
       "total_cases": "1008",
       "total_recovered": "968",
@@ -4401,7 +4401,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1619913600000",
+      "Date": "2/05/2021",
       "new_cases": "0",
       "total_cases": "1008",
       "total_recovered": "970",
@@ -4411,7 +4411,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1620000000000",
+      "Date": "3/05/2021",
       "new_cases": "5",
       "total_cases": "1013",
       "total_recovered": "972",
@@ -4421,7 +4421,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1620086400000",
+      "Date": "4/05/2021",
       "new_cases": "0",
       "total_cases": "1013",
       "total_recovered": "973",
@@ -4431,7 +4431,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1620172800000",
+      "Date": "5/05/2021",
       "new_cases": "0",
       "total_cases": "1013",
       "total_recovered": "975",
@@ -4441,7 +4441,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1620259200000",
+      "Date": "6/05/2021",
       "new_cases": "0",
       "total_cases": "1013",
       "total_recovered": "976",
@@ -4451,7 +4451,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1620345600000",
+      "Date": "7/05/2021",
       "new_cases": "0",
       "total_cases": "1013",
       "total_recovered": "979",
@@ -4461,7 +4461,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1620432000000",
+      "Date": "8/05/2021",
       "new_cases": "1",
       "total_cases": "1014",
       "total_recovered": "982",
@@ -4471,7 +4471,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1620518400000",
+      "Date": "9/05/2021",
       "new_cases": "0",
       "total_cases": "1014",
       "total_recovered": "984",
@@ -4481,7 +4481,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1620604800000",
+      "Date": "10/05/2021",
       "new_cases": "1",
       "total_cases": "1015",
       "total_recovered": "986",
@@ -4491,7 +4491,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1620691200000",
+      "Date": "11/05/2021",
       "new_cases": "0",
       "total_cases": "1015",
       "total_recovered": "991",
@@ -4501,7 +4501,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1620777600000",
+      "Date": "12/05/2021",
       "new_cases": "0",
       "total_cases": "1015",
       "total_recovered": "993",
@@ -4511,7 +4511,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1620864000000",
+      "Date": "13/05/2021",
       "new_cases": "0",
       "total_cases": "1015",
       "total_recovered": "993",
@@ -4521,7 +4521,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1620950400000",
+      "Date": "14/05/2021",
       "new_cases": "0",
       "total_cases": "1015",
       "total_recovered": "995",
@@ -4531,7 +4531,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1621036800000",
+      "Date": "15/05/2021",
       "new_cases": "0",
       "total_cases": "1015",
       "total_recovered": "995",
@@ -4541,7 +4541,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1621123200000",
+      "Date": "16/05/2021",
       "new_cases": "0",
       "total_cases": "1015",
       "total_recovered": "999",
@@ -4551,7 +4551,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1621209600000",
+      "Date": "17/05/2021",
       "new_cases": "1",
       "total_cases": "1016",
       "total_recovered": "999",
@@ -4561,7 +4561,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1621296000000",
+      "Date": "18/05/2021",
       "new_cases": "0",
       "total_cases": "1016",
       "total_recovered": "1000",
@@ -4571,7 +4571,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1621382400000",
+      "Date": "19/05/2021",
       "new_cases": "0",
       "total_cases": "1016",
       "total_recovered": "1000",
@@ -4581,7 +4581,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1621468800000",
+      "Date": "20/05/2021",
       "new_cases": "0",
       "total_cases": "1016",
       "total_recovered": "1000",
@@ -4591,7 +4591,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1621555200000",
+      "Date": "21/05/2021",
       "new_cases": "0",
       "total_cases": "1016",
       "total_recovered": "1002",
@@ -4601,7 +4601,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1621641600000",
+      "Date": "22/05/2021",
       "new_cases": "0",
       "total_cases": "1016",
       "total_recovered": "1002",
@@ -4611,7 +4611,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1621728000000",
+      "Date": "23/05/2021",
       "new_cases": "1",
       "total_cases": "1017",
       "total_recovered": "1003",
@@ -4621,7 +4621,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1621814400000",
+      "Date": "24/05/2021",
       "new_cases": "0",
       "total_cases": "1017",
       "total_recovered": "1004",
@@ -4631,7 +4631,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1621900800000",
+      "Date": "25/05/2021",
       "new_cases": "0",
       "total_cases": "1017",
       "total_recovered": "1005",
@@ -4641,7 +4641,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1621987200000",
+      "Date": "26/05/2021",
       "new_cases": "0",
       "total_cases": "1017",
       "total_recovered": "1006",
@@ -4651,7 +4651,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1622073600000",
+      "Date": "27/05/2021",
       "new_cases": "0",
       "total_cases": "1017",
       "total_recovered": "1006",
@@ -4661,7 +4661,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1622160000000",
+      "Date": "28/05/2021",
       "new_cases": "0",
       "total_cases": "1017",
       "total_recovered": "1006",
@@ -4671,7 +4671,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1622246400000",
+      "Date": "29/05/2021",
       "new_cases": "1",
       "total_cases": "1018",
       "total_recovered": "1006",
@@ -4681,7 +4681,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1622332800000",
+      "Date": "30/05/2021",
       "new_cases": "0",
       "total_cases": "1018",
       "total_recovered": "1006",
@@ -4691,7 +4691,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1622419200000",
+      "Date": "31/05/2021",
       "new_cases": "0",
       "total_cases": "1018",
       "total_recovered": "1006",
@@ -4701,7 +4701,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1622505600000",
+      "Date": "1/06/2021",
       "new_cases": "0",
       "total_cases": "1018",
       "total_recovered": "1006",
@@ -4711,7 +4711,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1622592000000",
+      "Date": "2/06/2021",
       "new_cases": "0",
       "total_cases": "1018",
       "total_recovered": "1008",
@@ -4721,7 +4721,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1622678400000",
+      "Date": "3/06/2021",
       "new_cases": "0",
       "total_cases": "1018",
       "total_recovered": "1008",
@@ -4731,7 +4731,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1622764800000",
+      "Date": "4/06/2021",
       "new_cases": "0",
       "total_cases": "1018",
       "total_recovered": "1008",
@@ -4741,7 +4741,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1622851200000",
+      "Date": "5/06/2021",
       "new_cases": "0",
       "total_cases": "1018",
       "total_recovered": "1008",
@@ -4751,7 +4751,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1622937600000",
+      "Date": "6/06/2021",
       "new_cases": "0",
       "total_cases": "1018",
       "total_recovered": "1008",
@@ -4761,7 +4761,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1623024000000",
+      "Date": "7/06/2021",
       "new_cases": "0",
       "total_cases": "1018",
       "total_recovered": "1008",
@@ -4771,7 +4771,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1623110400000",
+      "Date": "8/06/2021",
       "new_cases": "0",
       "total_cases": "1018",
       "total_recovered": "1008",
@@ -4781,7 +4781,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1623196800000",
+      "Date": "9/06/2021",
       "new_cases": "0",
       "total_cases": "1018",
       "total_recovered": "1008",
@@ -4791,7 +4791,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1623283200000",
+      "Date": "10/06/2021",
       "new_cases": "1",
       "total_cases": "1019",
       "total_recovered": "1008",
@@ -4801,7 +4801,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1623369600000",
+      "Date": "11/06/2021",
       "new_cases": "0",
       "total_cases": "1019",
       "total_recovered": "1009",
@@ -4811,7 +4811,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1623456000000",
+      "Date": "12/06/2021",
       "new_cases": "1",
       "total_cases": "1020",
       "total_recovered": "1009",
@@ -4821,7 +4821,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1623542400000",
+      "Date": "13/06/2021",
       "new_cases": "0",
       "total_cases": "1020",
       "total_recovered": "1009",
@@ -4831,7 +4831,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1623628800000",
+      "Date": "14/06/2021",
       "new_cases": "0",
       "total_cases": "1020",
       "total_recovered": "1009",
@@ -4841,7 +4841,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1623715200000",
+      "Date": "15/06/2021",
       "new_cases": "0",
       "total_cases": "1020",
       "total_recovered": "1009",
@@ -4851,7 +4851,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1623801600000",
+      "Date": "16/06/2021",
       "new_cases": "0",
       "total_cases": "1020",
       "total_recovered": "1009",
@@ -4861,7 +4861,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1623888000000",
+      "Date": "17/06/2021",
       "new_cases": "0",
       "total_cases": "1020",
       "total_recovered": "1009",
@@ -4871,7 +4871,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1623974400000",
+      "Date": "18/06/2021",
       "new_cases": "0",
       "total_cases": "1020",
       "total_recovered": "1009",
@@ -4881,7 +4881,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1624060800000",
+      "Date": "19/06/2021",
       "new_cases": "0",
       "total_cases": "1020",
       "total_recovered": "1009",
@@ -4891,7 +4891,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1624147200000",
+      "Date": "20/06/2021",
       "new_cases": "0",
       "total_cases": "1020",
       "total_recovered": "1009",
@@ -4901,7 +4901,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1624233600000",
+      "Date": "21/06/2021",
       "new_cases": "0",
       "total_cases": "1020",
       "total_recovered": "1009",
@@ -4911,7 +4911,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1624320000000",
+      "Date": "22/06/2021",
       "new_cases": "1",
       "total_cases": "1021",
       "total_recovered": "1009",
@@ -4921,7 +4921,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1624406400000",
+      "Date": "23/06/2021",
       "new_cases": "0",
       "total_cases": "1021",
       "total_recovered": "1009",
@@ -4931,7 +4931,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1624492800000",
+      "Date": "24/06/2021",
       "new_cases": "2",
       "total_cases": "1023",
       "total_recovered": "1009",
@@ -4941,7 +4941,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1624579200000",
+      "Date": "25/06/2021",
       "new_cases": "0",
       "total_cases": "1023",
       "total_recovered": "1010",
@@ -4951,7 +4951,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1624665600000",
+      "Date": "26/06/2021",
       "new_cases": "1",
       "total_cases": "1024",
       "total_recovered": "1010",
@@ -4961,7 +4961,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1624752000000",
+      "Date": "27/06/2021",
       "new_cases": "4",
       "total_cases": "1028",
       "total_recovered": "1010",
@@ -4971,7 +4971,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1624838400000",
+      "Date": "28/06/2021",
       "new_cases": "1",
       "total_cases": "1029",
       "total_recovered": "1010",
@@ -4981,7 +4981,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1624924800000",
+      "Date": "29/06/2021",
       "new_cases": "0",
       "total_cases": "1029",
       "total_recovered": "1010",
@@ -4991,7 +4991,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1625011200000",
+      "Date": "30/06/2021",
       "new_cases": "1",
       "total_cases": "1030",
       "total_recovered": "1011",
@@ -5001,7 +5001,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1625097600000",
+      "Date": "1/07/2021",
       "new_cases": "0",
       "total_cases": "1030",
       "total_recovered": "1011",
@@ -5011,7 +5011,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1625184000000",
+      "Date": "2/07/2021",
       "new_cases": "2",
       "total_cases": "1032",
       "total_recovered": "1011",
@@ -5021,7 +5021,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1625270400000",
+      "Date": "3/07/2021",
       "new_cases": "1",
       "total_cases": "1033",
       "total_recovered": "1011",
@@ -5031,7 +5031,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1625356800000",
+      "Date": "4/07/2021",
       "new_cases": "0",
       "total_cases": "1033",
       "total_recovered": "1011",
@@ -5041,7 +5041,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1625443200000",
+      "Date": "5/07/2021",
       "new_cases": "0",
       "total_cases": "1033",
       "total_recovered": "1011",
@@ -5051,7 +5051,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1625529600000",
+      "Date": "6/07/2021",
       "new_cases": "0",
       "total_cases": "1033",
       "total_recovered": "1012",
@@ -5061,7 +5061,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1625616000000",
+      "Date": "7/07/2021",
       "new_cases": "1",
       "total_cases": "1034",
       "total_recovered": "1012",
@@ -5071,7 +5071,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1625702400000",
+      "Date": "8/07/2021",
       "new_cases": "0",
       "total_cases": "1034",
       "total_recovered": "1013",
@@ -5081,7 +5081,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1625788800000",
+      "Date": "9/07/2021",
       "new_cases": "2",
       "total_cases": "1036",
       "total_recovered": "1013",
@@ -5091,7 +5091,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1625875200000",
+      "Date": "10/07/2021",
       "new_cases": "0",
       "total_cases": "1036",
       "total_recovered": "1014",
@@ -5101,7 +5101,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1625961600000",
+      "Date": "11/07/2021",
       "new_cases": "1",
       "total_cases": "1037",
       "total_recovered": "1014",
@@ -5111,7 +5111,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1626048000000",
+      "Date": "12/07/2021",
       "new_cases": "5",
       "total_cases": "1042",
       "total_recovered": "1015",
@@ -5121,7 +5121,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1626134400000",
+      "Date": "13/07/2021",
       "new_cases": "0",
       "total_cases": "1042",
       "total_recovered": "1018",
@@ -5131,7 +5131,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1626220800000",
+      "Date": "14/07/2021",
       "new_cases": "1",
       "total_cases": "1043",
       "total_recovered": "1018",
@@ -5141,7 +5141,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1626307200000",
+      "Date": "15/07/2021",
       "new_cases": "1",
       "total_cases": "1044",
       "total_recovered": "1020",
@@ -5151,7 +5151,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1626393600000",
+      "Date": "16/07/2021",
       "new_cases": "1",
       "total_cases": "1045",
       "total_recovered": "1021",
@@ -5161,7 +5161,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1626480000000",
+      "Date": "17/07/2021",
       "new_cases": "2",
       "total_cases": "1047",
       "total_recovered": "1021",
@@ -5171,7 +5171,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1626566400000",
+      "Date": "18/07/2021",
       "new_cases": "0",
       "total_cases": "1047",
       "total_recovered": "1021",
@@ -5181,7 +5181,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1626652800000",
+      "Date": "19/07/2021",
       "new_cases": "2",
       "total_cases": "1049",
       "total_recovered": "1022",
@@ -5191,7 +5191,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1626739200000",
+      "Date": "20/07/2021",
       "new_cases": "0",
       "total_cases": "1049",
       "total_recovered": "1022",
@@ -5201,7 +5201,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1626825600000",
+      "Date": "21/07/2021",
       "new_cases": "2",
       "total_cases": "1051",
       "total_recovered": "1023",
@@ -5211,7 +5211,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1626912000000",
+      "Date": "22/07/2021",
       "new_cases": "1",
       "total_cases": "1052",
       "total_recovered": "1024",
@@ -5221,7 +5221,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1626998400000",
+      "Date": "23/07/2021",
       "new_cases": "2",
       "total_cases": "1054",
       "total_recovered": "1025",
@@ -5231,7 +5231,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1627084800000",
+      "Date": "24/07/2021",
       "new_cases": "0",
       "total_cases": "1054",
       "total_recovered": "1030",
@@ -5241,7 +5241,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1627171200000",
+      "Date": "25/07/2021",
       "new_cases": "2",
       "total_cases": "1056",
       "total_recovered": "1030",
@@ -5251,7 +5251,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1627257600000",
+      "Date": "26/07/2021",
       "new_cases": "0",
       "total_cases": "1056",
       "total_recovered": "1030",
@@ -5261,7 +5261,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1627344000000",
+      "Date": "27/07/2021",
       "new_cases": "1",
       "total_cases": "1057",
       "total_recovered": "1030",
@@ -5271,7 +5271,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1627430400000",
+      "Date": "28/07/2021",
       "new_cases": "0",
       "total_cases": "1057",
       "total_recovered": "1032",
@@ -5281,7 +5281,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1627516800000",
+      "Date": "29/07/2021",
       "new_cases": "0",
       "total_cases": "1057",
       "total_recovered": "1032",
@@ -5291,7 +5291,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1627603200000",
+      "Date": "30/07/2021",
       "new_cases": "1",
       "total_cases": "1058",
       "total_recovered": "1033",
@@ -5301,7 +5301,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1627689600000",
+      "Date": "31/07/2021",
       "new_cases": "0",
       "total_cases": "1058",
       "total_recovered": "1036",
@@ -5311,7 +5311,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1627776000000",
+      "Date": "1/08/2021",
       "new_cases": "0",
       "total_cases": "1058",
       "total_recovered": "1038",
@@ -5321,87 +5321,97 @@
       "hospitalized": null
     },
     {
-      "Date": "1627862400000",
-      "new_cases": "1",
-      "total_cases": "1059",
-      "total_recovered": "1038",
-      "total_death": "9",
-      "existing": "12",
-      "total_ruledout": null,
-      "hospitalized": null
-    },
-    {
-      "Date": "1627948800000",
+      "Date": "2/08/2021",
       "new_cases": "0",
-      "total_cases": "1059",
-      "total_recovered": "1039",
+      "total_cases": "1058",
+      "total_recovered": "1038",
       "total_death": "9",
       "existing": "11",
       "total_ruledout": null,
       "hospitalized": null
     },
     {
-      "Date": "1628035200000",
+      "Date": "3/08/2021",
       "new_cases": "0",
-      "total_cases": "1059",
-      "total_recovered": "1040",
+      "total_cases": "1058",
+      "total_recovered": "1039",
       "total_death": "9",
       "existing": "10",
       "total_ruledout": null,
       "hospitalized": null
     },
     {
-      "Date": "1628121600000",
+      "Date": "4/08/2021",
       "new_cases": "0",
-      "total_cases": "1059",
+      "total_cases": "1058",
       "total_recovered": "1040",
       "total_death": "9",
-      "existing": "10",
+      "existing": "9",
       "total_ruledout": null,
       "hospitalized": null
     },
     {
-      "Date": "1628208000000",
+      "Date": "5/08/2021",
       "new_cases": "0",
-      "total_cases": "1059",
-      "total_recovered": "1041",
+      "total_cases": "1058",
+      "total_recovered": "1040",
       "total_death": "9",
       "existing": "9",
       "total_ruledout": null,
       "hospitalized": null
     },
     {
-      "Date": "1628294400000",
+      "Date": "6/08/2021",
       "new_cases": "0",
-      "total_cases": "1059",
+      "total_cases": "1058",
       "total_recovered": "1041",
       "total_death": "9",
-      "existing": "9",
+      "existing": "8",
       "total_ruledout": null,
       "hospitalized": null
     },
     {
-      "Date": "1628380800000",
+      "Date": "7/08/2021",
       "new_cases": "0",
-      "total_cases": "1059",
+      "total_cases": "1058",
+      "total_recovered": "1041",
+      "total_death": "9",
+      "existing": "8",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "8/08/2021",
+      "new_cases": "0",
+      "total_cases": "1058",
       "total_recovered": "1043",
       "total_death": "9",
-      "existing": "7",
+      "existing": "6",
       "total_ruledout": null,
       "hospitalized": null
     },
     {
-      "Date": "1628467200000",
+      "Date": "9/08/2021",
       "new_cases": "0",
-      "total_cases": "1059",
+      "total_cases": "1058",
       "total_recovered": "1045",
       "total_death": "9",
-      "existing": "5",
+      "existing": "4",
       "total_ruledout": null,
       "hospitalized": null
     },
     {
-      "Date": "1628553600000",
+      "Date": "10/08/2021",
+      "new_cases": "1",
+      "total_cases": "1059",
+      "total_recovered": "1046",
+      "total_death": "9",
+      "existing": "4",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "11/08/2021",
       "new_cases": "1",
       "total_cases": "1060",
       "total_recovered": "1046",
@@ -5411,18 +5421,18 @@
       "hospitalized": null
     },
     {
-      "Date": "1628640000000",
-      "new_cases": "1",
-      "total_cases": "1061",
-      "total_recovered": "1046",
-      "total_death": "9",
-      "existing": "6",
-      "total_ruledout": null,
-      "hospitalized": null
-    },
-    {
-      "Date": "1628726400000",
+      "Date": "12/08/2021",
       "new_cases": "0",
+      "total_cases": "1060",
+      "total_recovered": "1046",
+      "total_death": "9",
+      "existing": "5",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "13/08/2021",
+      "new_cases": "1",
       "total_cases": "1061",
       "total_recovered": "1046",
       "total_death": "9",
@@ -5431,58 +5441,58 @@
       "hospitalized": null
     },
     {
-      "Date": "1628812800000",
-      "new_cases": "1",
-      "total_cases": "1062",
-      "total_recovered": "1046",
-      "total_death": "9",
-      "existing": "7",
-      "total_ruledout": null,
-      "hospitalized": null
-    },
-    {
-      "Date": "1628899200000",
+      "Date": "14/08/2021",
       "new_cases": "3",
-      "total_cases": "1065",
+      "total_cases": "1064",
       "total_recovered": "1047",
       "total_death": "9",
-      "existing": "9",
+      "existing": "8",
       "total_ruledout": null,
       "hospitalized": null
     },
     {
-      "Date": "1628985600000",
+      "Date": "15/08/2021",
       "new_cases": "3",
+      "total_cases": "1067",
+      "total_recovered": "1047",
+      "total_death": "9",
+      "existing": "11",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "16/08/2021",
+      "new_cases": "1",
       "total_cases": "1068",
-      "total_recovered": "1047",
-      "total_death": "9",
-      "existing": "12",
-      "total_ruledout": null,
-      "hospitalized": null
-    },
-    {
-      "Date": "1629072000000",
-      "new_cases": "1",
-      "total_cases": "1069",
       "total_recovered": "1048",
       "total_death": "9",
-      "existing": "12",
+      "existing": "11",
       "total_ruledout": null,
       "hospitalized": null
     },
     {
-      "Date": "1629158400000",
+      "Date": "17/08/2021",
       "new_cases": "8",
-      "total_cases": "1077",
+      "total_cases": "1076",
       "total_recovered": "1049",
+      "total_death": "9",
+      "existing": "18",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "18/08/2021",
+      "new_cases": "2",
+      "total_cases": "1078",
+      "total_recovered": "1050",
       "total_death": "9",
       "existing": "19",
       "total_ruledout": null,
       "hospitalized": null
     },
     {
-      "Date": "1629244800000",
-      "new_cases": "2",
+      "Date": "19/08/2021",
+      "new_cases": "1",
       "total_cases": "1079",
       "total_recovered": "1050",
       "total_death": "9",
@@ -5491,18 +5501,28 @@
       "hospitalized": null
     },
     {
-      "Date": "1629331200000",
-      "new_cases": "1",
-      "total_cases": "1080",
-      "total_recovered": "1050",
-      "total_death": "9",
-      "existing": "21",
-      "total_ruledout": null,
-      "hospitalized": null
-    },
-    {
-      "Date": "1629417600000",
+      "Date": "20/08/2021",
       "new_cases": "3",
+      "total_cases": "1082",
+      "total_recovered": "1050",
+      "total_death": "9",
+      "existing": "23",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "21/08/2021",
+      "new_cases": "0",
+      "total_cases": "1082",
+      "total_recovered": "1050",
+      "total_death": "9",
+      "existing": "23",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "22/08/2021",
+      "new_cases": "1",
       "total_cases": "1083",
       "total_recovered": "1050",
       "total_death": "9",
@@ -5511,29 +5531,29 @@
       "hospitalized": null
     },
     {
-      "Date": "1629504000000",
+      "Date": "23/08/2021",
       "new_cases": "0",
       "total_cases": "1083",
-      "total_recovered": "1050",
+      "total_recovered": "1051",
       "total_death": "9",
-      "existing": "24",
+      "existing": "23",
       "total_ruledout": null,
       "hospitalized": null
     },
     {
-      "Date": "1629590400000",
+      "Date": "24/08/2021",
+      "new_cases": "0",
+      "total_cases": "1083",
+      "total_recovered": "1051",
+      "total_death": "9",
+      "existing": "23",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "25/08/2021",
       "new_cases": "1",
       "total_cases": "1084",
-      "total_recovered": "1050",
-      "total_death": "9",
-      "existing": "25",
-      "total_ruledout": null,
-      "hospitalized": null
-    },
-    {
-      "Date": "1629676800000",
-      "new_cases": "0",
-      "total_cases": "1084",
       "total_recovered": "1051",
       "total_death": "9",
       "existing": "24",
@@ -5541,17 +5561,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1629763200000",
-      "new_cases": "0",
-      "total_cases": "1084",
-      "total_recovered": "1051",
-      "total_death": "9",
-      "existing": "24",
-      "total_ruledout": null,
-      "hospitalized": null
-    },
-    {
-      "Date": "1629849600000",
+      "Date": "26/08/2021",
       "new_cases": "1",
       "total_cases": "1085",
       "total_recovered": "1051",
@@ -5561,27 +5571,87 @@
       "hospitalized": null
     },
     {
-      "Date": "1629936000000",
+      "Date": "27/08/2021",
+      "new_cases": "0",
+      "total_cases": "1085",
+      "total_recovered": "1051",
+      "total_death": "9",
+      "existing": "25",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "28/08/2021",
+      "new_cases": "0",
+      "total_cases": "1085",
+      "total_recovered": "0",
+      "total_death": "0",
+      "existing": "1085",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "29/08/2021",
+      "new_cases": "0",
+      "total_cases": "1085",
+      "total_recovered": "1051",
+      "total_death": "9",
+      "existing": "25",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "30/08/2021",
+      "new_cases": "0",
+      "total_cases": "1085",
+      "total_recovered": "1051",
+      "total_death": "9",
+      "existing": "25",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "31/08/2021",
+      "new_cases": "0",
+      "total_cases": "1085",
+      "total_recovered": "1058",
+      "total_death": "9",
+      "existing": "18",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "1/09/2021",
+      "new_cases": "0",
+      "total_cases": "1085",
+      "total_recovered": "1059",
+      "total_death": "9",
+      "existing": "17",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "2/09/2021",
       "new_cases": "1",
       "total_cases": "1086",
-      "total_recovered": "1051",
+      "total_recovered": "1064",
       "total_death": "9",
-      "existing": "26",
+      "existing": "13",
       "total_ruledout": null,
       "hospitalized": null
     },
     {
-      "Date": "1630022400000",
+      "Date": "3/09/2021",
       "new_cases": "0",
       "total_cases": "1086",
-      "total_recovered": "1051",
+      "total_recovered": "1067",
       "total_death": "9",
-      "existing": "26",
+      "existing": "10",
       "total_ruledout": null,
       "hospitalized": null
     },
     {
-      "Date": "1630108800000",
+      "Date": "4/09/2021",
       "new_cases": "0",
       "total_cases": "1086",
       "total_recovered": "0",
@@ -5591,107 +5661,57 @@
       "hospitalized": null
     },
     {
-      "Date": "1630195200000",
-      "new_cases": "0",
-      "total_cases": "1086",
-      "total_recovered": "1051",
-      "total_death": "9",
-      "existing": "26",
-      "total_ruledout": null,
-      "hospitalized": null
-    },
-    {
-      "Date": "1630281600000",
-      "new_cases": "0",
-      "total_cases": "1086",
-      "total_recovered": "1051",
-      "total_death": "9",
-      "existing": "26",
-      "total_ruledout": null,
-      "hospitalized": null
-    },
-    {
-      "Date": "1630368000000",
-      "new_cases": "0",
-      "total_cases": "1086",
-      "total_recovered": "1058",
-      "total_death": "9",
-      "existing": "19",
-      "total_ruledout": null,
-      "hospitalized": null
-    },
-    {
-      "Date": "1630454400000",
-      "new_cases": "0",
-      "total_cases": "1086",
-      "total_recovered": "1059",
-      "total_death": "9",
-      "existing": "18",
-      "total_ruledout": null,
-      "hospitalized": null
-    },
-    {
-      "Date": "1630540800000",
+      "Date": "5/09/2021",
       "new_cases": "1",
       "total_cases": "1087",
-      "total_recovered": "1064",
-      "total_death": "9",
-      "existing": "14",
-      "total_ruledout": null,
-      "hospitalized": null
-    },
-    {
-      "Date": "1630627200000",
-      "new_cases": "0",
-      "total_cases": "1087",
-      "total_recovered": "1067",
-      "total_death": "9",
-      "existing": "11",
-      "total_ruledout": null,
-      "hospitalized": null
-    },
-    {
-      "Date": "1630713600000",
-      "new_cases": "0",
-      "total_cases": "1087",
-      "total_recovered": "0",
-      "total_death": "0",
-      "existing": "1087",
-      "total_ruledout": null,
-      "hospitalized": null
-    },
-    {
-      "Date": "1630800000000",
-      "new_cases": "1",
-      "total_cases": "1088",
       "total_recovered": "1070",
       "total_death": "9",
-      "existing": "9",
+      "existing": "8",
       "total_ruledout": null,
       "hospitalized": null
     },
     {
-      "Date": "1630886400000",
+      "Date": "6/09/2021",
       "new_cases": "0",
-      "total_cases": "1088",
+      "total_cases": "1087",
       "total_recovered": "1072",
       "total_death": "9",
-      "existing": "7",
+      "existing": "6",
       "total_ruledout": null,
       "hospitalized": null
     },
     {
-      "Date": "1630972800000",
+      "Date": "7/09/2021",
       "new_cases": "0",
-      "total_cases": "1088",
+      "total_cases": "1087",
       "total_recovered": "1074",
       "total_death": "9",
-      "existing": "5",
+      "existing": "4",
       "total_ruledout": null,
       "hospitalized": null
     },
     {
-      "Date": "1631059200000",
+      "Date": "8/09/2021",
+      "new_cases": "0",
+      "total_cases": "1087",
+      "total_recovered": "1077",
+      "total_death": "9",
+      "existing": "1",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "9/09/2021",
+      "new_cases": "1",
+      "total_cases": "1088",
+      "total_recovered": "1077",
+      "total_death": "9",
+      "existing": "2",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "10/09/2021",
       "new_cases": "0",
       "total_cases": "1088",
       "total_recovered": "1077",
@@ -5701,28 +5721,18 @@
       "hospitalized": null
     },
     {
-      "Date": "1631145600000",
+      "Date": "11/09/2021",
+      "new_cases": "0",
+      "total_cases": "1088",
+      "total_recovered": "0",
+      "total_death": "0",
+      "existing": "1088",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "12/09/2021",
       "new_cases": "1",
-      "total_cases": "1089",
-      "total_recovered": "1077",
-      "total_death": "9",
-      "existing": "3",
-      "total_ruledout": null,
-      "hospitalized": null
-    },
-    {
-      "Date": "1631232000000",
-      "new_cases": "0",
-      "total_cases": "1089",
-      "total_recovered": "1077",
-      "total_death": "9",
-      "existing": "3",
-      "total_ruledout": null,
-      "hospitalized": null
-    },
-    {
-      "Date": "1631318400000",
-      "new_cases": "0",
       "total_cases": "1089",
       "total_recovered": "0",
       "total_death": "0",
@@ -5731,17 +5741,37 @@
       "hospitalized": null
     },
     {
-      "Date": "1631404800000",
+      "Date": "13/09/2021",
       "new_cases": "1",
       "total_cases": "1090",
-      "total_recovered": "0",
-      "total_death": "0",
-      "existing": "1090",
+      "total_recovered": "1077",
+      "total_death": "9",
+      "existing": "4",
       "total_ruledout": null,
       "hospitalized": null
     },
     {
-      "Date": "1631491200000",
+      "Date": "14/09/2021",
+      "new_cases": "0",
+      "total_cases": "1090",
+      "total_recovered": "1077",
+      "total_death": "9",
+      "existing": "4",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "15/09/2021",
+      "new_cases": "0",
+      "total_cases": "1090",
+      "total_recovered": "1077",
+      "total_death": "9",
+      "existing": "4",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "16/09/2021",
       "new_cases": "1",
       "total_cases": "1091",
       "total_recovered": "1077",
@@ -5751,27 +5781,7 @@
       "hospitalized": null
     },
     {
-      "Date": "1631577600000",
-      "new_cases": "0",
-      "total_cases": "1091",
-      "total_recovered": "1077",
-      "total_death": "9",
-      "existing": "5",
-      "total_ruledout": null,
-      "hospitalized": null
-    },
-    {
-      "Date": "1631664000000",
-      "new_cases": "0",
-      "total_cases": "1091",
-      "total_recovered": "1077",
-      "total_death": "9",
-      "existing": "5",
-      "total_ruledout": null,
-      "hospitalized": null
-    },
-    {
-      "Date": "1631750400000",
+      "Date": "17/09/2021",
       "new_cases": "1",
       "total_cases": "1092",
       "total_recovered": "1077",
@@ -5781,58 +5791,58 @@
       "hospitalized": null
     },
     {
-      "Date": "1631836800000",
+      "Date": "18/09/2021",
       "new_cases": "1",
       "total_cases": "1093",
-      "total_recovered": "1077",
-      "total_death": "9",
-      "existing": "7",
-      "total_ruledout": null,
-      "hospitalized": null
-    },
-    {
-      "Date": "1631923200000",
-      "new_cases": "1",
-      "total_cases": "1094",
       "total_recovered": "1088",
       "total_death": "9",
-      "existing": "-3",
+      "existing": "-4",
       "total_ruledout": null,
       "hospitalized": null
     },
     {
-      "Date": "1632009600000",
+      "Date": "19/09/2021",
       "new_cases": "0",
-      "total_cases": "1094",
+      "total_cases": "1093",
       "total_recovered": "1078",
+      "total_death": "9",
+      "existing": "6",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "20/09/2021",
+      "new_cases": "0",
+      "total_cases": "1093",
+      "total_recovered": "1079",
+      "total_death": "9",
+      "existing": "5",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "21/09/2021",
+      "new_cases": "1",
+      "total_cases": "1094",
+      "total_recovered": "1080",
+      "total_death": "9",
+      "existing": "5",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "22/09/2021",
+      "new_cases": "2",
+      "total_cases": "1096",
+      "total_recovered": "1080",
       "total_death": "9",
       "existing": "7",
       "total_ruledout": null,
       "hospitalized": null
     },
     {
-      "Date": "1632096000000",
-      "new_cases": "0",
-      "total_cases": "1094",
-      "total_recovered": "1079",
-      "total_death": "9",
-      "existing": "6",
-      "total_ruledout": null,
-      "hospitalized": null
-    },
-    {
-      "Date": "1632182400000",
+      "Date": "23/09/2021",
       "new_cases": "1",
-      "total_cases": "1095",
-      "total_recovered": "1080",
-      "total_death": "9",
-      "existing": "6",
-      "total_ruledout": null,
-      "hospitalized": null
-    },
-    {
-      "Date": "1632268800000",
-      "new_cases": "2",
       "total_cases": "1097",
       "total_recovered": "1080",
       "total_death": "9",
@@ -5841,28 +5851,38 @@
       "hospitalized": null
     },
     {
-      "Date": "1632355200000",
+      "Date": "24/09/2021",
+      "new_cases": "3",
+      "total_cases": "1100",
+      "total_recovered": "1080",
+      "total_death": "9",
+      "existing": "11",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "25/09/2021",
+      "new_cases": "3",
+      "total_cases": "1103",
+      "total_recovered": "1080",
+      "total_death": "9",
+      "existing": "14",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "26/09/2021",
       "new_cases": "1",
-      "total_cases": "1098",
-      "total_recovered": "1080",
-      "total_death": "9",
-      "existing": "9",
+      "total_cases": "1104",
+      "total_recovered": "0",
+      "total_death": "0",
+      "existing": "1104",
       "total_ruledout": null,
       "hospitalized": null
     },
     {
-      "Date": "1632441600000",
-      "new_cases": "3",
-      "total_cases": "1101",
-      "total_recovered": "1080",
-      "total_death": "9",
-      "existing": "12",
-      "total_ruledout": null,
-      "hospitalized": null
-    },
-    {
-      "Date": "1632528000000",
-      "new_cases": "3",
+      "Date": "27/09/2021",
+      "new_cases": "0",
       "total_cases": "1104",
       "total_recovered": "1080",
       "total_death": "9",
@@ -5871,67 +5891,57 @@
       "hospitalized": null
     },
     {
-      "Date": "1632614400000",
-      "new_cases": "1",
-      "total_cases": "1105",
-      "total_recovered": "0",
-      "total_death": "0",
-      "existing": "1105",
-      "total_ruledout": null,
-      "hospitalized": null
-    },
-    {
-      "Date": "1632700800000",
+      "Date": "28/09/2021",
       "new_cases": "0",
-      "total_cases": "1105",
+      "total_cases": "1104",
       "total_recovered": "1080",
       "total_death": "9",
-      "existing": "16",
+      "existing": "15",
       "total_ruledout": null,
       "hospitalized": null
     },
     {
-      "Date": "1632787200000",
-      "new_cases": "0",
-      "total_cases": "1105",
-      "total_recovered": "1080",
-      "total_death": "9",
-      "existing": "16",
-      "total_ruledout": null,
-      "hospitalized": null
-    },
-    {
-      "Date": "1632873600000",
+      "Date": "29/09/2021",
       "new_cases": "1",
-      "total_cases": "1106",
+      "total_cases": "1105",
       "total_recovered": "1083",
+      "total_death": "9",
+      "existing": "13",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "30/09/2021",
+      "new_cases": "2",
+      "total_cases": "1107",
+      "total_recovered": "1084",
       "total_death": "9",
       "existing": "14",
       "total_ruledout": null,
       "hospitalized": null
     },
     {
-      "Date": "1632960000000",
-      "new_cases": "2",
-      "total_cases": "1108",
-      "total_recovered": "1084",
-      "total_death": "9",
-      "existing": "15",
-      "total_ruledout": null,
-      "hospitalized": null
-    },
-    {
-      "Date": "1633046400000",
+      "Date": "1/10/2021",
       "new_cases": "0",
-      "total_cases": "1108",
+      "total_cases": "1107",
       "total_recovered": "1084",
       "total_death": "9",
-      "existing": "15",
+      "existing": "14",
       "total_ruledout": null,
       "hospitalized": null
     },
     {
-      "Date": "1633132800000",
+      "Date": "2/10/2021",
+      "new_cases": "1",
+      "total_cases": "1108",
+      "total_recovered": "1085",
+      "total_death": "9",
+      "existing": "14",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "3/10/2021",
       "new_cases": "1",
       "total_cases": "1109",
       "total_recovered": "1085",
@@ -5941,39 +5951,69 @@
       "hospitalized": null
     },
     {
-      "Date": "1633219200000",
+      "Date": "4/10/2021",
+      "new_cases": "0",
+      "total_cases": "1109",
+      "total_recovered": "1085",
+      "total_death": "9",
+      "existing": "15",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "5/10/2021",
+      "new_cases": "0",
+      "total_cases": "1109",
+      "total_recovered": "1085",
+      "total_death": "9",
+      "existing": "15",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "6/10/2021",
+      "new_cases": "0",
+      "total_cases": "1109",
+      "total_recovered": "1086",
+      "total_death": "9",
+      "existing": "14",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "7/10/2021",
+      "new_cases": "0",
+      "total_cases": "1109",
+      "total_recovered": "1086",
+      "total_death": "9",
+      "existing": "14",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "8/10/2021",
+      "new_cases": "0",
+      "total_cases": "1109",
+      "total_recovered": "1086",
+      "total_death": "9",
+      "existing": "14",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "9/10/2021",
+      "new_cases": "0",
+      "total_cases": "1109",
+      "total_recovered": "1086",
+      "total_death": "9",
+      "existing": "14",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "10/10/2021",
       "new_cases": "1",
       "total_cases": "1110",
-      "total_recovered": "1085",
-      "total_death": "9",
-      "existing": "16",
-      "total_ruledout": null,
-      "hospitalized": null
-    },
-    {
-      "Date": "1633305600000",
-      "new_cases": "0",
-      "total_cases": "1110",
-      "total_recovered": "1085",
-      "total_death": "9",
-      "existing": "16",
-      "total_ruledout": null,
-      "hospitalized": null
-    },
-    {
-      "Date": "1633392000000",
-      "new_cases": "0",
-      "total_cases": "1110",
-      "total_recovered": "1085",
-      "total_death": "9",
-      "existing": "16",
-      "total_ruledout": null,
-      "hospitalized": null
-    },
-    {
-      "Date": "1633478400000",
-      "new_cases": "0",
-      "total_cases": "1110",
       "total_recovered": "1086",
       "total_death": "9",
       "existing": "15",
@@ -5981,218 +6021,338 @@
       "hospitalized": null
     },
     {
-      "Date": "1633564800000",
+      "Date": "11/10/2021",
       "new_cases": "0",
       "total_cases": "1110",
-      "total_recovered": "1086",
-      "total_death": "9",
-      "existing": "15",
-      "total_ruledout": null,
-      "hospitalized": null
-    },
-    {
-      "Date": "1633651200000",
-      "new_cases": "0",
-      "total_cases": "1110",
-      "total_recovered": "1086",
-      "total_death": "9",
-      "existing": "15",
-      "total_ruledout": null,
-      "hospitalized": null
-    },
-    {
-      "Date": "1633737600000",
-      "new_cases": "0",
-      "total_cases": "1110",
-      "total_recovered": "1086",
-      "total_death": "9",
-      "existing": "15",
-      "total_ruledout": null,
-      "hospitalized": null
-    },
-    {
-      "Date": "1633824000000",
-      "new_cases": "1",
-      "total_cases": "1111",
-      "total_recovered": "1086",
-      "total_death": "9",
-      "existing": "16",
-      "total_ruledout": null,
-      "hospitalized": null
-    },
-    {
-      "Date": "1633910400000",
-      "new_cases": "0",
-      "total_cases": "1111",
       "total_recovered": "1089",
       "total_death": "9",
-      "existing": "13",
+      "existing": "12",
       "total_ruledout": null,
       "hospitalized": null
     },
     {
-      "Date": "1633996800000",
+      "Date": "12/10/2021",
       "new_cases": "0",
-      "total_cases": "1111",
+      "total_cases": "1110",
       "total_recovered": "1089",
       "total_death": "9",
-      "existing": "13",
+      "existing": "12",
       "total_ruledout": null,
       "hospitalized": null
     },
     {
-      "Date": "1634083200000",
+      "Date": "13/10/2021",
       "new_cases": "1",
-      "total_cases": "1112",
+      "total_cases": "1111",
       "total_recovered": "1092",
-      "total_death": "9",
-      "existing": "11",
-      "total_ruledout": null,
-      "hospitalized": null
-    },
-    {
-      "Date": "1634169600000",
-      "new_cases": "0",
-      "total_cases": "1112",
-      "total_recovered": "1093",
       "total_death": "9",
       "existing": "10",
       "total_ruledout": null,
       "hospitalized": null
     },
     {
-      "Date": "1634256000000",
+      "Date": "14/10/2021",
       "new_cases": "0",
-      "total_cases": "1112",
-      "total_recovered": "1096",
+      "total_cases": "1111",
+      "total_recovered": "1093",
       "total_death": "9",
-      "existing": "7",
+      "existing": "9",
       "total_ruledout": null,
       "hospitalized": null
     },
     {
-      "Date": "1634342400000",
+      "Date": "15/10/2021",
       "new_cases": "0",
-      "total_cases": "1112",
-      "total_recovered": "1097",
+      "total_cases": "1111",
+      "total_recovered": "1096",
       "total_death": "9",
       "existing": "6",
       "total_ruledout": null,
       "hospitalized": null
     },
     {
-      "Date": "1634428800000",
+      "Date": "16/10/2021",
       "new_cases": "0",
-      "total_cases": "1112",
-      "total_recovered": "1099",
+      "total_cases": "1111",
+      "total_recovered": "1097",
       "total_death": "9",
-      "existing": "4",
+      "existing": "5",
       "total_ruledout": null,
       "hospitalized": null
     },
     {
-      "Date": "1634515200000",
+      "Date": "17/10/2021",
       "new_cases": "0",
-      "total_cases": "1112",
-      "total_recovered": "0",
-      "total_death": "0",
-      "existing": "1112",
-      "total_ruledout": null,
-      "hospitalized": null
-    },
-    {
-      "Date": "1634601600000",
-      "new_cases": "0",
-      "total_cases": "1112",
-      "total_recovered": "1100",
+      "total_cases": "1111",
+      "total_recovered": "1099",
       "total_death": "9",
       "existing": "3",
       "total_ruledout": null,
       "hospitalized": null
     },
     {
-      "Date": "1634688000000",
+      "Date": "18/10/2021",
       "new_cases": "0",
-      "total_cases": "1112",
-      "total_recovered": "1101",
+      "total_cases": "1111",
+      "total_recovered": "0",
+      "total_death": "0",
+      "existing": "1111",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "19/10/2021",
+      "new_cases": "0",
+      "total_cases": "1111",
+      "total_recovered": "1100",
       "total_death": "9",
       "existing": "2",
       "total_ruledout": null,
       "hospitalized": null
     },
     {
-      "Date": "1634774400000",
+      "Date": "20/10/2021",
       "new_cases": "0",
-      "total_cases": "1112",
+      "total_cases": "1111",
       "total_recovered": "1101",
-      "total_death": "9",
-      "existing": "2",
-      "total_ruledout": null,
-      "hospitalized": null
-    },
-    {
-      "Date": "1634860800000",
-      "new_cases": "0",
-      "total_cases": "1112",
-      "total_recovered": "1101",
-      "total_death": "9",
-      "existing": "2",
-      "total_ruledout": null,
-      "hospitalized": null
-    },
-    {
-      "Date": "1634947200000",
-      "new_cases": "0",
-      "total_cases": "1112",
-      "total_recovered": "1101",
-      "total_death": "9",
-      "existing": "2",
-      "total_ruledout": null,
-      "hospitalized": null
-    },
-    {
-      "Date": "1635033600000",
-      "new_cases": "0",
-      "total_cases": "1112",
-      "total_recovered": "1101",
-      "total_death": "9",
-      "existing": "2",
-      "total_ruledout": null,
-      "hospitalized": null
-    },
-    {
-      "Date": "1635120000000",
-      "new_cases": "0",
-      "total_cases": "1112",
-      "total_recovered": "1101",
-      "total_death": "9",
-      "existing": "2",
-      "total_ruledout": null,
-      "hospitalized": null
-    },
-    {
-      "Date": "1635206400000",
-      "new_cases": "0",
-      "total_cases": "1112",
-      "total_recovered": "1102",
       "total_death": "9",
       "existing": "1",
       "total_ruledout": null,
       "hospitalized": null
     },
     {
-      "Date": "1635292800000",
+      "Date": "21/10/2021",
       "new_cases": "0",
-      "total_cases": "1112",
-      "total_recovered": "1102",
+      "total_cases": "1111",
+      "total_recovered": "1101",
       "total_death": "9",
       "existing": "1",
       "total_ruledout": null,
       "hospitalized": null
     },
     {
-      "Date": "1635379200000",
+      "Date": "22/10/2021",
       "new_cases": "0",
+      "total_cases": "1111",
+      "total_recovered": "1101",
+      "total_death": "9",
+      "existing": "1",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "23/10/2021",
+      "new_cases": "0",
+      "total_cases": "1111",
+      "total_recovered": "1101",
+      "total_death": "9",
+      "existing": "1",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "24/10/2021",
+      "new_cases": "0",
+      "total_cases": "1111",
+      "total_recovered": "1101",
+      "total_death": "9",
+      "existing": "1",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "25/10/2021",
+      "new_cases": "0",
+      "total_cases": "1111",
+      "total_recovered": "1101",
+      "total_death": "9",
+      "existing": "1",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "26/10/2021",
+      "new_cases": "0",
+      "total_cases": "1111",
+      "total_recovered": "1102",
+      "total_death": "9",
+      "existing": "0",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "27/10/2021",
+      "new_cases": "0",
+      "total_cases": "1111",
+      "total_recovered": "1102",
+      "total_death": "9",
+      "existing": "0",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "28/10/2021",
+      "new_cases": "0",
+      "total_cases": "1111",
+      "total_recovered": "1103",
+      "total_death": "9",
+      "existing": "-1",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "29/10/2021",
+      "new_cases": "0",
+      "total_cases": "1111",
+      "total_recovered": "1103",
+      "total_death": "9",
+      "existing": "-1",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "30/10/2021",
+      "new_cases": "0",
+      "total_cases": "1111",
+      "total_recovered": "1103",
+      "total_death": "9",
+      "existing": "-1",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "31/10/2021",
+      "new_cases": "0",
+      "total_cases": "1111",
+      "total_recovered": "1103",
+      "total_death": "9",
+      "existing": "-1",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "1/11/2021",
+      "new_cases": "0",
+      "total_cases": "1111",
+      "total_recovered": "1103",
+      "total_death": "9",
+      "existing": "-1",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "2/11/2021",
+      "new_cases": "0",
+      "total_cases": "1111",
+      "total_recovered": "1103",
+      "total_death": "9",
+      "existing": "-1",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "3/11/2021",
+      "new_cases": "0",
+      "total_cases": "1111",
+      "total_recovered": "1103",
+      "total_death": "9",
+      "existing": "-1",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "4/11/2021",
+      "new_cases": "0",
+      "total_cases": "1111",
+      "total_recovered": "1103",
+      "total_death": "9",
+      "existing": "-1",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "5/11/2021",
+      "new_cases": "0",
+      "total_cases": "1111",
+      "total_recovered": "1103",
+      "total_death": "9",
+      "existing": "-1",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "6/11/2021",
+      "new_cases": "0",
+      "total_cases": "1111",
+      "total_recovered": "1103",
+      "total_death": "9",
+      "existing": "-1",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "7/11/2021",
+      "new_cases": "0",
+      "total_cases": "1111",
+      "total_recovered": "1103",
+      "total_death": "9",
+      "existing": "-1",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "8/11/2021",
+      "new_cases": "0",
+      "total_cases": "1111",
+      "total_recovered": "1103",
+      "total_death": "9",
+      "existing": "-1",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "9/11/2021",
+      "new_cases": "0",
+      "total_cases": "1111",
+      "total_recovered": "1103",
+      "total_death": "9",
+      "existing": "-1",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "10/11/2021",
+      "new_cases": "0",
+      "total_cases": "1111",
+      "total_recovered": "1103",
+      "total_death": "9",
+      "existing": "-1",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "11/11/2021",
+      "new_cases": "0",
+      "total_cases": "1111",
+      "total_recovered": "1103",
+      "total_death": "9",
+      "existing": "-1",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "12/11/2021",
+      "new_cases": "0",
+      "total_cases": "1111",
+      "total_recovered": "1103",
+      "total_death": "9",
+      "existing": "-1",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "13/11/2021",
+      "new_cases": "1",
       "total_cases": "1112",
       "total_recovered": "1103",
       "total_death": "9",
@@ -6201,72 +6361,412 @@
       "hospitalized": null
     },
     {
-      "Date": "1635465600000",
-      "new_cases": "0",
-      "total_cases": "1112",
+      "Date": "14/11/2021",
+      "new_cases": "3",
+      "total_cases": "1115",
       "total_recovered": "1103",
       "total_death": "9",
-      "existing": "0",
+      "existing": "3",
       "total_ruledout": null,
       "hospitalized": null
     },
     {
-      "Date": "1635552000000",
+      "Date": "15/11/2021",
       "new_cases": "0",
-      "total_cases": "1112",
+      "total_cases": "1115",
       "total_recovered": "1103",
       "total_death": "9",
-      "existing": "0",
+      "existing": "3",
       "total_ruledout": null,
       "hospitalized": null
     },
     {
-      "Date": "1635638400000",
-      "new_cases": "0",
-      "total_cases": "1112",
+      "Date": "16/11/2021",
+      "new_cases": "1",
+      "total_cases": "1116",
       "total_recovered": "1103",
       "total_death": "9",
-      "existing": "0",
+      "existing": "4",
       "total_ruledout": null,
       "hospitalized": null
     },
     {
-      "Date": "1635724800000",
-      "new_cases": "0",
-      "total_cases": "1112",
+      "Date": "17/11/2021",
+      "new_cases": "2",
+      "total_cases": "1118",
       "total_recovered": "1103",
       "total_death": "9",
-      "existing": "0",
+      "existing": "6",
       "total_ruledout": null,
       "hospitalized": null
     },
     {
-      "Date": "1635811200000",
+      "Date": "18/11/2021",
       "new_cases": "0",
-      "total_cases": "1112",
+      "total_cases": "1118",
       "total_recovered": "1103",
       "total_death": "9",
-      "existing": "0",
+      "existing": "6",
       "total_ruledout": null,
       "hospitalized": null
     },
     {
-      "Date": "1635897600000",
-      "new_cases": "0",
-      "total_cases": "1112",
+      "Date": "19/11/2021",
+      "new_cases": "1",
+      "total_cases": "1119",
       "total_recovered": "1103",
       "total_death": "9",
-      "existing": "0",
+      "existing": "7",
       "total_ruledout": null,
       "hospitalized": null
     },
     {
-      "Date": "1635984000000",
-      "new_cases": "0",
-      "total_cases": "1112",
+      "Date": "20/11/2021",
+      "new_cases": "1",
+      "total_cases": "1120",
       "total_recovered": "1103",
       "total_death": "9",
-      "existing": "0",
+      "existing": "8",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "21/11/2021",
+      "new_cases": "0",
+      "total_cases": "1120",
+      "total_recovered": "1103",
+      "total_death": "9",
+      "existing": "8",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "22/11/2021",
+      "new_cases": "0",
+      "total_cases": "1120",
+      "total_recovered": "1103",
+      "total_death": "9",
+      "existing": "8",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "23/11/2021",
+      "new_cases": "1",
+      "total_cases": "1121",
+      "total_recovered": "1103",
+      "total_death": "9",
+      "existing": "9",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "24/11/2021",
+      "new_cases": "0",
+      "total_cases": "1121",
+      "total_recovered": "1104",
+      "total_death": "9",
+      "existing": "8",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "25/11/2021",
+      "new_cases": "0",
+      "total_cases": "1121",
+      "total_recovered": "1105",
+      "total_death": "9",
+      "existing": "7",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "26/11/2021",
+      "new_cases": "0",
+      "total_cases": "1121",
+      "total_recovered": "1105",
+      "total_death": "9",
+      "existing": "7",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "27/11/2021",
+      "new_cases": "0",
+      "total_cases": "1121",
+      "total_recovered": "1106",
+      "total_death": "9",
+      "existing": "6",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "28/11/2021",
+      "new_cases": "0",
+      "total_cases": "1121",
+      "total_recovered": "1109",
+      "total_death": "9",
+      "existing": "3",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "29/11/2021",
+      "new_cases": "0",
+      "total_cases": "1121",
+      "total_recovered": "1109",
+      "total_death": "9",
+      "existing": "3",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "30/11/2021",
+      "new_cases": "1",
+      "total_cases": "1122",
+      "total_recovered": "1111",
+      "total_death": "9",
+      "existing": "2",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "1/12/2021",
+      "new_cases": "0",
+      "total_cases": "1122",
+      "total_recovered": "1111",
+      "total_death": "9",
+      "existing": "2",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "2/12/2021",
+      "new_cases": "0",
+      "total_cases": "1122",
+      "total_recovered": "1111",
+      "total_death": "9",
+      "existing": "2",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "3/12/2021",
+      "new_cases": "0",
+      "total_cases": "1122",
+      "total_recovered": "1111",
+      "total_death": "9",
+      "existing": "2",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "4/12/2021",
+      "new_cases": "0",
+      "total_cases": "1122",
+      "total_recovered": "0",
+      "total_death": "0",
+      "existing": "1122",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "5/12/2021",
+      "new_cases": "0",
+      "total_cases": "1122",
+      "total_recovered": "1112",
+      "total_death": "9",
+      "existing": "1",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "6/12/2021",
+      "new_cases": "1",
+      "total_cases": "1123",
+      "total_recovered": "1112",
+      "total_death": "9",
+      "existing": "2",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "7/12/2021",
+      "new_cases": "0",
+      "total_cases": "1123",
+      "total_recovered": "1112",
+      "total_death": "9",
+      "existing": "2",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "8/12/2021",
+      "new_cases": "0",
+      "total_cases": "1123",
+      "total_recovered": "1112",
+      "total_death": "9",
+      "existing": "2",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "9/12/2021",
+      "new_cases": "0",
+      "total_cases": "1123",
+      "total_recovered": "1112",
+      "total_death": "9",
+      "existing": "2",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "10/12/2021",
+      "new_cases": "0",
+      "total_cases": "1123",
+      "total_recovered": "1112",
+      "total_death": "9",
+      "existing": "2",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "11/12/2021",
+      "new_cases": "1",
+      "total_cases": "1124",
+      "total_recovered": "1112",
+      "total_death": "9",
+      "existing": "3",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "12/12/2021",
+      "new_cases": "1",
+      "total_cases": "1125",
+      "total_recovered": "1113",
+      "total_death": "9",
+      "existing": "3",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "13/12/2021",
+      "new_cases": "0",
+      "total_cases": "1125",
+      "total_recovered": "1113",
+      "total_death": "9",
+      "existing": "3",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "14/12/2021",
+      "new_cases": "0",
+      "total_cases": "1125",
+      "total_recovered": "1113",
+      "total_death": "9",
+      "existing": "3",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "15/12/2021",
+      "new_cases": "0",
+      "total_cases": "1125",
+      "total_recovered": "1113",
+      "total_death": "9",
+      "existing": "3",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "16/12/2021",
+      "new_cases": "0",
+      "total_cases": "1125",
+      "total_recovered": "1113",
+      "total_death": "9",
+      "existing": "3",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "17/12/2021",
+      "new_cases": "0",
+      "total_cases": "1125",
+      "total_recovered": "0",
+      "total_death": "0",
+      "existing": "1125",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "18/12/2021",
+      "new_cases": "1",
+      "total_cases": "1126",
+      "total_recovered": "1113",
+      "total_death": "9",
+      "existing": "4",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "19/12/2021",
+      "new_cases": "2",
+      "total_cases": "1128",
+      "total_recovered": "0",
+      "total_death": "0",
+      "existing": "1128",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "20/12/2021",
+      "new_cases": "3",
+      "total_cases": "1131",
+      "total_recovered": "1114",
+      "total_death": "9",
+      "existing": "8",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "21/12/2021",
+      "new_cases": "0",
+      "total_cases": "1131",
+      "total_recovered": "1114",
+      "total_death": "9",
+      "existing": "8",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "22/12/2021",
+      "new_cases": "0",
+      "total_cases": "1131",
+      "total_recovered": "1114",
+      "total_death": "9",
+      "existing": "8",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "23/12/2021",
+      "new_cases": "0",
+      "total_cases": "1131",
+      "total_recovered": "0",
+      "total_death": "0",
+      "existing": "1131",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "24/12/2021",
+      "new_cases": "0",
+      "total_cases": "1131",
+      "total_recovered": "1114",
+      "total_death": "9",
+      "existing": "8",
       "total_ruledout": null,
       "hospitalized": null
     }

@@ -27,6 +27,9 @@ namespace WACovidStats
                 var item = it.First().First();
                 StatsOb stat = new StatsOb();
                 stat.Date = (string)((JValue)item["date"]).Value.ToString();
+                long unixmil = long.Parse(stat.Date);
+                var itdate = DateTimeOffset.FromUnixTimeMilliseconds(unixmil);
+                stat.Date = itdate.Date.ToShortDateString();
                 stat.new_cases = (string)((JValue)item["new_cases"]).Value.ToString();
                 stat.total_cases = (string)((JValue)item["total_cases"]).Value.ToString();
                 stat.total_recovered = (string)((JValue)item["total_recovered"]).Value.ToString();
