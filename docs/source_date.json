@@ -7457,6 +7457,72 @@
       "Pending": "0",
       "Unknown": "14",
       "TotalConfirmed": "1142"
+    },
+    {
+      "Date": "26/12/2021",
+      "FID": "734",
+      "CloseContact": "99",
+      "CruiseShip": "345",
+      "Interstate": "12",
+      "Overseas": "673",
+      "Pending": "0",
+      "Unknown": "14",
+      "TotalConfirmed": "1143"
+    },
+    {
+      "Date": "27/12/2021",
+      "FID": "735",
+      "CloseContact": "101",
+      "CruiseShip": "345",
+      "Interstate": "12",
+      "Overseas": "673",
+      "Pending": "0",
+      "Unknown": "14",
+      "TotalConfirmed": "1145"
+    },
+    {
+      "Date": "28/12/2021",
+      "FID": "736",
+      "CloseContact": "101",
+      "CruiseShip": "345",
+      "Interstate": "14",
+      "Overseas": "675",
+      "Pending": "0",
+      "Unknown": "14",
+      "TotalConfirmed": "1148"
+    },
+    {
+      "Date": "29/12/2021",
+      "FID": "737",
+      "CloseContact": "101",
+      "CruiseShip": "345",
+      "Interstate": "13",
+      "Overseas": "675",
+      "Pending": "0",
+      "Unknown": "14",
+      "TotalConfirmed": "1148"
+    },
+    {
+      "Date": "30/12/2021",
+      "FID": "738",
+      "CloseContact": "103",
+      "CruiseShip": "345",
+      "Interstate": "13",
+      "Overseas": "676",
+      "Pending": "0",
+      "Unknown": "14",
+      "TotalConfirmed": "1153"
+    },
+    {
+      "Date": "31/12/2021",
+      "FID": "739",
+      "CloseContact": "104",
+      "CruiseShip": "345",
+      "Interstate": "14",
+      "Overseas": "679",
+      "Pending": "0",
+      "Unknown": "14",
+      "TotalConfirmed": "1158"
     }
   ]
 }
