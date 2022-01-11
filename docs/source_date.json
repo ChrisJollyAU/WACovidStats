@@ -7523,6 +7523,127 @@
       "Pending": "0",
       "Unknown": "14",
       "TotalConfirmed": "1158"
+    },
+    {
+      "Date": "1/01/2022",
+      "FID": "740",
+      "CloseContact": "106",
+      "CruiseShip": "345",
+      "Interstate": "15",
+      "Overseas": "680",
+      "Pending": "1",
+      "Unknown": "14",
+      "TotalConfirmed": "1161"
+    },
+    {
+      "Date": "2/01/2022",
+      "FID": "741",
+      "CloseContact": "106",
+      "CruiseShip": "345",
+      "Interstate": "15",
+      "Overseas": "683",
+      "Pending": "1",
+      "Unknown": "15",
+      "TotalConfirmed": "1168"
+    },
+    {
+      "Date": "3/01/2022",
+      "FID": "742",
+      "CloseContact": "107",
+      "CruiseShip": "345",
+      "Interstate": "21",
+      "Overseas": "685",
+      "Pending": "2",
+      "Unknown": "16",
+      "TotalConfirmed": "1176"
+    },
+    {
+      "Date": "4/01/2022",
+      "FID": "743",
+      "CloseContact": "107",
+      "CruiseShip": "345",
+      "Interstate": "32",
+      "Overseas": "688",
+      "Pending": "2",
+      "Unknown": "16",
+      "TotalConfirmed": "1190"
+    },
+    {
+      "Date": "5/01/2022",
+      "FID": "744",
+      "CloseContact": "110",
+      "CruiseShip": "345",
+      "Interstate": "37",
+      "Overseas": "693",
+      "Pending": "3",
+      "Unknown": "18",
+      "TotalConfirmed": "1206"
+    },
+    {
+      "Date": "6/01/2022",
+      "FID": "745",
+      "CloseContact": "111",
+      "CruiseShip": "345",
+      "Interstate": "45",
+      "Overseas": "694",
+      "Pending": "2",
+      "Unknown": "18",
+      "TotalConfirmed": "1215"
+    },
+    {
+      "Date": "7/01/2022",
+      "FID": "746",
+      "CloseContact": "111",
+      "CruiseShip": "345",
+      "Interstate": "49",
+      "Overseas": "697",
+      "Pending": "2",
+      "Unknown": "17",
+      "TotalConfirmed": "1221"
+    },
+    {
+      "Date": "8/01/2022",
+      "FID": "747",
+      "CloseContact": "112",
+      "CruiseShip": "345",
+      "Interstate": "55",
+      "Overseas": "698",
+      "Pending": "2",
+      "Unknown": "17",
+      "TotalConfirmed": "1229"
+    },
+    {
+      "Date": "9/01/2022",
+      "FID": "748",
+      "CloseContact": "116",
+      "CruiseShip": "345",
+      "Interstate": "56",
+      "Overseas": "698",
+      "Pending": "1",
+      "Unknown": "15",
+      "TotalConfirmed": "1231"
+    },
+    {
+      "Date": "10/01/2022",
+      "FID": "749",
+      "CloseContact": "119",
+      "CruiseShip": "345",
+      "Interstate": "60",
+      "Overseas": "699",
+      "Pending": "0",
+      "Unknown": "16",
+      "TotalConfirmed": "1239"
+    },
+    {
+      "Date": "11/01/2022",
+      "FID": "750",
+      "CloseContact": "122",
+      "CruiseShip": "345",
+      "Interstate": "71",
+      "Overseas": "700",
+      "Pending": "0",
+      "Unknown": "16",
+      "TotalConfirmed": "1254"
     }
   ]
 }

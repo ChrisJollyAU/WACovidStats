@@ -6,11 +6,13 @@ namespace WACovidStats
     {
         static void Main(string[] args)
         {
-            CaseLGA.Execute();
+            //CaseLGA.Execute();
             TotalSummary.Execute();
             SOF.Execute();
             SOFDate.Execute();
             DetailsDate.Execute();
+            Wastewater.Execute();
+            Ages.Execute();
             Console.WriteLine("Hello World!");
         }
     }
