@@ -43,7 +43,7 @@ namespace WACovidStats
             JsonObject item2 = new JsonObject();
             //item2.Add("date_updated", latestdate);
             item2.Add("data", list);
-            File.WriteAllText("source_date.json", JsonConvert.SerializeObject(item2, Formatting.Indented));
+            File.WriteAllText("docs/source_date.json", JsonConvert.SerializeObject(item2, Formatting.Indented));
         }
     }
 

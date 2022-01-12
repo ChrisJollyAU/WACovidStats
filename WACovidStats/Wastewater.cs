@@ -41,7 +41,7 @@ namespace WACovidStats
             JsonObject item2 = new JsonObject();
             //item2.Add("date_updated", latestdate);
             item2.Add("data", list);
-            File.WriteAllText("wastewater.json", JsonConvert.SerializeObject(item2, Formatting.Indented));
+            File.WriteAllText("docs/wastewater.json", JsonConvert.SerializeObject(item2, Formatting.Indented));
         }
     }
 
