@@ -17,16 +17,16 @@
     {
       "FID": "3",
       "Age_Group": "20-29",
-      "Male": "144",
+      "Male": "145",
       "Female": "113",
-      "Total": "257"
+      "Total": "258"
     },
     {
       "FID": "4",
       "Age_Group": "30-39",
       "Male": "207",
-      "Female": "95",
-      "Total": "302"
+      "Female": "96",
+      "Total": "303"
     },
     {
       "FID": "5",
@@ -39,8 +39,8 @@
       "FID": "6",
       "Age_Group": "50-59",
       "Male": "119",
-      "Female": "65",
-      "Total": "184"
+      "Female": "66",
+      "Total": "185"
     },
     {
       "FID": "7",
@@ -66,9 +66,9 @@
     {
       "FID": "10",
       "Age_Group": "Total",
-      "Male": "800",
-      "Female": "494",
-      "Total": "1294"
+      "Male": "801",
+      "Female": "496",
+      "Total": "1297"
     }
   ]
 }
