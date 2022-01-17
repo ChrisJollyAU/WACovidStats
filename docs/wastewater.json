@@ -378,8 +378,8 @@
       "Latest_Res": "Expected detection",
       "Date_Colle": "14/01/2022",
       "GlobalID": "c5b51f34-7b40-4d36-8669-99f1f33d4501",
-      "Metro_Region": "Metro old",
-      "Result_Image": null,
+      "Metro_Region": "Metro",
+      "Result_Image": "https://dohwa.maps.arcgis.com/sharing/rest/content/items/4e30170f05534aa5aaf47aafae08b897/data",
       "Symbol": "https://healthmapgallery.health.wa.gov.au/DashboardSymbols/Detected.png",
       "CatchmentType": "Subcatchment",
       "Latest_Results_Capitalize": "Expected detection"
