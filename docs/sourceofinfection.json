@@ -2,8 +2,8 @@
   "data": [
     {
       "Name": "Overseas travel",
-      "Number": "707",
-      "Active": "15",
+      "Number": "709",
+      "Active": "14",
       "NumberLast7Days": "528",
       "NumberLast24Hours": "533"
     },
@@ -16,15 +16,15 @@
     },
     {
       "Name": " Close contact",
-      "Number": "134",
+      "Number": "136",
       "Active": "23",
       "NumberLast7Days": "80",
       "NumberLast24Hours": "80"
     },
     {
       "Name": "Interstate travel",
-      "Number": "107",
-      "Active": "68",
+      "Number": "117",
+      "Active": "72",
       "NumberLast7Days": "7",
       "NumberLast24Hours": "7"
     },
