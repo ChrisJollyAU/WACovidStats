@@ -3,7 +3,7 @@
     {
       "Name": "Overseas travel",
       "Number": "709",
-      "Active": "14",
+      "Active": "10",
       "NumberLast7Days": "528",
       "NumberLast24Hours": "533"
     },
@@ -16,15 +16,15 @@
     },
     {
       "Name": " Close contact",
-      "Number": "136",
-      "Active": "23",
+      "Number": "138",
+      "Active": "17",
       "NumberLast7Days": "80",
       "NumberLast24Hours": "80"
     },
     {
       "Name": "Interstate travel",
-      "Number": "117",
-      "Active": "72",
+      "Number": "119",
+      "Active": "55",
       "NumberLast7Days": "7",
       "NumberLast24Hours": "7"
     },
@@ -37,8 +37,8 @@
     },
     {
       "Name": "Pending",
-      "Number": "0",
-      "Active": "0",
+      "Number": "1",
+      "Active": "1",
       "NumberLast7Days": "0",
       "NumberLast24Hours": "0"
     }
