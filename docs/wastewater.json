@@ -26,7 +26,7 @@
     },
     {
       "FID": "53",
-      "WWTP": "Anaconda",
+      "WWTP": "Anaconda (WP3)",
       "Latest_Res": "Not detected",
       "Date_Colle": "14/01/2022",
       "GlobalID": "c59296d9-365f-4730-acd9-6576b12e0a2c",
@@ -37,20 +37,8 @@
       "Latest_Results_Capitalize": "Not detected"
     },
     {
-      "FID": "75",
-      "WWTP": "Armagh",
-      "Latest_Res": "Expected detection",
-      "Date_Colle": "14/01/2022",
-      "GlobalID": "76d0833c-1fe9-4318-8472-2d13aff341cf",
-      "Metro_Region": "Metro",
-      "Result_Image": "https://dohwa.maps.arcgis.com/sharing/rest/content/items/ef6aef905f554556b52c1699e2e3e515/data",
-      "Symbol": "https://healthmapgallery.health.wa.gov.au/DashboardSymbols/Detected.png",
-      "CatchmentType": "Subcatchment",
-      "Latest_Results_Capitalize": "Expected detection"
-    },
-    {
       "FID": "47",
-      "WWTP": "Balga B.S.",
+      "WWTP": "Balga B.S.(BE3)",
       "Latest_Res": "Not detected",
       "Date_Colle": "03/01/2022",
       "GlobalID": "9bae2baa-ba25-4572-9690-a8f294d9d51c",
@@ -110,7 +98,7 @@
     },
     {
       "FID": "52",
-      "WWTP": "Booragoon",
+      "WWTP": "Booragoon (WP6)",
       "Latest_Res": "Not detected",
       "Date_Colle": "14/01/2022",
       "GlobalID": "9dbc95e4-7d01-4460-bbbc-016a10a3f434",
@@ -158,7 +146,7 @@
     },
     {
       "FID": "50",
-      "WWTP": "Burns Beach M.S.",
+      "WWTP": "Burns Beach M.S.(BE7)",
       "Latest_Res": "Not detected",
       "Date_Colle": "03/01/2022",
       "GlobalID": "386424e0-2491-475d-83e0-959050fdb7f4",
@@ -182,7 +170,7 @@
     },
     {
       "FID": "85",
-      "WWTP": "Claremont",
+      "WWTP": "Claremont (SU1)",
       "Latest_Res": "Not detected",
       "Date_Colle": "25/01/2022",
       "GlobalID": "4da69073-7d0a-4488-b016-b441f4405916",
@@ -194,7 +182,7 @@
     },
     {
       "FID": "86",
-      "WWTP": "Cottesloe",
+      "WWTP": "Cottesloe (SU2)",
       "Latest_Res": "Not detected",
       "Date_Colle": "25/01/2022",
       "GlobalID": "e7444775-13da-4bfe-a56c-f5ae445f19b5",
@@ -218,7 +206,7 @@
     },
     {
       "FID": "88",
-      "WWTP": "Floreat",
+      "WWTP": "Floreat (SU3)",
       "Latest_Res": "Not detected",
       "Date_Colle": "25/01/2022",
       "GlobalID": "31ccbae2-8528-4b56-a788-af49f4c0f6c1",
@@ -266,7 +254,7 @@
     },
     {
       "FID": "48",
-      "WWTP": "Hamersley M.S.1",
+      "WWTP": "Hamersley M.S.1 (BE4)",
       "Latest_Res": "Not detected",
       "Date_Colle": "03/01/2022",
       "GlobalID": "b30ba508-5c20-492c-9cdf-51322702854b",
@@ -278,7 +266,7 @@
     },
     {
       "FID": "62",
-      "WWTP": "Hamersley M.S.2",
+      "WWTP": "Hamersley M.S.2 (BE5)",
       "Latest_Res": "Not detected",
       "Date_Colle": "03/01/2022",
       "GlobalID": "be13b665-5b1e-4ef5-b915-05f601b7b724",
@@ -314,7 +302,7 @@
     },
     {
       "FID": "51",
-      "WWTP": "Kardinya MS",
+      "WWTP": "Kardinya MS (WP9)",
       "Latest_Res": "Expected detection",
       "Date_Colle": "14/01/2022",
       "GlobalID": "5dab673d-116d-4954-b219-20c71a57e1ac",
@@ -362,7 +350,7 @@
     },
     {
       "FID": "63",
-      "WWTP": "Midland & Eden Hill",
+      "WWTP": "Midland & Eden Hill (BE1)",
       "Latest_Res": "Not detected",
       "Date_Colle": "03/01/2022",
       "GlobalID": "47a8c08f-c34b-453b-8ee0-272ecceeb7c9",
@@ -373,8 +361,20 @@
       "Latest_Results_Capitalize": "Not detected"
     },
     {
+      "FID": "75",
+      "WWTP": "Midland & Eden Hill (BE1)",
+      "Latest_Res": "Expected detection",
+      "Date_Colle": "14/01/2022",
+      "GlobalID": "76d0833c-1fe9-4318-8472-2d13aff341cf",
+      "Metro_Region": "Metro",
+      "Result_Image": "https://dohwa.maps.arcgis.com/sharing/rest/content/items/ef6aef905f554556b52c1699e2e3e515/data",
+      "Symbol": "https://healthmapgallery.health.wa.gov.au/DashboardSymbols/Detected.png",
+      "CatchmentType": "Subcatchment",
+      "Latest_Results_Capitalize": "Expected detection"
+    },
+    {
       "FID": "83",
-      "WWTP": "Montgomery Ave",
+      "WWTP": "Montgomery Ave (SU4)",
       "Latest_Res": "Not detected",
       "Date_Colle": "25/01/2022",
       "GlobalID": "b9e0d4c5-34be-43ce-bbd9-3794d417cb90",
@@ -410,7 +410,7 @@
     },
     {
       "FID": "84",
-      "WWTP": "Perry Lakes",
+      "WWTP": "Perry Lakes (SU5)",
       "Latest_Res": "Unexpected detection",
       "Date_Colle": "25/01/2022",
       "GlobalID": "e621cd23-bfb7-4ba5-9997-a8be14a53787",
@@ -422,7 +422,7 @@
     },
     {
       "FID": "87",
-      "WWTP": "Perth",
+      "WWTP": "Perth (SU6)",
       "Latest_Res": "Not detected",
       "Date_Colle": "25/01/2022",
       "GlobalID": "81f810bd-6de7-45fd-85ae-16f67dfd5c6c",
@@ -446,7 +446,7 @@
     },
     {
       "FID": "78",
-      "WWTP": "Richmond",
+      "WWTP": "Richmond (WP2)",
       "Latest_Res": "Expected detection",
       "Date_Colle": "14/01/2022",
       "GlobalID": "c5b51f34-7b40-4d36-8669-99f1f33d4501",
@@ -470,7 +470,7 @@
     },
     {
       "FID": "90",
-      "WWTP": "Scarborough",
+      "WWTP": "Scarborough (SU7)",
       "Latest_Res": "Not detected",
       "Date_Colle": "25/01/2022",
       "GlobalID": "a71093f9-5382-44b8-8bd1-51cb9d67d8a3",
@@ -494,7 +494,7 @@
     },
     {
       "FID": "76",
-      "WWTP": "Spearwood Bs",
+      "WWTP": "Spearwood Bs (WP8)",
       "Latest_Res": "Expected detection",
       "Date_Colle": "14/01/2022",
       "GlobalID": "06823246-2581-4f42-8cab-322221ac2ad1",
@@ -518,7 +518,7 @@
     },
     {
       "FID": "89",
-      "WWTP": "Subiaco Sub",
+      "WWTP": "Subiaco (SU8)",
       "Latest_Res": "Not detected",
       "Date_Colle": "25/01/2022",
       "GlobalID": "a20b5d5d-1f93-4536-a173-901b88388259",
@@ -530,7 +530,7 @@
     },
     {
       "FID": "77",
-      "WWTP": "Thomsons Lake Ms",
+      "WWTP": "Thomsons Lake Ms (WP7)",
       "Latest_Res": "Expected detection",
       "Date_Colle": "14/01/2022",
       "GlobalID": "d282726f-646c-415a-a555-fbbae794e907",
@@ -542,7 +542,7 @@
     },
     {
       "FID": "49",
-      "WWTP": "Wanneroo M.S.",
+      "WWTP": "Wanneroo M.S.(BE6)",
       "Latest_Res": "Not detected",
       "Date_Colle": "03/01/2022",
       "GlobalID": "6414d352-f45e-4c4d-8e72-e6da809e0166",
@@ -578,7 +578,7 @@
     },
     {
       "FID": "80",
-      "WWTP": "Waterworks",
+      "WWTP": "Waterworks (WP4)",
       "Latest_Res": "Not detected",
       "Date_Colle": "14/01/2022",
       "GlobalID": "59b56f71-0f35-4073-a995-577018c77b08",
@@ -590,14 +590,14 @@
     },
     {
       "FID": "61",
-      "WWTP": "Willetton & Canning Vale North SD",
+      "WWTP": "Willetton & Canning Vale North SD (WP5)",
       "Latest_Res": "Not detected",
       "Date_Colle": "14/01/2022",
       "GlobalID": "aef3f226-466a-4bd5-a7ea-c31a1c6c4810",
       "Metro_Region": "Metro",
       "Result_Image": "https://dohwa.maps.arcgis.com/sharing/rest/content/items/6c88e35642c0420c8ac0e73d3b83d316/data",
       "Symbol": "https://healthmapgallery.health.wa.gov.au/DashboardSymbols/NotDetected.png",
-      "CatchmentType": "Catchment",
+      "CatchmentType": "Subcatchment",
       "Latest_Results_Capitalize": "Not detected"
     },
     {
@@ -614,7 +614,7 @@
     },
     {
       "FID": "64",
-      "WWTP": "Yokine Main PS Cresswell Rd",
+      "WWTP": "Yokine Main PS Cresswell Rd (BE2)",
       "Latest_Res": "Not detected",
       "Date_Colle": "03/01/2022",
       "GlobalID": "2458d567-d4ea-4b89-95b6-196a872b07a6",
