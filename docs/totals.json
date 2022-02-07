@@ -7182,41 +7182,41 @@
     },
     {
       "Date": "2/4/2022",
-      "new_cases": "39",
-      "total_cases": "1722",
+      "new_cases": "40",
+      "total_cases": "1723",
       "total_recovered": "1428",
       "total_death": "9",
-      "existing": "285",
+      "existing": "286",
       "total_ruledout": null,
       "hospitalized": null
     },
     {
       "Date": "2/5/2022",
       "new_cases": "23",
-      "total_cases": "1745",
+      "total_cases": "1746",
       "total_recovered": "1448",
       "total_death": "9",
-      "existing": "288",
+      "existing": "289",
       "total_ruledout": null,
       "hospitalized": null
     },
     {
       "Date": "2/6/2022",
       "new_cases": "2",
-      "total_cases": "1747",
+      "total_cases": "1748",
       "total_recovered": "1457",
       "total_death": "9",
-      "existing": "281",
+      "existing": "282",
       "total_ruledout": null,
       "hospitalized": null
     },
     {
       "Date": "2/7/2022",
       "new_cases": "0",
-      "total_cases": "1747",
+      "total_cases": "1748",
       "total_recovered": "1474",
       "total_death": "9",
-      "existing": "264",
+      "existing": "265",
       "total_ruledout": null,
       "hospitalized": null
     }
