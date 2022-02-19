@@ -7329,6 +7329,16 @@
       "existing": "724",
       "total_ruledout": null,
       "hospitalized": null
+    },
+    {
+      "Date": "2/19/2022",
+      "new_cases": "0",
+      "total_cases": "2892",
+      "total_recovered": "2249",
+      "total_death": "10",
+      "existing": "633",
+      "total_ruledout": null,
+      "hospitalized": null
     }
   ]
 }
