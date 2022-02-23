@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "Date": "16/02/2020",
+      "Date": "2/16/2020",
       "FID": "126",
       "CloseContact": "0",
       "CruiseShip": "0",
@@ -12,7 +12,7 @@
       "TotalConfirmed": "1"
     },
     {
-      "Date": "17/02/2020",
+      "Date": "2/17/2020",
       "FID": "127",
       "CloseContact": "0",
       "CruiseShip": "0",
@@ -23,7 +23,7 @@
       "TotalConfirmed": "2"
     },
     {
-      "Date": "18/02/2020",
+      "Date": "2/18/2020",
       "FID": "128",
       "CloseContact": "0",
       "CruiseShip": "0",
@@ -34,7 +34,7 @@
       "TotalConfirmed": "2"
     },
     {
-      "Date": "19/02/2020",
+      "Date": "2/19/2020",
       "FID": "129",
       "CloseContact": "0",
       "CruiseShip": "0",
@@ -45,7 +45,7 @@
       "TotalConfirmed": "2"
     },
     {
-      "Date": "20/02/2020",
+      "Date": "2/20/2020",
       "FID": "130",
       "CloseContact": "0",
       "CruiseShip": "1",
@@ -56,7 +56,7 @@
       "TotalConfirmed": "3"
     },
     {
-      "Date": "21/02/2020",
+      "Date": "2/21/2020",
       "FID": "131",
       "CloseContact": "0",
       "CruiseShip": "1",
@@ -67,7 +67,7 @@
       "TotalConfirmed": "3"
     },
     {
-      "Date": "22/02/2020",
+      "Date": "2/22/2020",
       "FID": "132",
       "CloseContact": "0",
       "CruiseShip": "1",
@@ -78,7 +78,7 @@
       "TotalConfirmed": "3"
     },
     {
-      "Date": "23/02/2020",
+      "Date": "2/23/2020",
       "FID": "133",
       "CloseContact": "0",
       "CruiseShip": "1",
@@ -89,7 +89,7 @@
       "TotalConfirmed": "3"
     },
     {
-      "Date": "24/02/2020",
+      "Date": "2/24/2020",
       "FID": "134",
       "CloseContact": "0",
       "CruiseShip": "1",
@@ -100,7 +100,7 @@
       "TotalConfirmed": "3"
     },
     {
-      "Date": "25/02/2020",
+      "Date": "2/25/2020",
       "FID": "135",
       "CloseContact": "0",
       "CruiseShip": "1",
@@ -111,7 +111,7 @@
       "TotalConfirmed": "3"
     },
     {
-      "Date": "26/02/2020",
+      "Date": "2/26/2020",
       "FID": "136",
       "CloseContact": "0",
       "CruiseShip": "1",
@@ -122,7 +122,7 @@
       "TotalConfirmed": "3"
     },
     {
-      "Date": "27/02/2020",
+      "Date": "2/27/2020",
       "FID": "137",
       "CloseContact": "0",
       "CruiseShip": "2",
@@ -133,7 +133,7 @@
       "TotalConfirmed": "4"
     },
     {
-      "Date": "28/02/2020",
+      "Date": "2/28/2020",
       "FID": "138",
       "CloseContact": "0",
       "CruiseShip": "2",
@@ -144,7 +144,7 @@
       "TotalConfirmed": "4"
     },
     {
-      "Date": "29/02/2020",
+      "Date": "2/29/2020",
       "FID": "139",
       "CloseContact": "0",
       "CruiseShip": "2",
@@ -155,7 +155,7 @@
       "TotalConfirmed": "4"
     },
     {
-      "Date": "1/03/2020",
+      "Date": "3/1/2020",
       "FID": "1",
       "CloseContact": "0",
       "CruiseShip": "2",
@@ -166,7 +166,7 @@
       "TotalConfirmed": "4"
     },
     {
-      "Date": "2/03/2020",
+      "Date": "3/2/2020",
       "FID": "2",
       "CloseContact": "1",
       "CruiseShip": "2",
@@ -177,7 +177,7 @@
       "TotalConfirmed": "5"
     },
     {
-      "Date": "3/03/2020",
+      "Date": "3/3/2020",
       "FID": "3",
       "CloseContact": "1",
       "CruiseShip": "2",
@@ -188,7 +188,7 @@
       "TotalConfirmed": "6"
     },
     {
-      "Date": "4/03/2020",
+      "Date": "3/4/2020",
       "FID": "4",
       "CloseContact": "2",
       "CruiseShip": "2",
@@ -199,7 +199,7 @@
       "TotalConfirmed": "8"
     },
     {
-      "Date": "5/03/2020",
+      "Date": "3/5/2020",
       "FID": "5",
       "CloseContact": "2",
       "CruiseShip": "2",
@@ -210,7 +210,7 @@
       "TotalConfirmed": "9"
     },
     {
-      "Date": "6/03/2020",
+      "Date": "3/6/2020",
       "FID": "6",
       "CloseContact": "2",
       "CruiseShip": "2",
@@ -221,7 +221,7 @@
       "TotalConfirmed": "13"
     },
     {
-      "Date": "7/03/2020",
+      "Date": "3/7/2020",
       "FID": "7",
       "CloseContact": "2",
       "CruiseShip": "3",
@@ -232,7 +232,7 @@
       "TotalConfirmed": "15"
     },
     {
-      "Date": "8/03/2020",
+      "Date": "3/8/2020",
       "FID": "8",
       "CloseContact": "2",
       "CruiseShip": "3",
@@ -243,7 +243,7 @@
       "TotalConfirmed": "16"
     },
     {
-      "Date": "9/03/2020",
+      "Date": "3/9/2020",
       "FID": "9",
       "CloseContact": "2",
       "CruiseShip": "3",
@@ -254,7 +254,7 @@
       "TotalConfirmed": "19"
     },
     {
-      "Date": "10/03/2020",
+      "Date": "3/10/2020",
       "FID": "10",
       "CloseContact": "2",
       "CruiseShip": "4",
@@ -265,7 +265,7 @@
       "TotalConfirmed": "25"
     },
     {
-      "Date": "11/03/2020",
+      "Date": "3/11/2020",
       "FID": "11",
       "CloseContact": "2",
       "CruiseShip": "5",
@@ -276,7 +276,7 @@
       "TotalConfirmed": "31"
     },
     {
-      "Date": "12/03/2020",
+      "Date": "3/12/2020",
       "FID": "12",
       "CloseContact": "2",
       "CruiseShip": "7",
@@ -287,7 +287,7 @@
       "TotalConfirmed": "43"
     },
     {
-      "Date": "13/03/2020",
+      "Date": "3/13/2020",
       "FID": "13",
       "CloseContact": "2",
       "CruiseShip": "7",
@@ -298,7 +298,7 @@
       "TotalConfirmed": "50"
     },
     {
-      "Date": "14/03/2020",
+      "Date": "3/14/2020",
       "FID": "14",
       "CloseContact": "2",
       "CruiseShip": "10",
@@ -309,7 +309,7 @@
       "TotalConfirmed": "56"
     },
     {
-      "Date": "15/03/2020",
+      "Date": "3/15/2020",
       "FID": "15",
       "CloseContact": "2",
       "CruiseShip": "14",
@@ -320,7 +320,7 @@
       "TotalConfirmed": "71"
     },
     {
-      "Date": "16/03/2020",
+      "Date": "3/16/2020",
       "FID": "16",
       "CloseContact": "2",
       "CruiseShip": "14",
@@ -331,7 +331,7 @@
       "TotalConfirmed": "82"
     },
     {
-      "Date": "17/03/2020",
+      "Date": "3/17/2020",
       "FID": "17",
       "CloseContact": "3",
       "CruiseShip": "19",
@@ -342,7 +342,7 @@
       "TotalConfirmed": "103"
     },
     {
-      "Date": "18/03/2020",
+      "Date": "3/18/2020",
       "FID": "18",
       "CloseContact": "9",
       "CruiseShip": "28",
@@ -353,7 +353,7 @@
       "TotalConfirmed": "135"
     },
     {
-      "Date": "19/03/2020",
+      "Date": "3/19/2020",
       "FID": "19",
       "CloseContact": "9",
       "CruiseShip": "36",
@@ -364,7 +364,7 @@
       "TotalConfirmed": "163"
     },
     {
-      "Date": "20/03/2020",
+      "Date": "3/20/2020",
       "FID": "20",
       "CloseContact": "13",
       "CruiseShip": "58",
@@ -375,7 +375,7 @@
       "TotalConfirmed": "214"
     },
     {
-      "Date": "21/03/2020",
+      "Date": "3/21/2020",
       "FID": "21",
       "CloseContact": "19",
       "CruiseShip": "75",
@@ -386,7 +386,7 @@
       "TotalConfirmed": "255"
     },
     {
-      "Date": "22/03/2020",
+      "Date": "3/22/2020",
       "FID": "22",
       "CloseContact": "24",
       "CruiseShip": "86",
@@ -397,7 +397,7 @@
       "TotalConfirmed": "280"
     },
     {
-      "Date": "23/03/2020",
+      "Date": "3/23/2020",
       "FID": "23",
       "CloseContact": "31",
       "CruiseShip": "93",
@@ -408,7 +408,7 @@
       "TotalConfirmed": "307"
     },
     {
-      "Date": "24/03/2020",
+      "Date": "3/24/2020",
       "FID": "24",
       "CloseContact": "33",
       "CruiseShip": "110",
@@ -419,7 +419,7 @@
       "TotalConfirmed": "342"
     },
     {
-      "Date": "25/03/2020",
+      "Date": "3/25/2020",
       "FID": "25",
       "CloseContact": "36",
       "CruiseShip": "117",
@@ -430,7 +430,7 @@
       "TotalConfirmed": "365"
     },
     {
-      "Date": "26/03/2020",
+      "Date": "3/26/2020",
       "FID": "26",
       "CloseContact": "41",
       "CruiseShip": "132",
@@ -441,7 +441,7 @@
       "TotalConfirmed": "396"
     },
     {
-      "Date": "27/03/2020",
+      "Date": "3/27/2020",
       "FID": "27",
       "CloseContact": "43",
       "CruiseShip": "144",
@@ -452,7 +452,7 @@
       "TotalConfirmed": "421"
     },
     {
-      "Date": "28/03/2020",
+      "Date": "3/28/2020",
       "FID": "28",
       "CloseContact": "45",
       "CruiseShip": "150",
@@ -463,7 +463,7 @@
       "TotalConfirmed": "434"
     },
     {
-      "Date": "29/03/2020",
+      "Date": "3/29/2020",
       "FID": "29",
       "CloseContact": "48",
       "CruiseShip": "152",
@@ -474,7 +474,7 @@
       "TotalConfirmed": "443"
     },
     {
-      "Date": "30/03/2020",
+      "Date": "3/30/2020",
       "FID": "30",
       "CloseContact": "50",
       "CruiseShip": "156",
@@ -485,7 +485,7 @@
       "TotalConfirmed": "451"
     },
     {
-      "Date": "31/03/2020",
+      "Date": "3/31/2020",
       "FID": "31",
       "CloseContact": "51",
       "CruiseShip": "161",
@@ -496,7 +496,7 @@
       "TotalConfirmed": "462"
     },
     {
-      "Date": "1/04/2020",
+      "Date": "4/1/2020",
       "FID": "32",
       "CloseContact": "54",
       "CruiseShip": "172",
@@ -507,7 +507,7 @@
       "TotalConfirmed": "478"
     },
     {
-      "Date": "2/04/2020",
+      "Date": "4/2/2020",
       "FID": "33",
       "CloseContact": "56",
       "CruiseShip": "178",
@@ -518,7 +518,7 @@
       "TotalConfirmed": "488"
     },
     {
-      "Date": "3/04/2020",
+      "Date": "4/3/2020",
       "FID": "34",
       "CloseContact": "58",
       "CruiseShip": "185",
@@ -529,7 +529,7 @@
       "TotalConfirmed": "498"
     },
     {
-      "Date": "4/04/2020",
+      "Date": "4/4/2020",
       "FID": "35",
       "CloseContact": "59",
       "CruiseShip": "189",
@@ -540,7 +540,7 @@
       "TotalConfirmed": "504"
     },
     {
-      "Date": "5/04/2020",
+      "Date": "4/5/2020",
       "FID": "36",
       "CloseContact": "59",
       "CruiseShip": "194",
@@ -551,7 +551,7 @@
       "TotalConfirmed": "510"
     },
     {
-      "Date": "6/04/2020",
+      "Date": "4/6/2020",
       "FID": "37",
       "CloseContact": "60",
       "CruiseShip": "197",
@@ -562,7 +562,7 @@
       "TotalConfirmed": "515"
     },
     {
-      "Date": "7/04/2020",
+      "Date": "4/7/2020",
       "FID": "38",
       "CloseContact": "60",
       "CruiseShip": "203",
@@ -573,7 +573,7 @@
       "TotalConfirmed": "521"
     },
     {
-      "Date": "8/04/2020",
+      "Date": "4/8/2020",
       "FID": "39",
       "CloseContact": "61",
       "CruiseShip": "207",
@@ -584,7 +584,7 @@
       "TotalConfirmed": "526"
     },
     {
-      "Date": "9/04/2020",
+      "Date": "4/9/2020",
       "FID": "40",
       "CloseContact": "61",
       "CruiseShip": "214",
@@ -595,7 +595,7 @@
       "TotalConfirmed": "534"
     },
     {
-      "Date": "10/04/2020",
+      "Date": "4/10/2020",
       "FID": "41",
       "CloseContact": "61",
       "CruiseShip": "216",
@@ -606,7 +606,7 @@
       "TotalConfirmed": "536"
     },
     {
-      "Date": "11/04/2020",
+      "Date": "4/11/2020",
       "FID": "42",
       "CloseContact": "61",
       "CruiseShip": "218",
@@ -617,7 +617,7 @@
       "TotalConfirmed": "538"
     },
     {
-      "Date": "12/04/2020",
+      "Date": "4/12/2020",
       "FID": "43",
       "CloseContact": "62",
       "CruiseShip": "220",
@@ -628,7 +628,7 @@
       "TotalConfirmed": "541"
     },
     {
-      "Date": "13/04/2020",
+      "Date": "4/13/2020",
       "FID": "44",
       "CloseContact": "64",
       "CruiseShip": "220",
@@ -639,7 +639,7 @@
       "TotalConfirmed": "543"
     },
     {
-      "Date": "14/04/2020",
+      "Date": "4/14/2020",
       "FID": "45",
       "CloseContact": "64",
       "CruiseShip": "221",
@@ -650,7 +650,7 @@
       "TotalConfirmed": "545"
     },
     {
-      "Date": "15/04/2020",
+      "Date": "4/15/2020",
       "FID": "46",
       "CloseContact": "64",
       "CruiseShip": "222",
@@ -661,7 +661,7 @@
       "TotalConfirmed": "546"
     },
     {
-      "Date": "16/04/2020",
+      "Date": "4/16/2020",
       "FID": "47",
       "CloseContact": "66",
       "CruiseShip": "223",
@@ -672,7 +672,7 @@
       "TotalConfirmed": "550"
     },
     {
-      "Date": "17/04/2020",
+      "Date": "4/17/2020",
       "FID": "48",
       "CloseContact": "66",
       "CruiseShip": "223",
@@ -683,7 +683,7 @@
       "TotalConfirmed": "550"
     },
     {
-      "Date": "18/04/2020",
+      "Date": "4/18/2020",
       "FID": "49",
       "CloseContact": "66",
       "CruiseShip": "223",
@@ -694,7 +694,7 @@
       "TotalConfirmed": "550"
     },
     {
-      "Date": "19/04/2020",
+      "Date": "4/19/2020",
       "FID": "50",
       "CloseContact": "66",
       "CruiseShip": "223",
@@ -705,7 +705,7 @@
       "TotalConfirmed": "550"
     },
     {
-      "Date": "20/04/2020",
+      "Date": "4/20/2020",
       "FID": "51",
       "CloseContact": "66",
       "CruiseShip": "223",
@@ -716,7 +716,7 @@
       "TotalConfirmed": "550"
     },
     {
-      "Date": "21/04/2020",
+      "Date": "4/21/2020",
       "FID": "52",
       "CloseContact": "66",
       "CruiseShip": "223",
@@ -727,7 +727,7 @@
       "TotalConfirmed": "550"
     },
     {
-      "Date": "22/04/2020",
+      "Date": "4/22/2020",
       "FID": "53",
       "CloseContact": "66",
       "CruiseShip": "223",
@@ -738,7 +738,7 @@
       "TotalConfirmed": "550"
     },
     {
-      "Date": "23/04/2020",
+      "Date": "4/23/2020",
       "FID": "54",
       "CloseContact": "66",
       "CruiseShip": "223",
@@ -749,7 +749,7 @@
       "TotalConfirmed": "550"
     },
     {
-      "Date": "24/04/2020",
+      "Date": "4/24/2020",
       "FID": "55",
       "CloseContact": "67",
       "CruiseShip": "223",
@@ -760,7 +760,7 @@
       "TotalConfirmed": "551"
     },
     {
-      "Date": "25/04/2020",
+      "Date": "4/25/2020",
       "FID": "56",
       "CloseContact": "67",
       "CruiseShip": "223",
@@ -771,7 +771,7 @@
       "TotalConfirmed": "551"
     },
     {
-      "Date": "26/04/2020",
+      "Date": "4/26/2020",
       "FID": "57",
       "CloseContact": "67",
       "CruiseShip": "223",
@@ -782,7 +782,7 @@
       "TotalConfirmed": "552"
     },
     {
-      "Date": "27/04/2020",
+      "Date": "4/27/2020",
       "FID": "58",
       "CloseContact": "67",
       "CruiseShip": "223",
@@ -793,7 +793,7 @@
       "TotalConfirmed": "552"
     },
     {
-      "Date": "28/04/2020",
+      "Date": "4/28/2020",
       "FID": "59",
       "CloseContact": "67",
       "CruiseShip": "223",
@@ -804,7 +804,7 @@
       "TotalConfirmed": "552"
     },
     {
-      "Date": "29/04/2020",
+      "Date": "4/29/2020",
       "FID": "60",
       "CloseContact": "67",
       "CruiseShip": "223",
@@ -815,7 +815,7 @@
       "TotalConfirmed": "552"
     },
     {
-      "Date": "30/04/2020",
+      "Date": "4/30/2020",
       "FID": "61",
       "CloseContact": "67",
       "CruiseShip": "223",
@@ -826,7 +826,7 @@
       "TotalConfirmed": "552"
     },
     {
-      "Date": "1/05/2020",
+      "Date": "5/1/2020",
       "FID": "62",
       "CloseContact": "67",
       "CruiseShip": "223",
@@ -837,7 +837,7 @@
       "TotalConfirmed": "552"
     },
     {
-      "Date": "2/05/2020",
+      "Date": "5/2/2020",
       "FID": "63",
       "CloseContact": "67",
       "CruiseShip": "223",
@@ -848,7 +848,7 @@
       "TotalConfirmed": "552"
     },
     {
-      "Date": "3/05/2020",
+      "Date": "5/3/2020",
       "FID": "64",
       "CloseContact": "67",
       "CruiseShip": "223",
@@ -859,7 +859,7 @@
       "TotalConfirmed": "552"
     },
     {
-      "Date": "4/05/2020",
+      "Date": "5/4/2020",
       "FID": "65",
       "CloseContact": "67",
       "CruiseShip": "223",
@@ -870,7 +870,7 @@
       "TotalConfirmed": "552"
     },
     {
-      "Date": "5/05/2020",
+      "Date": "5/5/2020",
       "FID": "66",
       "CloseContact": "67",
       "CruiseShip": "223",
@@ -881,7 +881,7 @@
       "TotalConfirmed": "552"
     },
     {
-      "Date": "6/05/2020",
+      "Date": "5/6/2020",
       "FID": "67",
       "CloseContact": "67",
       "CruiseShip": "223",
@@ -892,7 +892,7 @@
       "TotalConfirmed": "553"
     },
     {
-      "Date": "7/05/2020",
+      "Date": "5/7/2020",
       "FID": "68",
       "CloseContact": "67",
       "CruiseShip": "223",
@@ -903,7 +903,7 @@
       "TotalConfirmed": "553"
     },
     {
-      "Date": "8/05/2020",
+      "Date": "5/8/2020",
       "FID": "69",
       "CloseContact": "67",
       "CruiseShip": "223",
@@ -914,7 +914,7 @@
       "TotalConfirmed": "553"
     },
     {
-      "Date": "9/05/2020",
+      "Date": "5/9/2020",
       "FID": "70",
       "CloseContact": "67",
       "CruiseShip": "223",
@@ -925,7 +925,7 @@
       "TotalConfirmed": "553"
     },
     {
-      "Date": "10/05/2020",
+      "Date": "5/10/2020",
       "FID": "71",
       "CloseContact": "68",
       "CruiseShip": "224",
@@ -936,7 +936,7 @@
       "TotalConfirmed": "555"
     },
     {
-      "Date": "11/05/2020",
+      "Date": "5/11/2020",
       "FID": "72",
       "CloseContact": "68",
       "CruiseShip": "224",
@@ -947,7 +947,7 @@
       "TotalConfirmed": "555"
     },
     {
-      "Date": "12/05/2020",
+      "Date": "5/12/2020",
       "FID": "73",
       "CloseContact": "69",
       "CruiseShip": "224",
@@ -958,7 +958,7 @@
       "TotalConfirmed": "556"
     },
     {
-      "Date": "13/05/2020",
+      "Date": "5/13/2020",
       "FID": "74",
       "CloseContact": "69",
       "CruiseShip": "225",
@@ -969,7 +969,7 @@
       "TotalConfirmed": "557"
     },
     {
-      "Date": "14/05/2020",
+      "Date": "5/14/2020",
       "FID": "75",
       "CloseContact": "69",
       "CruiseShip": "226",
@@ -980,7 +980,7 @@
       "TotalConfirmed": "558"
     },
     {
-      "Date": "15/05/2020",
+      "Date": "5/15/2020",
       "FID": "76",
       "CloseContact": "69",
       "CruiseShip": "231",
@@ -991,7 +991,7 @@
       "TotalConfirmed": "563"
     },
     {
-      "Date": "16/05/2020",
+      "Date": "5/16/2020",
       "FID": "77",
       "CloseContact": "69",
       "CruiseShip": "232",
@@ -1002,7 +1002,7 @@
       "TotalConfirmed": "564"
     },
     {
-      "Date": "17/05/2020",
+      "Date": "5/17/2020",
       "FID": "78",
       "CloseContact": "69",
       "CruiseShip": "232",
@@ -1013,7 +1013,7 @@
       "TotalConfirmed": "565"
     },
     {
-      "Date": "18/05/2020",
+      "Date": "5/18/2020",
       "FID": "79",
       "CloseContact": "69",
       "CruiseShip": "234",
@@ -1024,7 +1024,7 @@
       "TotalConfirmed": "569"
     },
     {
-      "Date": "19/05/2020",
+      "Date": "5/19/2020",
       "FID": "80",
       "CloseContact": "69",
       "CruiseShip": "234",
@@ -1035,7 +1035,7 @@
       "TotalConfirmed": "569"
     },
     {
-      "Date": "20/05/2020",
+      "Date": "5/20/2020",
       "FID": "81",
       "CloseContact": "69",
       "CruiseShip": "235",
@@ -1046,7 +1046,7 @@
       "TotalConfirmed": "571"
     },
     {
-      "Date": "21/05/2020",
+      "Date": "5/21/2020",
       "FID": "82",
       "CloseContact": "69",
       "CruiseShip": "239",
@@ -1057,7 +1057,7 @@
       "TotalConfirmed": "576"
     },
     {
-      "Date": "22/05/2020",
+      "Date": "5/22/2020",
       "FID": "83",
       "CloseContact": "69",
       "CruiseShip": "240",
@@ -1068,7 +1068,7 @@
       "TotalConfirmed": "578"
     },
     {
-      "Date": "23/05/2020",
+      "Date": "5/23/2020",
       "FID": "84",
       "CloseContact": "69",
       "CruiseShip": "241",
@@ -1079,7 +1079,7 @@
       "TotalConfirmed": "579"
     },
     {
-      "Date": "24/05/2020",
+      "Date": "5/24/2020",
       "FID": "85",
       "CloseContact": "69",
       "CruiseShip": "243",
@@ -1090,7 +1090,7 @@
       "TotalConfirmed": "581"
     },
     {
-      "Date": "25/05/2020",
+      "Date": "5/25/2020",
       "FID": "86",
       "CloseContact": "69",
       "CruiseShip": "244",
@@ -1101,7 +1101,7 @@
       "TotalConfirmed": "583"
     },
     {
-      "Date": "26/05/2020",
+      "Date": "5/26/2020",
       "FID": "87",
       "CloseContact": "69",
       "CruiseShip": "244",
@@ -1112,7 +1112,7 @@
       "TotalConfirmed": "583"
     },
     {
-      "Date": "27/05/2020",
+      "Date": "5/27/2020",
       "FID": "88",
       "CloseContact": "69",
       "CruiseShip": "244",
@@ -1123,7 +1123,7 @@
       "TotalConfirmed": "583"
     },
     {
-      "Date": "28/05/2020",
+      "Date": "5/28/2020",
       "FID": "89",
       "CloseContact": "69",
       "CruiseShip": "244",
@@ -1134,7 +1134,7 @@
       "TotalConfirmed": "584"
     },
     {
-      "Date": "29/05/2020",
+      "Date": "5/29/2020",
       "FID": "90",
       "CloseContact": "69",
       "CruiseShip": "244",
@@ -1145,7 +1145,7 @@
       "TotalConfirmed": "585"
     },
     {
-      "Date": "30/05/2020",
+      "Date": "5/30/2020",
       "FID": "91",
       "CloseContact": "69",
       "CruiseShip": "244",
@@ -1156,7 +1156,7 @@
       "TotalConfirmed": "585"
     },
     {
-      "Date": "31/05/2020",
+      "Date": "5/31/2020",
       "FID": "92",
       "CloseContact": "69",
       "CruiseShip": "244",
@@ -1167,7 +1167,7 @@
       "TotalConfirmed": "585"
     },
     {
-      "Date": "1/06/2020",
+      "Date": "6/1/2020",
       "FID": "93",
       "CloseContact": "69",
       "CruiseShip": "244",
@@ -1178,7 +1178,7 @@
       "TotalConfirmed": "586"
     },
     {
-      "Date": "2/06/2020",
+      "Date": "6/2/2020",
       "FID": "94",
       "CloseContact": "69",
       "CruiseShip": "244",
@@ -1189,7 +1189,7 @@
       "TotalConfirmed": "586"
     },
     {
-      "Date": "3/06/2020",
+      "Date": "6/3/2020",
       "FID": "95",
       "CloseContact": "69",
       "CruiseShip": "244",
@@ -1200,7 +1200,7 @@
       "TotalConfirmed": "591"
     },
     {
-      "Date": "4/06/2020",
+      "Date": "6/4/2020",
       "FID": "96",
       "CloseContact": "69",
       "CruiseShip": "244",
@@ -1211,7 +1211,7 @@
       "TotalConfirmed": "591"
     },
     {
-      "Date": "5/06/2020",
+      "Date": "6/5/2020",
       "FID": "97",
       "CloseContact": "69",
       "CruiseShip": "244",
@@ -1222,7 +1222,7 @@
       "TotalConfirmed": "591"
     },
     {
-      "Date": "6/06/2020",
+      "Date": "6/6/2020",
       "FID": "98",
       "CloseContact": "69",
       "CruiseShip": "244",
@@ -1233,7 +1233,7 @@
       "TotalConfirmed": "591"
     },
     {
-      "Date": "7/06/2020",
+      "Date": "6/7/2020",
       "FID": "99",
       "CloseContact": "69",
       "CruiseShip": "244",
@@ -1244,7 +1244,7 @@
       "TotalConfirmed": "591"
     },
     {
-      "Date": "8/06/2020",
+      "Date": "6/8/2020",
       "FID": "100",
       "CloseContact": "69",
       "CruiseShip": "244",
@@ -1255,7 +1255,7 @@
       "TotalConfirmed": "591"
     },
     {
-      "Date": "9/06/2020",
+      "Date": "6/9/2020",
       "FID": "101",
       "CloseContact": "69",
       "CruiseShip": "244",
@@ -1266,7 +1266,7 @@
       "TotalConfirmed": "591"
     },
     {
-      "Date": "10/06/2020",
+      "Date": "6/10/2020",
       "FID": "102",
       "CloseContact": "69",
       "CruiseShip": "244",
@@ -1277,7 +1277,7 @@
       "TotalConfirmed": "593"
     },
     {
-      "Date": "11/06/2020",
+      "Date": "6/11/2020",
       "FID": "103",
       "CloseContact": "69",
       "CruiseShip": "244",
@@ -1288,7 +1288,7 @@
       "TotalConfirmed": "593"
     },
     {
-      "Date": "12/06/2020",
+      "Date": "6/12/2020",
       "FID": "104",
       "CloseContact": "69",
       "CruiseShip": "244",
@@ -1299,7 +1299,7 @@
       "TotalConfirmed": "593"
     },
     {
-      "Date": "13/06/2020",
+      "Date": "6/13/2020",
       "FID": "105",
       "CloseContact": "69",
       "CruiseShip": "244",
@@ -1310,7 +1310,7 @@
       "TotalConfirmed": "593"
     },
     {
-      "Date": "14/06/2020",
+      "Date": "6/14/2020",
       "FID": "106",
       "CloseContact": "69",
       "CruiseShip": "244",
@@ -1321,7 +1321,7 @@
       "TotalConfirmed": "594"
     },
     {
-      "Date": "15/06/2020",
+      "Date": "6/15/2020",
       "FID": "107",
       "CloseContact": "69",
       "CruiseShip": "244",
@@ -1332,7 +1332,7 @@
       "TotalConfirmed": "594"
     },
     {
-      "Date": "16/06/2020",
+      "Date": "6/16/2020",
       "FID": "108",
       "CloseContact": "69",
       "CruiseShip": "244",
@@ -1343,7 +1343,7 @@
       "TotalConfirmed": "594"
     },
     {
-      "Date": "17/06/2020",
+      "Date": "6/17/2020",
       "FID": "109",
       "CloseContact": "69",
       "CruiseShip": "244",
@@ -1354,7 +1354,7 @@
       "TotalConfirmed": "594"
     },
     {
-      "Date": "18/06/2020",
+      "Date": "6/18/2020",
       "FID": "110",
       "CloseContact": "69",
       "CruiseShip": "244",
@@ -1365,7 +1365,7 @@
       "TotalConfirmed": "595"
     },
     {
-      "Date": "19/06/2020",
+      "Date": "6/19/2020",
       "FID": "111",
       "CloseContact": "69",
       "CruiseShip": "244",
@@ -1376,7 +1376,7 @@
       "TotalConfirmed": "596"
     },
     {
-      "Date": "20/06/2020",
+      "Date": "6/20/2020",
       "FID": "112",
       "CloseContact": "69",
       "CruiseShip": "244",
@@ -1387,7 +1387,7 @@
       "TotalConfirmed": "596"
     },
     {
-      "Date": "21/06/2020",
+      "Date": "6/21/2020",
       "FID": "113",
       "CloseContact": "69",
       "CruiseShip": "244",
@@ -1398,7 +1398,7 @@
       "TotalConfirmed": "597"
     },
     {
-      "Date": "22/06/2020",
+      "Date": "6/22/2020",
       "FID": "114",
       "CloseContact": "69",
       "CruiseShip": "244",
@@ -1409,7 +1409,7 @@
       "TotalConfirmed": "597"
     },
     {
-      "Date": "23/06/2020",
+      "Date": "6/23/2020",
       "FID": "115",
       "CloseContact": "69",
       "CruiseShip": "244",
@@ -1420,7 +1420,7 @@
       "TotalConfirmed": "597"
     },
     {
-      "Date": "24/06/2020",
+      "Date": "6/24/2020",
       "FID": "116",
       "CloseContact": "69",
       "CruiseShip": "244",
@@ -1431,7 +1431,7 @@
       "TotalConfirmed": "597"
     },
     {
-      "Date": "25/06/2020",
+      "Date": "6/25/2020",
       "FID": "117",
       "CloseContact": "69",
       "CruiseShip": "244",
@@ -1442,7 +1442,7 @@
       "TotalConfirmed": "597"
     },
     {
-      "Date": "26/06/2020",
+      "Date": "6/26/2020",
       "FID": "118",
       "CloseContact": "69",
       "CruiseShip": "244",
@@ -1453,7 +1453,7 @@
       "TotalConfirmed": "599"
     },
     {
-      "Date": "27/06/2020",
+      "Date": "6/27/2020",
       "FID": "119",
       "CloseContact": "69",
       "CruiseShip": "244",
@@ -1464,7 +1464,7 @@
       "TotalConfirmed": "599"
     },
     {
-      "Date": "28/06/2020",
+      "Date": "6/28/2020",
       "FID": "120",
       "CloseContact": "69",
       "CruiseShip": "244",
@@ -1475,7 +1475,7 @@
       "TotalConfirmed": "599"
     },
     {
-      "Date": "29/06/2020",
+      "Date": "6/29/2020",
       "FID": "121",
       "CloseContact": "69",
       "CruiseShip": "244",
@@ -1486,7 +1486,7 @@
       "TotalConfirmed": "599"
     },
     {
-      "Date": "30/06/2020",
+      "Date": "6/30/2020",
       "FID": "122",
       "CloseContact": "69",
       "CruiseShip": "244",
@@ -1497,7 +1497,7 @@
       "TotalConfirmed": "599"
     },
     {
-      "Date": "1/07/2020",
+      "Date": "7/1/2020",
       "FID": "123",
       "CloseContact": "69",
       "CruiseShip": "244",
@@ -1508,7 +1508,7 @@
       "TotalConfirmed": "601"
     },
     {
-      "Date": "2/07/2020",
+      "Date": "7/2/2020",
       "FID": "124",
       "CloseContact": "69",
       "CruiseShip": "244",
@@ -1519,7 +1519,7 @@
       "TotalConfirmed": "602"
     },
     {
-      "Date": "3/07/2020",
+      "Date": "7/3/2020",
       "FID": "125",
       "CloseContact": "69",
       "CruiseShip": "244",
@@ -1530,7 +1530,7 @@
       "TotalConfirmed": "607"
     },
     {
-      "Date": "4/07/2020",
+      "Date": "7/4/2020",
       "FID": "193",
       "CloseContact": "69",
       "CruiseShip": "244",
@@ -1541,7 +1541,7 @@
       "TotalConfirmed": "609"
     },
     {
-      "Date": "5/07/2020",
+      "Date": "7/5/2020",
       "FID": "194",
       "CloseContact": "69",
       "CruiseShip": "244",
@@ -1552,7 +1552,7 @@
       "TotalConfirmed": "609"
     },
     {
-      "Date": "6/07/2020",
+      "Date": "7/6/2020",
       "FID": "195",
       "CloseContact": "69",
       "CruiseShip": "244",
@@ -1563,7 +1563,7 @@
       "TotalConfirmed": "615"
     },
     {
-      "Date": "7/07/2020",
+      "Date": "7/7/2020",
       "FID": "196",
       "CloseContact": "69",
       "CruiseShip": "244",
@@ -1574,7 +1574,7 @@
       "TotalConfirmed": "617"
     },
     {
-      "Date": "8/07/2020",
+      "Date": "7/8/2020",
       "FID": "197",
       "CloseContact": "69",
       "CruiseShip": "244",
@@ -1585,7 +1585,7 @@
       "TotalConfirmed": "619"
     },
     {
-      "Date": "9/07/2020",
+      "Date": "7/9/2020",
       "FID": "198",
       "CloseContact": "69",
       "CruiseShip": "244",
@@ -1596,7 +1596,7 @@
       "TotalConfirmed": "622"
     },
     {
-      "Date": "10/07/2020",
+      "Date": "7/10/2020",
       "FID": "199",
       "CloseContact": "69",
       "CruiseShip": "244",
@@ -1607,7 +1607,7 @@
       "TotalConfirmed": "623"
     },
     {
-      "Date": "11/07/2020",
+      "Date": "7/11/2020",
       "FID": "200",
       "CloseContact": "69",
       "CruiseShip": "244",
@@ -1618,7 +1618,7 @@
       "TotalConfirmed": "623"
     },
     {
-      "Date": "12/07/2020",
+      "Date": "7/12/2020",
       "FID": "201",
       "CloseContact": "70",
       "CruiseShip": "244",
@@ -1629,7 +1629,7 @@
       "TotalConfirmed": "624"
     },
     {
-      "Date": "13/07/2020",
+      "Date": "7/13/2020",
       "FID": "202",
       "CloseContact": "70",
       "CruiseShip": "244",
@@ -1640,7 +1640,7 @@
       "TotalConfirmed": "633"
     },
     {
-      "Date": "14/07/2020",
+      "Date": "7/14/2020",
       "FID": "203",
       "CloseContact": "70",
       "CruiseShip": "244",
@@ -1651,7 +1651,7 @@
       "TotalConfirmed": "635"
     },
     {
-      "Date": "15/07/2020",
+      "Date": "7/15/2020",
       "FID": "204",
       "CloseContact": "70",
       "CruiseShip": "244",
@@ -1662,7 +1662,7 @@
       "TotalConfirmed": "635"
     },
     {
-      "Date": "16/07/2020",
+      "Date": "7/16/2020",
       "FID": "205",
       "CloseContact": "70",
       "CruiseShip": "244",
@@ -1673,7 +1673,7 @@
       "TotalConfirmed": "635"
     },
     {
-      "Date": "17/07/2020",
+      "Date": "7/17/2020",
       "FID": "206",
       "CloseContact": "70",
       "CruiseShip": "244",
@@ -1684,7 +1684,7 @@
       "TotalConfirmed": "635"
     },
     {
-      "Date": "18/07/2020",
+      "Date": "7/18/2020",
       "FID": "207",
       "CloseContact": "70",
       "CruiseShip": "244",
@@ -1695,7 +1695,7 @@
       "TotalConfirmed": "636"
     },
     {
-      "Date": "19/07/2020",
+      "Date": "7/19/2020",
       "FID": "208",
       "CloseContact": "70",
       "CruiseShip": "244",
@@ -1706,7 +1706,7 @@
       "TotalConfirmed": "636"
     },
     {
-      "Date": "20/07/2020",
+      "Date": "7/20/2020",
       "FID": "209",
       "CloseContact": "70",
       "CruiseShip": "244",
@@ -1717,7 +1717,7 @@
       "TotalConfirmed": "636"
     },
     {
-      "Date": "21/07/2020",
+      "Date": "7/21/2020",
       "FID": "210",
       "CloseContact": "70",
       "CruiseShip": "244",
@@ -1728,7 +1728,7 @@
       "TotalConfirmed": "636"
     },
     {
-      "Date": "22/07/2020",
+      "Date": "7/22/2020",
       "FID": "211",
       "CloseContact": "70",
       "CruiseShip": "244",
@@ -1739,7 +1739,7 @@
       "TotalConfirmed": "636"
     },
     {
-      "Date": "23/07/2020",
+      "Date": "7/23/2020",
       "FID": "212",
       "CloseContact": "70",
       "CruiseShip": "244",
@@ -1750,7 +1750,7 @@
       "TotalConfirmed": "636"
     },
     {
-      "Date": "24/07/2020",
+      "Date": "7/24/2020",
       "FID": "213",
       "CloseContact": "70",
       "CruiseShip": "244",
@@ -1761,7 +1761,7 @@
       "TotalConfirmed": "637"
     },
     {
-      "Date": "25/07/2020",
+      "Date": "7/25/2020",
       "FID": "214",
       "CloseContact": "70",
       "CruiseShip": "244",
@@ -1772,7 +1772,7 @@
       "TotalConfirmed": "637"
     },
     {
-      "Date": "26/07/2020",
+      "Date": "7/26/2020",
       "FID": "215",
       "CloseContact": "70",
       "CruiseShip": "244",
@@ -1783,7 +1783,7 @@
       "TotalConfirmed": "638"
     },
     {
-      "Date": "27/07/2020",
+      "Date": "7/27/2020",
       "FID": "216",
       "CloseContact": "70",
       "CruiseShip": "244",
@@ -1794,7 +1794,7 @@
       "TotalConfirmed": "640"
     },
     {
-      "Date": "28/07/2020",
+      "Date": "7/28/2020",
       "FID": "217",
       "CloseContact": "70",
       "CruiseShip": "244",
@@ -1805,7 +1805,7 @@
       "TotalConfirmed": "641"
     },
     {
-      "Date": "29/07/2020",
+      "Date": "7/29/2020",
       "FID": "218",
       "CloseContact": "70",
       "CruiseShip": "244",
@@ -1816,7 +1816,7 @@
       "TotalConfirmed": "642"
     },
     {
-      "Date": "30/07/2020",
+      "Date": "7/30/2020",
       "FID": "219",
       "CloseContact": "70",
       "CruiseShip": "244",
@@ -1827,7 +1827,7 @@
       "TotalConfirmed": "642"
     },
     {
-      "Date": "31/07/2020",
+      "Date": "7/31/2020",
       "FID": "220",
       "CloseContact": "70",
       "CruiseShip": "244",
@@ -1838,7 +1838,7 @@
       "TotalConfirmed": "642"
     },
     {
-      "Date": "1/08/2020",
+      "Date": "8/1/2020",
       "FID": "221",
       "CloseContact": "70",
       "CruiseShip": "244",
@@ -1849,7 +1849,7 @@
       "TotalConfirmed": "642"
     },
     {
-      "Date": "2/08/2020",
+      "Date": "8/2/2020",
       "FID": "222",
       "CloseContact": "70",
       "CruiseShip": "244",
@@ -1860,7 +1860,7 @@
       "TotalConfirmed": "642"
     },
     {
-      "Date": "3/08/2020",
+      "Date": "8/3/2020",
       "FID": "223",
       "CloseContact": "70",
       "CruiseShip": "244",
@@ -1871,7 +1871,7 @@
       "TotalConfirmed": "642"
     },
     {
-      "Date": "4/08/2020",
+      "Date": "8/4/2020",
       "FID": "224",
       "CloseContact": "70",
       "CruiseShip": "244",
@@ -1882,7 +1882,7 @@
       "TotalConfirmed": "642"
     },
     {
-      "Date": "5/08/2020",
+      "Date": "8/5/2020",
       "FID": "225",
       "CloseContact": "70",
       "CruiseShip": "244",
@@ -1893,7 +1893,7 @@
       "TotalConfirmed": "642"
     },
     {
-      "Date": "6/08/2020",
+      "Date": "8/6/2020",
       "FID": "226",
       "CloseContact": "70",
       "CruiseShip": "244",
@@ -1904,7 +1904,7 @@
       "TotalConfirmed": "642"
     },
     {
-      "Date": "7/08/2020",
+      "Date": "8/7/2020",
       "FID": "227",
       "CloseContact": "70",
       "CruiseShip": "244",
@@ -1915,7 +1915,7 @@
       "TotalConfirmed": "642"
     },
     {
-      "Date": "8/08/2020",
+      "Date": "8/8/2020",
       "FID": "228",
       "CloseContact": "70",
       "CruiseShip": "244",
@@ -1926,7 +1926,7 @@
       "TotalConfirmed": "642"
     },
     {
-      "Date": "9/08/2020",
+      "Date": "8/9/2020",
       "FID": "229",
       "CloseContact": "70",
       "CruiseShip": "244",
@@ -1937,7 +1937,7 @@
       "TotalConfirmed": "643"
     },
     {
-      "Date": "10/08/2020",
+      "Date": "8/10/2020",
       "FID": "230",
       "CloseContact": "70",
       "CruiseShip": "244",
@@ -1948,7 +1948,7 @@
       "TotalConfirmed": "643"
     },
     {
-      "Date": "11/08/2020",
+      "Date": "8/11/2020",
       "FID": "231",
       "CloseContact": "70",
       "CruiseShip": "244",
@@ -1959,7 +1959,7 @@
       "TotalConfirmed": "644"
     },
     {
-      "Date": "12/08/2020",
+      "Date": "8/12/2020",
       "FID": "232",
       "CloseContact": "70",
       "CruiseShip": "244",
@@ -1970,7 +1970,7 @@
       "TotalConfirmed": "645"
     },
     {
-      "Date": "13/08/2020",
+      "Date": "8/13/2020",
       "FID": "233",
       "CloseContact": "70",
       "CruiseShip": "244",
@@ -1981,7 +1981,7 @@
       "TotalConfirmed": "645"
     },
     {
-      "Date": "14/08/2020",
+      "Date": "8/14/2020",
       "FID": "234",
       "CloseContact": "70",
       "CruiseShip": "244",
@@ -1992,7 +1992,7 @@
       "TotalConfirmed": "645"
     },
     {
-      "Date": "15/08/2020",
+      "Date": "8/15/2020",
       "FID": "235",
       "CloseContact": "70",
       "CruiseShip": "244",
@@ -2003,7 +2003,7 @@
       "TotalConfirmed": "646"
     },
     {
-      "Date": "16/08/2020",
+      "Date": "8/16/2020",
       "FID": "236",
       "CloseContact": "70",
       "CruiseShip": "244",
@@ -2014,7 +2014,7 @@
       "TotalConfirmed": "646"
     },
     {
-      "Date": "17/08/2020",
+      "Date": "8/17/2020",
       "FID": "237",
       "CloseContact": "70",
       "CruiseShip": "244",
@@ -2025,7 +2025,7 @@
       "TotalConfirmed": "646"
     },
     {
-      "Date": "18/08/2020",
+      "Date": "8/18/2020",
       "FID": "238",
       "CloseContact": "70",
       "CruiseShip": "244",
@@ -2036,7 +2036,7 @@
       "TotalConfirmed": "647"
     },
     {
-      "Date": "19/08/2020",
+      "Date": "8/19/2020",
       "FID": "239",
       "CloseContact": "70",
       "CruiseShip": "244",
@@ -2047,7 +2047,7 @@
       "TotalConfirmed": "651"
     },
     {
-      "Date": "20/08/2020",
+      "Date": "8/20/2020",
       "FID": "240",
       "CloseContact": "70",
       "CruiseShip": "244",
@@ -2058,7 +2058,7 @@
       "TotalConfirmed": "651"
     },
     {
-      "Date": "21/08/2020",
+      "Date": "8/21/2020",
       "FID": "241",
       "CloseContact": "70",
       "CruiseShip": "244",
@@ -2069,7 +2069,7 @@
       "TotalConfirmed": "651"
     },
     {
-      "Date": "22/08/2020",
+      "Date": "8/22/2020",
       "FID": "242",
       "CloseContact": "72",
       "CruiseShip": "242",
@@ -2080,7 +2080,7 @@
       "TotalConfirmed": "651"
     },
     {
-      "Date": "23/08/2020",
+      "Date": "8/23/2020",
       "FID": "243",
       "CloseContact": "72",
       "CruiseShip": "242",
@@ -2091,7 +2091,7 @@
       "TotalConfirmed": "652"
     },
     {
-      "Date": "24/08/2020",
+      "Date": "8/24/2020",
       "FID": "244",
       "CloseContact": "72",
       "CruiseShip": "242",
@@ -2102,7 +2102,7 @@
       "TotalConfirmed": "653"
     },
     {
-      "Date": "25/08/2020",
+      "Date": "8/25/2020",
       "FID": "245",
       "CloseContact": "72",
       "CruiseShip": "242",
@@ -2113,7 +2113,7 @@
       "TotalConfirmed": "653"
     },
     {
-      "Date": "26/08/2020",
+      "Date": "8/26/2020",
       "FID": "246",
       "CloseContact": "72",
       "CruiseShip": "242",
@@ -2124,7 +2124,7 @@
       "TotalConfirmed": "653"
     },
     {
-      "Date": "27/08/2020",
+      "Date": "8/27/2020",
       "FID": "247",
       "CloseContact": "72",
       "CruiseShip": "242",
@@ -2135,7 +2135,7 @@
       "TotalConfirmed": "653"
     },
     {
-      "Date": "28/08/2020",
+      "Date": "8/28/2020",
       "FID": "248",
       "CloseContact": "72",
       "CruiseShip": "242",
@@ -2146,7 +2146,7 @@
       "TotalConfirmed": "655"
     },
     {
-      "Date": "29/08/2020",
+      "Date": "8/29/2020",
       "FID": "249",
       "CloseContact": "72",
       "CruiseShip": "242",
@@ -2157,7 +2157,7 @@
       "TotalConfirmed": "655"
     },
     {
-      "Date": "30/08/2020",
+      "Date": "8/30/2020",
       "FID": "250",
       "CloseContact": "72",
       "CruiseShip": "242",
@@ -2168,7 +2168,7 @@
       "TotalConfirmed": "655"
     },
     {
-      "Date": "31/08/2020",
+      "Date": "8/31/2020",
       "FID": "251",
       "CloseContact": "72",
       "CruiseShip": "242",
@@ -2179,7 +2179,7 @@
       "TotalConfirmed": "655"
     },
     {
-      "Date": "1/09/2020",
+      "Date": "9/1/2020",
       "FID": "252",
       "CloseContact": "72",
       "CruiseShip": "242",
@@ -2190,7 +2190,7 @@
       "TotalConfirmed": "655"
     },
     {
-      "Date": "2/09/2020",
+      "Date": "9/2/2020",
       "FID": "253",
       "CloseContact": "72",
       "CruiseShip": "242",
@@ -2201,7 +2201,7 @@
       "TotalConfirmed": "655"
     },
     {
-      "Date": "3/09/2020",
+      "Date": "9/3/2020",
       "FID": "254",
       "CloseContact": "72",
       "CruiseShip": "242",
@@ -2212,7 +2212,7 @@
       "TotalConfirmed": "655"
     },
     {
-      "Date": "4/09/2020",
+      "Date": "9/4/2020",
       "FID": "255",
       "CloseContact": "72",
       "CruiseShip": "242",
@@ -2223,7 +2223,7 @@
       "TotalConfirmed": "655"
     },
     {
-      "Date": "5/09/2020",
+      "Date": "9/5/2020",
       "FID": "256",
       "CloseContact": "72",
       "CruiseShip": "242",
@@ -2234,7 +2234,7 @@
       "TotalConfirmed": "655"
     },
     {
-      "Date": "6/09/2020",
+      "Date": "9/6/2020",
       "FID": "257",
       "CloseContact": "72",
       "CruiseShip": "242",
@@ -2245,7 +2245,7 @@
       "TotalConfirmed": "656"
     },
     {
-      "Date": "7/09/2020",
+      "Date": "9/7/2020",
       "FID": "258",
       "CloseContact": "72",
       "CruiseShip": "242",
@@ -2256,7 +2256,7 @@
       "TotalConfirmed": "657"
     },
     {
-      "Date": "8/09/2020",
+      "Date": "9/8/2020",
       "FID": "259",
       "CloseContact": "72",
       "CruiseShip": "242",
@@ -2267,7 +2267,7 @@
       "TotalConfirmed": "658"
     },
     {
-      "Date": "9/09/2020",
+      "Date": "9/9/2020",
       "FID": "260",
       "CloseContact": "72",
       "CruiseShip": "242",
@@ -2278,7 +2278,7 @@
       "TotalConfirmed": "658"
     },
     {
-      "Date": "10/09/2020",
+      "Date": "9/10/2020",
       "FID": "261",
       "CloseContact": "72",
       "CruiseShip": "242",
@@ -2289,7 +2289,7 @@
       "TotalConfirmed": "659"
     },
     {
-      "Date": "11/09/2020",
+      "Date": "9/11/2020",
       "FID": "262",
       "CloseContact": "72",
       "CruiseShip": "242",
@@ -2300,7 +2300,7 @@
       "TotalConfirmed": "659"
     },
     {
-      "Date": "12/09/2020",
+      "Date": "9/12/2020",
       "FID": "263",
       "CloseContact": "72",
       "CruiseShip": "242",
@@ -2311,7 +2311,7 @@
       "TotalConfirmed": "659"
     },
     {
-      "Date": "13/09/2020",
+      "Date": "9/13/2020",
       "FID": "264",
       "CloseContact": "72",
       "CruiseShip": "242",
@@ -2322,7 +2322,7 @@
       "TotalConfirmed": "659"
     },
     {
-      "Date": "14/09/2020",
+      "Date": "9/14/2020",
       "FID": "265",
       "CloseContact": "72",
       "CruiseShip": "242",
@@ -2333,7 +2333,7 @@
       "TotalConfirmed": "659"
     },
     {
-      "Date": "15/09/2020",
+      "Date": "9/15/2020",
       "FID": "266",
       "CloseContact": "72",
       "CruiseShip": "242",
@@ -2344,7 +2344,7 @@
       "TotalConfirmed": "659"
     },
     {
-      "Date": "16/09/2020",
+      "Date": "9/16/2020",
       "FID": "267",
       "CloseContact": "72",
       "CruiseShip": "242",
@@ -2355,7 +2355,7 @@
       "TotalConfirmed": "660"
     },
     {
-      "Date": "17/09/2020",
+      "Date": "9/17/2020",
       "FID": "268",
       "CloseContact": "72",
       "CruiseShip": "242",
@@ -2366,7 +2366,7 @@
       "TotalConfirmed": "661"
     },
     {
-      "Date": "18/09/2020",
+      "Date": "9/18/2020",
       "FID": "269",
       "CloseContact": "72",
       "CruiseShip": "242",
@@ -2377,7 +2377,7 @@
       "TotalConfirmed": "661"
     },
     {
-      "Date": "19/09/2020",
+      "Date": "9/19/2020",
       "FID": "270",
       "CloseContact": "72",
       "CruiseShip": "242",
@@ -2388,7 +2388,7 @@
       "TotalConfirmed": "661"
     },
     {
-      "Date": "20/09/2020",
+      "Date": "9/20/2020",
       "FID": "271",
       "CloseContact": "73",
       "CruiseShip": "242",
@@ -2399,7 +2399,7 @@
       "TotalConfirmed": "662"
     },
     {
-      "Date": "21/09/2020",
+      "Date": "9/21/2020",
       "FID": "272",
       "CloseContact": "73",
       "CruiseShip": "242",
@@ -2410,7 +2410,7 @@
       "TotalConfirmed": "662"
     },
     {
-      "Date": "22/09/2020",
+      "Date": "9/22/2020",
       "FID": "273",
       "CloseContact": "73",
       "CruiseShip": "242",
@@ -2421,7 +2421,7 @@
       "TotalConfirmed": "665"
     },
     {
-      "Date": "23/09/2020",
+      "Date": "9/23/2020",
       "FID": "274",
       "CloseContact": "73",
       "CruiseShip": "242",
@@ -2432,7 +2432,7 @@
       "TotalConfirmed": "665"
     },
     {
-      "Date": "24/09/2020",
+      "Date": "9/24/2020",
       "FID": "275",
       "CloseContact": "73",
       "CruiseShip": "244",
@@ -2443,7 +2443,7 @@
       "TotalConfirmed": "668"
     },
     {
-      "Date": "25/09/2020",
+      "Date": "9/25/2020",
       "FID": "276",
       "CloseContact": "73",
       "CruiseShip": "244",
@@ -2454,7 +2454,7 @@
       "TotalConfirmed": "668"
     },
     {
-      "Date": "26/09/2020",
+      "Date": "9/26/2020",
       "FID": "277",
       "CloseContact": "73",
       "CruiseShip": "244",
@@ -2465,7 +2465,7 @@
       "TotalConfirmed": "669"
     },
     {
-      "Date": "27/09/2020",
+      "Date": "9/27/2020",
       "FID": "278",
       "CloseContact": "73",
       "CruiseShip": "251",
@@ -2476,7 +2476,7 @@
       "TotalConfirmed": "676"
     },
     {
-      "Date": "28/09/2020",
+      "Date": "9/28/2020",
       "FID": "279",
       "CloseContact": "73",
       "CruiseShip": "251",
@@ -2487,7 +2487,7 @@
       "TotalConfirmed": "676"
     },
     {
-      "Date": "29/09/2020",
+      "Date": "9/29/2020",
       "FID": "280",
       "CloseContact": "73",
       "CruiseShip": "259",
@@ -2498,7 +2498,7 @@
       "TotalConfirmed": "684"
     },
     {
-      "Date": "30/09/2020",
+      "Date": "9/30/2020",
       "FID": "281",
       "CloseContact": "73",
       "CruiseShip": "259",
@@ -2509,7 +2509,7 @@
       "TotalConfirmed": "684"
     },
     {
-      "Date": "1/10/2020",
+      "Date": "10/1/2020",
       "FID": "282",
       "CloseContact": "72",
       "CruiseShip": "259",
@@ -2520,7 +2520,7 @@
       "TotalConfirmed": "685"
     },
     {
-      "Date": "2/10/2020",
+      "Date": "10/2/2020",
       "FID": "283",
       "CloseContact": "72",
       "CruiseShip": "259",
@@ -2531,7 +2531,7 @@
       "TotalConfirmed": "685"
     },
     {
-      "Date": "3/10/2020",
+      "Date": "10/3/2020",
       "FID": "284",
       "CloseContact": "72",
       "CruiseShip": "259",
@@ -2542,7 +2542,7 @@
       "TotalConfirmed": "686"
     },
     {
-      "Date": "4/10/2020",
+      "Date": "10/4/2020",
       "FID": "285",
       "CloseContact": "72",
       "CruiseShip": "259",
@@ -2553,7 +2553,7 @@
       "TotalConfirmed": "686"
     },
     {
-      "Date": "5/10/2020",
+      "Date": "10/5/2020",
       "FID": "286",
       "CloseContact": "72",
       "CruiseShip": "259",
@@ -2564,7 +2564,7 @@
       "TotalConfirmed": "687"
     },
     {
-      "Date": "6/10/2020",
+      "Date": "10/6/2020",
       "FID": "287",
       "CloseContact": "72",
       "CruiseShip": "259",
@@ -2575,7 +2575,7 @@
       "TotalConfirmed": "687"
     },
     {
-      "Date": "7/10/2020",
+      "Date": "10/7/2020",
       "FID": "288",
       "CloseContact": "72",
       "CruiseShip": "259",
@@ -2586,7 +2586,7 @@
       "TotalConfirmed": "688"
     },
     {
-      "Date": "8/10/2020",
+      "Date": "10/8/2020",
       "FID": "289",
       "CloseContact": "72",
       "CruiseShip": "259",
@@ -2597,7 +2597,7 @@
       "TotalConfirmed": "690"
     },
     {
-      "Date": "9/10/2020",
+      "Date": "10/9/2020",
       "FID": "290",
       "CloseContact": "71",
       "CruiseShip": "259",
@@ -2619,7 +2619,7 @@
       "TotalConfirmed": "692"
     },
     {
-      "Date": "11/10/2020",
+      "Date": "10/11/2020",
       "FID": "292",
       "CloseContact": "71",
       "CruiseShip": "259",
@@ -2630,7 +2630,7 @@
       "TotalConfirmed": "694"
     },
     {
-      "Date": "12/10/2020",
+      "Date": "10/12/2020",
       "FID": "293",
       "CloseContact": "71",
       "CruiseShip": "260",
@@ -2641,7 +2641,7 @@
       "TotalConfirmed": "696"
     },
     {
-      "Date": "13/10/2020",
+      "Date": "10/13/2020",
       "FID": "294",
       "CloseContact": "71",
       "CruiseShip": "260",
@@ -2652,7 +2652,7 @@
       "TotalConfirmed": "703"
     },
     {
-      "Date": "14/10/2020",
+      "Date": "10/14/2020",
       "FID": "295",
       "CloseContact": "71",
       "CruiseShip": "266",
@@ -2663,7 +2663,7 @@
       "TotalConfirmed": "704"
     },
     {
-      "Date": "15/10/2020",
+      "Date": "10/15/2020",
       "FID": "296",
       "CloseContact": "71",
       "CruiseShip": "266",
@@ -2674,7 +2674,7 @@
       "TotalConfirmed": "709"
     },
     {
-      "Date": "16/10/2020",
+      "Date": "10/16/2020",
       "FID": "297",
       "CloseContact": "71",
       "CruiseShip": "266",
@@ -2685,7 +2685,7 @@
       "TotalConfirmed": "709"
     },
     {
-      "Date": "17/10/2020",
+      "Date": "10/17/2020",
       "FID": "298",
       "CloseContact": "71",
       "CruiseShip": "266",
@@ -2696,7 +2696,7 @@
       "TotalConfirmed": "711"
     },
     {
-      "Date": "18/10/2020",
+      "Date": "10/18/2020",
       "FID": "299",
       "CloseContact": "71",
       "CruiseShip": "268",
@@ -2707,7 +2707,7 @@
       "TotalConfirmed": "714"
     },
     {
-      "Date": "19/10/2020",
+      "Date": "10/19/2020",
       "FID": "300",
       "CloseContact": "71",
       "CruiseShip": "268",
@@ -2718,7 +2718,7 @@
       "TotalConfirmed": "714"
     },
     {
-      "Date": "20/10/2020",
+      "Date": "10/20/2020",
       "FID": "301",
       "CloseContact": "71",
       "CruiseShip": "292",
@@ -2729,7 +2729,7 @@
       "TotalConfirmed": "738"
     },
     {
-      "Date": "21/10/2020",
+      "Date": "10/21/2020",
       "FID": "302",
       "CloseContact": "71",
       "CruiseShip": "293",
@@ -2740,7 +2740,7 @@
       "TotalConfirmed": "739"
     },
     {
-      "Date": "22/10/2020",
+      "Date": "10/22/2020",
       "FID": "303",
       "CloseContact": "71",
       "CruiseShip": "291",
@@ -2751,7 +2751,7 @@
       "TotalConfirmed": "747"
     },
     {
-      "Date": "23/10/2020",
+      "Date": "10/23/2020",
       "FID": "304",
       "CloseContact": "71",
       "CruiseShip": "291",
@@ -2762,7 +2762,7 @@
       "TotalConfirmed": "753"
     },
     {
-      "Date": "24/10/2020",
+      "Date": "10/24/2020",
       "FID": "305",
       "CloseContact": "71",
       "CruiseShip": "291",
@@ -2773,7 +2773,7 @@
       "TotalConfirmed": "757"
     },
     {
-      "Date": "25/10/2020",
+      "Date": "10/25/2020",
       "FID": "306",
       "CloseContact": "71",
       "CruiseShip": "291",
@@ -2784,7 +2784,7 @@
       "TotalConfirmed": "760"
     },
     {
-      "Date": "26/10/2020",
+      "Date": "10/26/2020",
       "FID": "307",
       "CloseContact": "71",
       "CruiseShip": "291",
@@ -2795,7 +2795,7 @@
       "TotalConfirmed": "762"
     },
     {
-      "Date": "27/10/2020",
+      "Date": "10/27/2020",
       "FID": "308",
       "CloseContact": "71",
       "CruiseShip": "291",
@@ -2806,7 +2806,7 @@
       "TotalConfirmed": "764"
     },
     {
-      "Date": "28/10/2020",
+      "Date": "10/28/2020",
       "FID": "309",
       "CloseContact": "72",
       "CruiseShip": "291",
@@ -2817,7 +2817,7 @@
       "TotalConfirmed": "765"
     },
     {
-      "Date": "29/10/2020",
+      "Date": "10/29/2020",
       "FID": "310",
       "CloseContact": "71",
       "CruiseShip": "291",
@@ -2828,7 +2828,7 @@
       "TotalConfirmed": "766"
     },
     {
-      "Date": "30/10/2020",
+      "Date": "10/30/2020",
       "FID": "311",
       "CloseContact": "71",
       "CruiseShip": "291",
@@ -2839,7 +2839,7 @@
       "TotalConfirmed": "767"
     },
     {
-      "Date": "31/10/2020",
+      "Date": "10/31/2020",
       "FID": "312",
       "CloseContact": "71",
       "CruiseShip": "291",
@@ -2850,7 +2850,7 @@
       "TotalConfirmed": "768"
     },
     {
-      "Date": "1/11/2020",
+      "Date": "11/1/2020",
       "FID": "313",
       "CloseContact": "71",
       "CruiseShip": "291",
@@ -2861,7 +2861,7 @@
       "TotalConfirmed": "769"
     },
     {
-      "Date": "2/11/2020",
+      "Date": "11/2/2020",
       "FID": "314",
       "CloseContact": "71",
       "CruiseShip": "291",
@@ -2872,7 +2872,7 @@
       "TotalConfirmed": "770"
     },
     {
-      "Date": "3/11/2020",
+      "Date": "11/3/2020",
       "FID": "315",
       "CloseContact": "71",
       "CruiseShip": "291",
@@ -2883,7 +2883,7 @@
       "TotalConfirmed": "770"
     },
     {
-      "Date": "4/11/2020",
+      "Date": "11/4/2020",
       "FID": "316",
       "CloseContact": "71",
       "CruiseShip": "291",
@@ -2894,7 +2894,7 @@
       "TotalConfirmed": "771"
     },
     {
-      "Date": "5/11/2020",
+      "Date": "11/5/2020",
       "FID": "317",
       "CloseContact": "71",
       "CruiseShip": "291",
@@ -2905,7 +2905,7 @@
       "TotalConfirmed": "775"
     },
     {
-      "Date": "6/11/2020",
+      "Date": "11/6/2020",
       "FID": "318",
       "CloseContact": "71",
       "CruiseShip": "291",
@@ -2916,7 +2916,7 @@
       "TotalConfirmed": "776"
     },
     {
-      "Date": "7/11/2020",
+      "Date": "11/7/2020",
       "FID": "319",
       "CloseContact": "71",
       "CruiseShip": "291",
@@ -2927,7 +2927,7 @@
       "TotalConfirmed": "776"
     },
     {
-      "Date": "8/11/2020",
+      "Date": "11/8/2020",
       "FID": "320",
       "CloseContact": "71",
       "CruiseShip": "291",
@@ -2938,7 +2938,7 @@
       "TotalConfirmed": "776"
     },
     {
-      "Date": "9/11/2020",
+      "Date": "11/9/2020",
       "FID": "321",
       "CloseContact": "71",
       "CruiseShip": "291",
@@ -2949,7 +2949,7 @@
       "TotalConfirmed": "776"
     },
     {
-      "Date": "10/11/2020",
+      "Date": "11/10/2020",
       "FID": "322",
       "CloseContact": "73",
       "CruiseShip": "290",
@@ -2971,7 +2971,7 @@
       "TotalConfirmed": "780"
     },
     {
-      "Date": "12/11/2020",
+      "Date": "11/12/2020",
       "FID": "324",
       "CloseContact": "73",
       "CruiseShip": "290",
@@ -2982,7 +2982,7 @@
       "TotalConfirmed": "783"
     },
     {
-      "Date": "13/11/2020",
+      "Date": "11/13/2020",
       "FID": "325",
       "CloseContact": "73",
       "CruiseShip": "290",
@@ -2993,7 +2993,7 @@
       "TotalConfirmed": "783"
     },
     {
-      "Date": "14/11/2020",
+      "Date": "11/14/2020",
       "FID": "326",
       "CloseContact": "73",
       "CruiseShip": "290",
@@ -3004,7 +3004,7 @@
       "TotalConfirmed": "783"
     },
     {
-      "Date": "15/11/2020",
+      "Date": "11/15/2020",
       "FID": "327",
       "CloseContact": "73",
       "CruiseShip": "290",
@@ -3015,7 +3015,7 @@
       "TotalConfirmed": "787"
     },
     {
-      "Date": "16/11/2020",
+      "Date": "11/16/2020",
       "FID": "328",
       "CloseContact": "73",
       "CruiseShip": "290",
@@ -3026,7 +3026,7 @@
       "TotalConfirmed": "788"
     },
     {
-      "Date": "17/11/2020",
+      "Date": "11/17/2020",
       "FID": "329",
       "CloseContact": "73",
       "CruiseShip": "290",
@@ -3037,7 +3037,7 @@
       "TotalConfirmed": "788"
     },
     {
-      "Date": "18/11/2020",
+      "Date": "11/18/2020",
       "FID": "330",
       "CloseContact": "73",
       "CruiseShip": "290",
@@ -3048,7 +3048,7 @@
       "TotalConfirmed": "794"
     },
     {
-      "Date": "19/11/2020",
+      "Date": "11/19/2020",
       "FID": "331",
       "CloseContact": "73",
       "CruiseShip": "290",
@@ -3059,7 +3059,7 @@
       "TotalConfirmed": "794"
     },
     {
-      "Date": "20/11/2020",
+      "Date": "11/20/2020",
       "FID": "332",
       "CloseContact": "73",
       "CruiseShip": "290",
@@ -3070,7 +3070,7 @@
       "TotalConfirmed": "796"
     },
     {
-      "Date": "21/11/2020",
+      "Date": "11/21/2020",
       "FID": "333",
       "CloseContact": "73",
       "CruiseShip": "290",
@@ -3081,7 +3081,7 @@
       "TotalConfirmed": "797"
     },
     {
-      "Date": "22/11/2020",
+      "Date": "11/22/2020",
       "FID": "334",
       "CloseContact": "73",
       "CruiseShip": "290",
@@ -3092,7 +3092,7 @@
       "TotalConfirmed": "799"
     },
     {
-      "Date": "23/11/2020",
+      "Date": "11/23/2020",
       "FID": "335",
       "CloseContact": "73",
       "CruiseShip": "290",
@@ -3103,7 +3103,7 @@
       "TotalConfirmed": "804"
     },
     {
-      "Date": "24/11/2020",
+      "Date": "11/24/2020",
       "FID": "336",
       "CloseContact": "73",
       "CruiseShip": "290",
@@ -3114,7 +3114,7 @@
       "TotalConfirmed": "808"
     },
     {
-      "Date": "25/11/2020",
+      "Date": "11/25/2020",
       "FID": "337",
       "CloseContact": "73",
       "CruiseShip": "290",
@@ -3125,7 +3125,7 @@
       "TotalConfirmed": "810"
     },
     {
-      "Date": "26/11/2020",
+      "Date": "11/26/2020",
       "FID": "338",
       "CloseContact": "73",
       "CruiseShip": "290",
@@ -3136,7 +3136,7 @@
       "TotalConfirmed": "817"
     },
     {
-      "Date": "27/11/2020",
+      "Date": "11/27/2020",
       "FID": "339",
       "CloseContact": "73",
       "CruiseShip": "290",
@@ -3147,7 +3147,7 @@
       "TotalConfirmed": "817"
     },
     {
-      "Date": "28/11/2020",
+      "Date": "11/28/2020",
       "FID": "340",
       "CloseContact": "73",
       "CruiseShip": "290",
@@ -3158,7 +3158,7 @@
       "TotalConfirmed": "817"
     },
     {
-      "Date": "29/11/2020",
+      "Date": "11/29/2020",
       "FID": "341",
       "CloseContact": "73",
       "CruiseShip": "290",
@@ -3169,7 +3169,7 @@
       "TotalConfirmed": "818"
     },
     {
-      "Date": "30/11/2020",
+      "Date": "11/30/2020",
       "FID": "342",
       "CloseContact": "73",
       "CruiseShip": "290",
@@ -3180,7 +3180,7 @@
       "TotalConfirmed": "818"
     },
     {
-      "Date": "1/12/2020",
+      "Date": "12/1/2020",
       "FID": "343",
       "CloseContact": "73",
       "CruiseShip": "290",
@@ -3191,7 +3191,7 @@
       "TotalConfirmed": "821"
     },
     {
-      "Date": "2/12/2020",
+      "Date": "12/2/2020",
       "FID": "344",
       "CloseContact": "73",
       "CruiseShip": "290",
@@ -3202,7 +3202,7 @@
       "TotalConfirmed": "823"
     },
     {
-      "Date": "3/12/2020",
+      "Date": "12/3/2020",
       "FID": "345",
       "CloseContact": "73",
       "CruiseShip": "290",
@@ -3213,7 +3213,7 @@
       "TotalConfirmed": "823"
     },
     {
-      "Date": "4/12/2020",
+      "Date": "12/4/2020",
       "FID": "346",
       "CloseContact": "73",
       "CruiseShip": "290",
@@ -3224,7 +3224,7 @@
       "TotalConfirmed": "825"
     },
     {
-      "Date": "5/12/2020",
+      "Date": "12/5/2020",
       "FID": "347",
       "CloseContact": "73",
       "CruiseShip": "290",
@@ -3235,7 +3235,7 @@
       "TotalConfirmed": "828"
     },
     {
-      "Date": "6/12/2020",
+      "Date": "12/6/2020",
       "FID": "348",
       "CloseContact": "73",
       "CruiseShip": "290",
@@ -3246,7 +3246,7 @@
       "TotalConfirmed": "830"
     },
     {
-      "Date": "7/12/2020",
+      "Date": "12/7/2020",
       "FID": "349",
       "CloseContact": "73",
       "CruiseShip": "290",
@@ -3257,7 +3257,7 @@
       "TotalConfirmed": "830"
     },
     {
-      "Date": "8/12/2020",
+      "Date": "12/8/2020",
       "FID": "350",
       "CloseContact": "73",
       "CruiseShip": "290",
@@ -3268,7 +3268,7 @@
       "TotalConfirmed": "831"
     },
     {
-      "Date": "9/12/2020",
+      "Date": "12/9/2020",
       "FID": "351",
       "CloseContact": "73",
       "CruiseShip": "290",
@@ -3279,7 +3279,7 @@
       "TotalConfirmed": "832"
     },
     {
-      "Date": "10/12/2020",
+      "Date": "12/10/2020",
       "FID": "352",
       "CloseContact": "73",
       "CruiseShip": "290",
@@ -3290,7 +3290,7 @@
       "TotalConfirmed": "832"
     },
     {
-      "Date": "11/12/2020",
+      "Date": "12/11/2020",
       "FID": "353",
       "CloseContact": "73",
       "CruiseShip": "290",
@@ -3312,7 +3312,7 @@
       "TotalConfirmed": "835"
     },
     {
-      "Date": "13/12/2020",
+      "Date": "12/13/2020",
       "FID": "355",
       "CloseContact": "73",
       "CruiseShip": "290",
@@ -3323,7 +3323,7 @@
       "TotalConfirmed": "836"
     },
     {
-      "Date": "14/12/2020",
+      "Date": "12/14/2020",
       "FID": "356",
       "CloseContact": "73",
       "CruiseShip": "290",
@@ -3334,7 +3334,7 @@
       "TotalConfirmed": "837"
     },
     {
-      "Date": "15/12/2020",
+      "Date": "12/15/2020",
       "FID": "357",
       "CloseContact": "74",
       "CruiseShip": "290",
@@ -3345,7 +3345,7 @@
       "TotalConfirmed": "838"
     },
     {
-      "Date": "16/12/2020",
+      "Date": "12/16/2020",
       "FID": "358",
       "CloseContact": "74",
       "CruiseShip": "290",
@@ -3356,7 +3356,7 @@
       "TotalConfirmed": "842"
     },
     {
-      "Date": "17/12/2020",
+      "Date": "12/17/2020",
       "FID": "359",
       "CloseContact": "74",
       "CruiseShip": "290",
@@ -3367,7 +3367,7 @@
       "TotalConfirmed": "843"
     },
     {
-      "Date": "18/12/2020",
+      "Date": "12/18/2020",
       "FID": "360",
       "CloseContact": "74",
       "CruiseShip": "290",
@@ -3378,7 +3378,7 @@
       "TotalConfirmed": "844"
     },
     {
-      "Date": "19/12/2020",
+      "Date": "12/19/2020",
       "FID": "361",
       "CloseContact": "74",
       "CruiseShip": "290",
@@ -3389,7 +3389,7 @@
       "TotalConfirmed": "845"
     },
     {
-      "Date": "20/12/2020",
+      "Date": "12/20/2020",
       "FID": "362",
       "CloseContact": "74",
       "CruiseShip": "290",
@@ -3400,7 +3400,7 @@
       "TotalConfirmed": "845"
     },
     {
-      "Date": "21/12/2020",
+      "Date": "12/21/2020",
       "FID": "363",
       "CloseContact": "74",
       "CruiseShip": "290",
@@ -3411,7 +3411,7 @@
       "TotalConfirmed": "846"
     },
     {
-      "Date": "22/12/2020",
+      "Date": "12/22/2020",
       "FID": "364",
       "CloseContact": "74",
       "CruiseShip": "290",
@@ -3422,7 +3422,7 @@
       "TotalConfirmed": "846"
     },
     {
-      "Date": "23/12/2020",
+      "Date": "12/23/2020",
       "FID": "365",
       "CloseContact": "77",
       "CruiseShip": "290",
@@ -3433,7 +3433,7 @@
       "TotalConfirmed": "846"
     },
     {
-      "Date": "24/12/2020",
+      "Date": "12/24/2020",
       "FID": "366",
       "CloseContact": "77",
       "CruiseShip": "291",
@@ -3444,7 +3444,7 @@
       "TotalConfirmed": "847"
     },
     {
-      "Date": "25/12/2020",
+      "Date": "12/25/2020",
       "FID": "367",
       "CloseContact": "77",
       "CruiseShip": "291",
@@ -3455,7 +3455,7 @@
       "TotalConfirmed": "848"
     },
     {
-      "Date": "26/12/2020",
+      "Date": "12/26/2020",
       "FID": "368",
       "CloseContact": "77",
       "CruiseShip": "291",
@@ -3466,7 +3466,7 @@
       "TotalConfirmed": "853"
     },
     {
-      "Date": "27/12/2020",
+      "Date": "12/27/2020",
       "FID": "369",
       "CloseContact": "77",
       "CruiseShip": "291",
@@ -3477,7 +3477,7 @@
       "TotalConfirmed": "855"
     },
     {
-      "Date": "28/12/2020",
+      "Date": "12/28/2020",
       "FID": "370",
       "CloseContact": "77",
       "CruiseShip": "291",
@@ -3488,7 +3488,7 @@
       "TotalConfirmed": "858"
     },
     {
-      "Date": "29/12/2020",
+      "Date": "12/29/2020",
       "FID": "371",
       "CloseContact": "78",
       "CruiseShip": "291",
@@ -3499,7 +3499,7 @@
       "TotalConfirmed": "859"
     },
     {
-      "Date": "30/12/2020",
+      "Date": "12/30/2020",
       "FID": "372",
       "CloseContact": "78",
       "CruiseShip": "291",
@@ -3510,7 +3510,7 @@
       "TotalConfirmed": "859"
     },
     {
-      "Date": "31/12/2020",
+      "Date": "12/31/2020",
       "FID": "373",
       "CloseContact": "78",
       "CruiseShip": "291",
@@ -3521,7 +3521,7 @@
       "TotalConfirmed": "861"
     },
     {
-      "Date": "1/01/2021",
+      "Date": "1/1/2021",
       "FID": "374",
       "CloseContact": "78",
       "CruiseShip": "291",
@@ -3532,7 +3532,7 @@
       "TotalConfirmed": "863"
     },
     {
-      "Date": "2/01/2021",
+      "Date": "1/2/2021",
       "FID": "375",
       "CloseContact": "79",
       "CruiseShip": "291",
@@ -3543,7 +3543,7 @@
       "TotalConfirmed": "866"
     },
     {
-      "Date": "3/01/2021",
+      "Date": "1/3/2021",
       "FID": "376",
       "CloseContact": "79",
       "CruiseShip": "291",
@@ -3554,7 +3554,7 @@
       "TotalConfirmed": "867"
     },
     {
-      "Date": "4/01/2021",
+      "Date": "1/4/2021",
       "FID": "377",
       "CloseContact": "79",
       "CruiseShip": "291",
@@ -3565,7 +3565,7 @@
       "TotalConfirmed": "868"
     },
     {
-      "Date": "5/01/2021",
+      "Date": "1/5/2021",
       "FID": "378",
       "CloseContact": "79",
       "CruiseShip": "291",
@@ -3576,7 +3576,7 @@
       "TotalConfirmed": "869"
     },
     {
-      "Date": "6/01/2021",
+      "Date": "1/6/2021",
       "FID": "379",
       "CloseContact": "79",
       "CruiseShip": "291",
@@ -3587,7 +3587,7 @@
       "TotalConfirmed": "872"
     },
     {
-      "Date": "7/01/2021",
+      "Date": "1/7/2021",
       "FID": "380",
       "CloseContact": "79",
       "CruiseShip": "291",
@@ -3598,7 +3598,7 @@
       "TotalConfirmed": "874"
     },
     {
-      "Date": "8/01/2021",
+      "Date": "1/8/2021",
       "FID": "381",
       "CloseContact": "79",
       "CruiseShip": "291",
@@ -3609,7 +3609,7 @@
       "TotalConfirmed": "874"
     },
     {
-      "Date": "9/01/2021",
+      "Date": "1/9/2021",
       "FID": "382",
       "CloseContact": "79",
       "CruiseShip": "291",
@@ -3620,7 +3620,7 @@
       "TotalConfirmed": "875"
     },
     {
-      "Date": "10/01/2021",
+      "Date": "1/10/2021",
       "FID": "383",
       "CloseContact": "79",
       "CruiseShip": "291",
@@ -3631,7 +3631,7 @@
       "TotalConfirmed": "875"
     },
     {
-      "Date": "11/01/2021",
+      "Date": "1/11/2021",
       "FID": "384",
       "CloseContact": "79",
       "CruiseShip": "291",
@@ -3642,7 +3642,7 @@
       "TotalConfirmed": "877"
     },
     {
-      "Date": "12/01/2021",
+      "Date": "1/12/2021",
       "FID": "385",
       "CloseContact": "79",
       "CruiseShip": "291",
@@ -3653,7 +3653,7 @@
       "TotalConfirmed": "878"
     },
     {
-      "Date": "13/01/2021",
+      "Date": "1/13/2021",
       "FID": "386",
       "CloseContact": "79",
       "CruiseShip": "291",
@@ -3664,7 +3664,7 @@
       "TotalConfirmed": "879"
     },
     {
-      "Date": "14/01/2021",
+      "Date": "1/14/2021",
       "FID": "387",
       "CloseContact": "79",
       "CruiseShip": "291",
@@ -3675,7 +3675,7 @@
       "TotalConfirmed": "881"
     },
     {
-      "Date": "15/01/2021",
+      "Date": "1/15/2021",
       "FID": "388",
       "CloseContact": "79",
       "CruiseShip": "291",
@@ -3686,7 +3686,7 @@
       "TotalConfirmed": "884"
     },
     {
-      "Date": "16/01/2021",
+      "Date": "1/16/2021",
       "FID": "389",
       "CloseContact": "79",
       "CruiseShip": "291",
@@ -3697,7 +3697,7 @@
       "TotalConfirmed": "886"
     },
     {
-      "Date": "17/01/2021",
+      "Date": "1/17/2021",
       "FID": "390",
       "CloseContact": "79",
       "CruiseShip": "291",
@@ -3708,7 +3708,7 @@
       "TotalConfirmed": "887"
     },
     {
-      "Date": "18/01/2021",
+      "Date": "1/18/2021",
       "FID": "391",
       "CloseContact": "79",
       "CruiseShip": "291",
@@ -3719,7 +3719,7 @@
       "TotalConfirmed": "887"
     },
     {
-      "Date": "19/01/2021",
+      "Date": "1/19/2021",
       "FID": "392",
       "CloseContact": "79",
       "CruiseShip": "291",
@@ -3730,7 +3730,7 @@
       "TotalConfirmed": "888"
     },
     {
-      "Date": "20/01/2021",
+      "Date": "1/20/2021",
       "FID": "393",
       "CloseContact": "79",
       "CruiseShip": "291",
@@ -3741,7 +3741,7 @@
       "TotalConfirmed": "888"
     },
     {
-      "Date": "21/01/2021",
+      "Date": "1/21/2021",
       "FID": "394",
       "CloseContact": "79",
       "CruiseShip": "291",
@@ -3752,7 +3752,7 @@
       "TotalConfirmed": "888"
     },
     {
-      "Date": "22/01/2021",
+      "Date": "1/22/2021",
       "FID": "395",
       "CloseContact": "79",
       "CruiseShip": "291",
@@ -3763,7 +3763,7 @@
       "TotalConfirmed": "890"
     },
     {
-      "Date": "23/01/2021",
+      "Date": "1/23/2021",
       "FID": "396",
       "CloseContact": "79",
       "CruiseShip": "291",
@@ -3774,7 +3774,7 @@
       "TotalConfirmed": "892"
     },
     {
-      "Date": "24/01/2021",
+      "Date": "1/24/2021",
       "FID": "397",
       "CloseContact": "79",
       "CruiseShip": "291",
@@ -3785,7 +3785,7 @@
       "TotalConfirmed": "894"
     },
     {
-      "Date": "25/01/2021",
+      "Date": "1/25/2021",
       "FID": "398",
       "CloseContact": "79",
       "CruiseShip": "291",
@@ -3796,7 +3796,7 @@
       "TotalConfirmed": "894"
     },
     {
-      "Date": "26/01/2021",
+      "Date": "1/26/2021",
       "FID": "399",
       "CloseContact": "79",
       "CruiseShip": "291",
@@ -3807,7 +3807,7 @@
       "TotalConfirmed": "895"
     },
     {
-      "Date": "27/01/2021",
+      "Date": "1/27/2021",
       "FID": "400",
       "CloseContact": "79",
       "CruiseShip": "291",
@@ -3818,7 +3818,7 @@
       "TotalConfirmed": "897"
     },
     {
-      "Date": "28/01/2021",
+      "Date": "1/28/2021",
       "FID": "401",
       "CloseContact": "79",
       "CruiseShip": "291",
@@ -3829,7 +3829,7 @@
       "TotalConfirmed": "898"
     },
     {
-      "Date": "29/01/2021",
+      "Date": "1/29/2021",
       "FID": "402",
       "CloseContact": "79",
       "CruiseShip": "291",
@@ -3840,7 +3840,7 @@
       "TotalConfirmed": "899"
     },
     {
-      "Date": "30/01/2021",
+      "Date": "1/30/2021",
       "FID": "403",
       "CloseContact": "79",
       "CruiseShip": "291",
@@ -3851,7 +3851,7 @@
       "TotalConfirmed": "902"
     },
     {
-      "Date": "31/01/2021",
+      "Date": "1/31/2021",
       "FID": "404",
       "CloseContact": "79",
       "CruiseShip": "291",
@@ -3862,7 +3862,7 @@
       "TotalConfirmed": "902"
     },
     {
-      "Date": "1/02/2021",
+      "Date": "2/1/2021",
       "FID": "405",
       "CloseContact": "79",
       "CruiseShip": "291",
@@ -3873,7 +3873,7 @@
       "TotalConfirmed": "903"
     },
     {
-      "Date": "2/02/2021",
+      "Date": "2/2/2021",
       "FID": "406",
       "CloseContact": "79",
       "CruiseShip": "291",
@@ -3884,7 +3884,7 @@
       "TotalConfirmed": "904"
     },
     {
-      "Date": "3/02/2021",
+      "Date": "2/3/2021",
       "FID": "407",
       "CloseContact": "80",
       "CruiseShip": "291",
@@ -3895,7 +3895,7 @@
       "TotalConfirmed": "904"
     },
     {
-      "Date": "4/02/2021",
+      "Date": "2/4/2021",
       "FID": "408",
       "CloseContact": "80",
       "CruiseShip": "291",
@@ -3906,7 +3906,7 @@
       "TotalConfirmed": "906"
     },
     {
-      "Date": "5/02/2021",
+      "Date": "2/5/2021",
       "FID": "409",
       "CloseContact": "80",
       "CruiseShip": "291",
@@ -3917,7 +3917,7 @@
       "TotalConfirmed": "907"
     },
     {
-      "Date": "6/02/2021",
+      "Date": "2/6/2021",
       "FID": "410",
       "CloseContact": "80",
       "CruiseShip": "291",
@@ -3928,7 +3928,7 @@
       "TotalConfirmed": "907"
     },
     {
-      "Date": "7/02/2021",
+      "Date": "2/7/2021",
       "FID": "411",
       "CloseContact": "80",
       "CruiseShip": "291",
@@ -3939,7 +3939,7 @@
       "TotalConfirmed": "907"
     },
     {
-      "Date": "8/02/2021",
+      "Date": "2/8/2021",
       "FID": "412",
       "CloseContact": "80",
       "CruiseShip": "291",
@@ -3950,7 +3950,7 @@
       "TotalConfirmed": "907"
     },
     {
-      "Date": "9/02/2021",
+      "Date": "2/9/2021",
       "FID": "413",
       "CloseContact": "80",
       "CruiseShip": "291",
@@ -3961,7 +3961,7 @@
       "TotalConfirmed": "907"
     },
     {
-      "Date": "10/02/2021",
+      "Date": "2/10/2021",
       "FID": "414",
       "CloseContact": "80",
       "CruiseShip": "291",
@@ -3972,7 +3972,7 @@
       "TotalConfirmed": "909"
     },
     {
-      "Date": "11/02/2021",
+      "Date": "2/11/2021",
       "FID": "415",
       "CloseContact": "80",
       "CruiseShip": "291",
@@ -3983,7 +3983,7 @@
       "TotalConfirmed": "910"
     },
     {
-      "Date": "12/02/2021",
+      "Date": "2/12/2021",
       "FID": "416",
       "CloseContact": "80",
       "CruiseShip": "291",
@@ -3994,7 +3994,7 @@
       "TotalConfirmed": "910"
     },
     {
-      "Date": "13/02/2021",
+      "Date": "2/13/2021",
       "FID": "417",
       "CloseContact": "80",
       "CruiseShip": "291",
@@ -4005,7 +4005,7 @@
       "TotalConfirmed": "910"
     },
     {
-      "Date": "14/02/2021",
+      "Date": "2/14/2021",
       "FID": "418",
       "CloseContact": "80",
       "CruiseShip": "291",
@@ -4016,7 +4016,7 @@
       "TotalConfirmed": "910"
     },
     {
-      "Date": "15/02/2021",
+      "Date": "2/15/2021",
       "FID": "419",
       "CloseContact": "80",
       "CruiseShip": "291",
@@ -4027,7 +4027,7 @@
       "TotalConfirmed": "910"
     },
     {
-      "Date": "16/02/2021",
+      "Date": "2/16/2021",
       "FID": "420",
       "CloseContact": "80",
       "CruiseShip": "291",
@@ -4038,7 +4038,7 @@
       "TotalConfirmed": "910"
     },
     {
-      "Date": "17/02/2021",
+      "Date": "2/17/2021",
       "FID": "421",
       "CloseContact": "80",
       "CruiseShip": "291",
@@ -4049,7 +4049,7 @@
       "TotalConfirmed": "910"
     },
     {
-      "Date": "18/02/2021",
+      "Date": "2/18/2021",
       "FID": "422",
       "CloseContact": "80",
       "CruiseShip": "291",
@@ -4060,7 +4060,7 @@
       "TotalConfirmed": "910"
     },
     {
-      "Date": "19/02/2021",
+      "Date": "2/19/2021",
       "FID": "423",
       "CloseContact": "80",
       "CruiseShip": "291",
@@ -4071,7 +4071,7 @@
       "TotalConfirmed": "910"
     },
     {
-      "Date": "20/02/2021",
+      "Date": "2/20/2021",
       "FID": "424",
       "CloseContact": "80",
       "CruiseShip": "291",
@@ -4082,7 +4082,7 @@
       "TotalConfirmed": "910"
     },
     {
-      "Date": "21/02/2021",
+      "Date": "2/21/2021",
       "FID": "425",
       "CloseContact": "80",
       "CruiseShip": "291",
@@ -4093,7 +4093,7 @@
       "TotalConfirmed": "911"
     },
     {
-      "Date": "22/02/2021",
+      "Date": "2/22/2021",
       "FID": "426",
       "CloseContact": "80",
       "CruiseShip": "291",
@@ -4104,7 +4104,7 @@
       "TotalConfirmed": "912"
     },
     {
-      "Date": "23/02/2021",
+      "Date": "2/23/2021",
       "FID": "427",
       "CloseContact": "80",
       "CruiseShip": "291",
@@ -4115,7 +4115,7 @@
       "TotalConfirmed": "913"
     },
     {
-      "Date": "24/02/2021",
+      "Date": "2/24/2021",
       "FID": "428",
       "CloseContact": "80",
       "CruiseShip": "291",
@@ -4126,7 +4126,7 @@
       "TotalConfirmed": "913"
     },
     {
-      "Date": "25/02/2021",
+      "Date": "2/25/2021",
       "FID": "429",
       "CloseContact": "80",
       "CruiseShip": "291",
@@ -4137,7 +4137,7 @@
       "TotalConfirmed": "913"
     },
     {
-      "Date": "26/02/2021",
+      "Date": "2/26/2021",
       "FID": "430",
       "CloseContact": "80",
       "CruiseShip": "291",
@@ -4148,7 +4148,7 @@
       "TotalConfirmed": "913"
     },
     {
-      "Date": "27/02/2021",
+      "Date": "2/27/2021",
       "FID": "431",
       "CloseContact": "80",
       "CruiseShip": "291",
@@ -4159,7 +4159,7 @@
       "TotalConfirmed": "913"
     },
     {
-      "Date": "28/02/2021",
+      "Date": "2/28/2021",
       "FID": "432",
       "CloseContact": "80",
       "CruiseShip": "291",
@@ -4170,7 +4170,7 @@
       "TotalConfirmed": "913"
     },
     {
-      "Date": "1/03/2021",
+      "Date": "3/1/2021",
       "FID": "433",
       "CloseContact": "80",
       "CruiseShip": "291",
@@ -4181,7 +4181,7 @@
       "TotalConfirmed": "913"
     },
     {
-      "Date": "2/03/2021",
+      "Date": "3/2/2021",
       "FID": "434",
       "CloseContact": "80",
       "CruiseShip": "291",
@@ -4192,7 +4192,7 @@
       "TotalConfirmed": "913"
     },
     {
-      "Date": "3/03/2021",
+      "Date": "3/3/2021",
       "FID": "435",
       "CloseContact": "80",
       "CruiseShip": "291",
@@ -4203,7 +4203,7 @@
       "TotalConfirmed": "914"
     },
     {
-      "Date": "4/03/2021",
+      "Date": "3/4/2021",
       "FID": "436",
       "CloseContact": "80",
       "CruiseShip": "291",
@@ -4214,7 +4214,7 @@
       "TotalConfirmed": "914"
     },
     {
-      "Date": "5/03/2021",
+      "Date": "3/5/2021",
       "FID": "437",
       "CloseContact": "80",
       "CruiseShip": "291",
@@ -4225,7 +4225,7 @@
       "TotalConfirmed": "914"
     },
     {
-      "Date": "6/03/2021",
+      "Date": "3/6/2021",
       "FID": "438",
       "CloseContact": "80",
       "CruiseShip": "291",
@@ -4236,7 +4236,7 @@
       "TotalConfirmed": "916"
     },
     {
-      "Date": "7/03/2021",
+      "Date": "3/7/2021",
       "FID": "439",
       "CloseContact": "80",
       "CruiseShip": "291",
@@ -4247,7 +4247,7 @@
       "TotalConfirmed": "917"
     },
     {
-      "Date": "8/03/2021",
+      "Date": "3/8/2021",
       "FID": "440",
       "CloseContact": "80",
       "CruiseShip": "291",
@@ -4258,7 +4258,7 @@
       "TotalConfirmed": "919"
     },
     {
-      "Date": "9/03/2021",
+      "Date": "3/9/2021",
       "FID": "441",
       "CloseContact": "80",
       "CruiseShip": "291",
@@ -4269,7 +4269,7 @@
       "TotalConfirmed": "920"
     },
     {
-      "Date": "10/03/2021",
+      "Date": "3/10/2021",
       "FID": "442",
       "CloseContact": "80",
       "CruiseShip": "291",
@@ -4280,7 +4280,7 @@
       "TotalConfirmed": "921"
     },
     {
-      "Date": "11/03/2021",
+      "Date": "3/11/2021",
       "FID": "443",
       "CloseContact": "80",
       "CruiseShip": "291",
@@ -4291,7 +4291,7 @@
       "TotalConfirmed": "922"
     },
     {
-      "Date": "12/03/2021",
+      "Date": "3/12/2021",
       "FID": "444",
       "CloseContact": "80",
       "CruiseShip": "291",
@@ -4302,7 +4302,7 @@
       "TotalConfirmed": "922"
     },
     {
-      "Date": "13/03/2021",
+      "Date": "3/13/2021",
       "FID": "445",
       "CloseContact": "80",
       "CruiseShip": "291",
@@ -4313,7 +4313,7 @@
       "TotalConfirmed": "922"
     },
     {
-      "Date": "14/03/2021",
+      "Date": "3/14/2021",
       "FID": "446",
       "CloseContact": "80",
       "CruiseShip": "291",
@@ -4324,7 +4324,7 @@
       "TotalConfirmed": "924"
     },
     {
-      "Date": "15/03/2021",
+      "Date": "3/15/2021",
       "FID": "447",
       "CloseContact": "80",
       "CruiseShip": "291",
@@ -4335,7 +4335,7 @@
       "TotalConfirmed": "925"
     },
     {
-      "Date": "16/03/2021",
+      "Date": "3/16/2021",
       "FID": "448",
       "CloseContact": "80",
       "CruiseShip": "291",
@@ -4346,7 +4346,7 @@
       "TotalConfirmed": "926"
     },
     {
-      "Date": "17/03/2021",
+      "Date": "3/17/2021",
       "FID": "449",
       "CloseContact": "79",
       "CruiseShip": "291",
@@ -4357,7 +4357,7 @@
       "TotalConfirmed": "927"
     },
     {
-      "Date": "18/03/2021",
+      "Date": "3/18/2021",
       "FID": "450",
       "CloseContact": "79",
       "CruiseShip": "291",
@@ -4368,7 +4368,7 @@
       "TotalConfirmed": "927"
     },
     {
-      "Date": "19/03/2021",
+      "Date": "3/19/2021",
       "FID": "451",
       "CloseContact": "79",
       "CruiseShip": "291",
@@ -4379,7 +4379,7 @@
       "TotalConfirmed": "929"
     },
     {
-      "Date": "20/03/2021",
+      "Date": "3/20/2021",
       "FID": "452",
       "CloseContact": "79",
       "CruiseShip": "291",
@@ -4390,7 +4390,7 @@
       "TotalConfirmed": "930"
     },
     {
-      "Date": "21/03/2021",
+      "Date": "3/21/2021",
       "FID": "453",
       "CloseContact": "79",
       "CruiseShip": "291",
@@ -4401,7 +4401,7 @@
       "TotalConfirmed": "930"
     },
     {
-      "Date": "22/03/2021",
+      "Date": "3/22/2021",
       "FID": "454",
       "CloseContact": "79",
       "CruiseShip": "291",
@@ -4412,7 +4412,7 @@
       "TotalConfirmed": "931"
     },
     {
-      "Date": "23/03/2021",
+      "Date": "3/23/2021",
       "FID": "455",
       "CloseContact": "79",
       "CruiseShip": "291",
@@ -4423,7 +4423,7 @@
       "TotalConfirmed": "931"
     },
     {
-      "Date": "24/03/2021",
+      "Date": "3/24/2021",
       "FID": "456",
       "CloseContact": "79",
       "CruiseShip": "291",
@@ -4434,7 +4434,7 @@
       "TotalConfirmed": "932"
     },
     {
-      "Date": "25/03/2021",
+      "Date": "3/25/2021",
       "FID": "457",
       "CloseContact": "79",
       "CruiseShip": "291",
@@ -4445,7 +4445,7 @@
       "TotalConfirmed": "934"
     },
     {
-      "Date": "26/03/2021",
+      "Date": "3/26/2021",
       "FID": "458",
       "CloseContact": "79",
       "CruiseShip": "291",
@@ -4456,7 +4456,7 @@
       "TotalConfirmed": "934"
     },
     {
-      "Date": "27/03/2021",
+      "Date": "3/27/2021",
       "FID": "459",
       "CloseContact": "79",
       "CruiseShip": "291",
@@ -4467,7 +4467,7 @@
       "TotalConfirmed": "934"
     },
     {
-      "Date": "28/03/2021",
+      "Date": "3/28/2021",
       "FID": "460",
       "CloseContact": "79",
       "CruiseShip": "291",
@@ -4478,7 +4478,7 @@
       "TotalConfirmed": "935"
     },
     {
-      "Date": "29/03/2021",
+      "Date": "3/29/2021",
       "FID": "461",
       "CloseContact": "79",
       "CruiseShip": "291",
@@ -4489,7 +4489,7 @@
       "TotalConfirmed": "938"
     },
     {
-      "Date": "30/03/2021",
+      "Date": "3/30/2021",
       "FID": "462",
       "CloseContact": "79",
       "CruiseShip": "291",
@@ -4500,7 +4500,7 @@
       "TotalConfirmed": "938"
     },
     {
-      "Date": "31/03/2021",
+      "Date": "3/31/2021",
       "FID": "463",
       "CloseContact": "79",
       "CruiseShip": "291",
@@ -4511,7 +4511,7 @@
       "TotalConfirmed": "942"
     },
     {
-      "Date": "1/04/2021",
+      "Date": "4/1/2021",
       "FID": "464",
       "CloseContact": "79",
       "CruiseShip": "291",
@@ -4522,7 +4522,7 @@
       "TotalConfirmed": "944"
     },
     {
-      "Date": "2/04/2021",
+      "Date": "4/2/2021",
       "FID": "465",
       "CloseContact": "79",
       "CruiseShip": "291",
@@ -4533,7 +4533,7 @@
       "TotalConfirmed": "944"
     },
     {
-      "Date": "3/04/2021",
+      "Date": "4/3/2021",
       "FID": "466",
       "CloseContact": "79",
       "CruiseShip": "291",
@@ -4544,7 +4544,7 @@
       "TotalConfirmed": "944"
     },
     {
-      "Date": "4/04/2021",
+      "Date": "4/4/2021",
       "FID": "467",
       "CloseContact": "79",
       "CruiseShip": "291",
@@ -4555,7 +4555,7 @@
       "TotalConfirmed": "947"
     },
     {
-      "Date": "5/04/2021",
+      "Date": "4/5/2021",
       "FID": "468",
       "CloseContact": "79",
       "CruiseShip": "291",
@@ -4566,7 +4566,7 @@
       "TotalConfirmed": "948"
     },
     {
-      "Date": "6/04/2021",
+      "Date": "4/6/2021",
       "FID": "469",
       "CloseContact": "79",
       "CruiseShip": "291",
@@ -4577,7 +4577,7 @@
       "TotalConfirmed": "950"
     },
     {
-      "Date": "7/04/2021",
+      "Date": "4/7/2021",
       "FID": "470",
       "CloseContact": "79",
       "CruiseShip": "291",
@@ -4588,7 +4588,7 @@
       "TotalConfirmed": "951"
     },
     {
-      "Date": "8/04/2021",
+      "Date": "4/8/2021",
       "FID": "471",
       "CloseContact": "79",
       "CruiseShip": "291",
@@ -4599,7 +4599,7 @@
       "TotalConfirmed": "951"
     },
     {
-      "Date": "9/04/2021",
+      "Date": "4/9/2021",
       "FID": "472",
       "CloseContact": "79",
       "CruiseShip": "291",
@@ -4610,7 +4610,7 @@
       "TotalConfirmed": "951"
     },
     {
-      "Date": "10/04/2021",
+      "Date": "4/10/2021",
       "FID": "473",
       "CloseContact": "79",
       "CruiseShip": "291",
@@ -4621,7 +4621,7 @@
       "TotalConfirmed": "951"
     },
     {
-      "Date": "11/04/2021",
+      "Date": "4/11/2021",
       "FID": "474",
       "CloseContact": "79",
       "CruiseShip": "291",
@@ -4632,7 +4632,7 @@
       "TotalConfirmed": "953"
     },
     {
-      "Date": "12/04/2021",
+      "Date": "4/12/2021",
       "FID": "475",
       "CloseContact": "79",
       "CruiseShip": "291",
@@ -4643,7 +4643,7 @@
       "TotalConfirmed": "954"
     },
     {
-      "Date": "13/04/2021",
+      "Date": "4/13/2021",
       "FID": "476",
       "CloseContact": "79",
       "CruiseShip": "291",
@@ -4654,7 +4654,7 @@
       "TotalConfirmed": "957"
     },
     {
-      "Date": "14/04/2021",
+      "Date": "4/14/2021",
       "FID": "477",
       "CloseContact": "79",
       "CruiseShip": "292",
@@ -4665,7 +4665,7 @@
       "TotalConfirmed": "964"
     },
     {
-      "Date": "15/04/2021",
+      "Date": "4/15/2021",
       "FID": "478",
       "CloseContact": "79",
       "CruiseShip": "292",
@@ -4676,7 +4676,7 @@
       "TotalConfirmed": "965"
     },
     {
-      "Date": "16/04/2021",
+      "Date": "4/16/2021",
       "FID": "479",
       "CloseContact": "79",
       "CruiseShip": "292",
@@ -4687,7 +4687,7 @@
       "TotalConfirmed": "966"
     },
     {
-      "Date": "17/04/2021",
+      "Date": "4/17/2021",
       "FID": "480",
       "CloseContact": "79",
       "CruiseShip": "292",
@@ -4698,7 +4698,7 @@
       "TotalConfirmed": "967"
     },
     {
-      "Date": "18/04/2021",
+      "Date": "4/18/2021",
       "FID": "481",
       "CloseContact": "79",
       "CruiseShip": "293",
@@ -4709,7 +4709,7 @@
       "TotalConfirmed": "973"
     },
     {
-      "Date": "19/04/2021",
+      "Date": "4/19/2021",
       "FID": "482",
       "CloseContact": "79",
       "CruiseShip": "293",
@@ -4720,7 +4720,7 @@
       "TotalConfirmed": "975"
     },
     {
-      "Date": "20/04/2021",
+      "Date": "4/20/2021",
       "FID": "483",
       "CloseContact": "79",
       "CruiseShip": "293",
@@ -4731,7 +4731,7 @@
       "TotalConfirmed": "978"
     },
     {
-      "Date": "21/04/2021",
+      "Date": "4/21/2021",
       "FID": "484",
       "CloseContact": "79",
       "CruiseShip": "293",
@@ -4742,7 +4742,7 @@
       "TotalConfirmed": "980"
     },
     {
-      "Date": "22/04/2021",
+      "Date": "4/22/2021",
       "FID": "485",
       "CloseContact": "79",
       "CruiseShip": "293",
@@ -4753,7 +4753,7 @@
       "TotalConfirmed": "982"
     },
     {
-      "Date": "23/04/2021",
+      "Date": "4/23/2021",
       "FID": "486",
       "CloseContact": "81",
       "CruiseShip": "293",
@@ -4764,7 +4764,7 @@
       "TotalConfirmed": "982"
     },
     {
-      "Date": "24/04/2021",
+      "Date": "4/24/2021",
       "FID": "487",
       "CloseContact": "82",
       "CruiseShip": "293",
@@ -4775,7 +4775,7 @@
       "TotalConfirmed": "984"
     },
     {
-      "Date": "25/04/2021",
+      "Date": "4/25/2021",
       "FID": "488",
       "CloseContact": "83",
       "CruiseShip": "293",
@@ -4786,7 +4786,7 @@
       "TotalConfirmed": "986"
     },
     {
-      "Date": "26/04/2021",
+      "Date": "4/26/2021",
       "FID": "489",
       "CloseContact": "83",
       "CruiseShip": "293",
@@ -4797,7 +4797,7 @@
       "TotalConfirmed": "986"
     },
     {
-      "Date": "27/04/2021",
+      "Date": "4/27/2021",
       "FID": "490",
       "CloseContact": "83",
       "CruiseShip": "293",
@@ -4808,7 +4808,7 @@
       "TotalConfirmed": "990"
     },
     {
-      "Date": "28/04/2021",
+      "Date": "4/28/2021",
       "FID": "491",
       "CloseContact": "83",
       "CruiseShip": "293",
@@ -4819,7 +4819,7 @@
       "TotalConfirmed": "994"
     },
     {
-      "Date": "29/04/2021",
+      "Date": "4/29/2021",
       "FID": "492",
       "CloseContact": "83",
       "CruiseShip": "293",
@@ -4830,7 +4830,7 @@
       "TotalConfirmed": "998"
     },
     {
-      "Date": "30/04/2021",
+      "Date": "4/30/2021",
       "FID": "493",
       "CloseContact": "83",
       "CruiseShip": "293",
@@ -4841,7 +4841,7 @@
       "TotalConfirmed": "999"
     },
     {
-      "Date": "1/05/2021",
+      "Date": "5/1/2021",
       "FID": "494",
       "CloseContact": "83",
       "CruiseShip": "293",
@@ -4852,7 +4852,7 @@
       "TotalConfirmed": "1000"
     },
     {
-      "Date": "2/05/2021",
+      "Date": "5/2/2021",
       "FID": "495",
       "CloseContact": "86",
       "CruiseShip": "293",
@@ -4863,7 +4863,7 @@
       "TotalConfirmed": "1005"
     },
     {
-      "Date": "3/05/2021",
+      "Date": "5/3/2021",
       "FID": "496",
       "CloseContact": "86",
       "CruiseShip": "293",
@@ -4874,7 +4874,7 @@
       "TotalConfirmed": "1008"
     },
     {
-      "Date": "4/05/2021",
+      "Date": "5/4/2021",
       "FID": "497",
       "CloseContact": "86",
       "CruiseShip": "293",
@@ -4885,7 +4885,7 @@
       "TotalConfirmed": "1008"
     },
     {
-      "Date": "5/05/2021",
+      "Date": "5/5/2021",
       "FID": "498",
       "CloseContact": "86",
       "CruiseShip": "293",
@@ -4896,7 +4896,7 @@
       "TotalConfirmed": "1010"
     },
     {
-      "Date": "6/05/2021",
+      "Date": "5/6/2021",
       "FID": "499",
       "CloseContact": "86",
       "CruiseShip": "293",
@@ -4907,7 +4907,7 @@
       "TotalConfirmed": "1013"
     },
     {
-      "Date": "7/05/2021",
+      "Date": "5/7/2021",
       "FID": "500",
       "CloseContact": "86",
       "CruiseShip": "293",
@@ -4918,7 +4918,7 @@
       "TotalConfirmed": "1013"
     },
     {
-      "Date": "8/05/2021",
+      "Date": "5/8/2021",
       "FID": "501",
       "CloseContact": "86",
       "CruiseShip": "293",
@@ -4929,7 +4929,7 @@
       "TotalConfirmed": "1013"
     },
     {
-      "Date": "9/05/2021",
+      "Date": "5/9/2021",
       "FID": "502",
       "CloseContact": "86",
       "CruiseShip": "293",
@@ -4940,7 +4940,7 @@
       "TotalConfirmed": "1013"
     },
     {
-      "Date": "10/05/2021",
+      "Date": "5/10/2021",
       "FID": "503",
       "CloseContact": "86",
       "CruiseShip": "293",
@@ -4951,7 +4951,7 @@
       "TotalConfirmed": "1013"
     },
     {
-      "Date": "11/05/2021",
+      "Date": "5/11/2021",
       "FID": "504",
       "CloseContact": "86",
       "CruiseShip": "293",
@@ -4962,7 +4962,7 @@
       "TotalConfirmed": "1015"
     },
     {
-      "Date": "12/05/2021",
+      "Date": "5/12/2021",
       "FID": "505",
       "CloseContact": "86",
       "CruiseShip": "293",
@@ -4973,7 +4973,7 @@
       "TotalConfirmed": "1015"
     },
     {
-      "Date": "13/05/2021",
+      "Date": "5/13/2021",
       "FID": "506",
       "CloseContact": "86",
       "CruiseShip": "293",
@@ -4984,7 +4984,7 @@
       "TotalConfirmed": "1015"
     },
     {
-      "Date": "14/05/2021",
+      "Date": "5/14/2021",
       "FID": "507",
       "CloseContact": "86",
       "CruiseShip": "293",
@@ -4995,7 +4995,7 @@
       "TotalConfirmed": "1015"
     },
     {
-      "Date": "15/05/2021",
+      "Date": "5/15/2021",
       "FID": "508",
       "CloseContact": "86",
       "CruiseShip": "293",
@@ -5006,7 +5006,7 @@
       "TotalConfirmed": "1015"
     },
     {
-      "Date": "16/05/2021",
+      "Date": "5/16/2021",
       "FID": "509",
       "CloseContact": "86",
       "CruiseShip": "293",
@@ -5017,7 +5017,7 @@
       "TotalConfirmed": "1015"
     },
     {
-      "Date": "17/05/2021",
+      "Date": "5/17/2021",
       "FID": "510",
       "CloseContact": "86",
       "CruiseShip": "293",
@@ -5028,7 +5028,7 @@
       "TotalConfirmed": "1015"
     },
     {
-      "Date": "18/05/2021",
+      "Date": "5/18/2021",
       "FID": "511",
       "CloseContact": "86",
       "CruiseShip": "293",
@@ -5039,7 +5039,7 @@
       "TotalConfirmed": "1015"
     },
     {
-      "Date": "19/05/2021",
+      "Date": "5/19/2021",
       "FID": "512",
       "CloseContact": "86",
       "CruiseShip": "293",
@@ -5050,7 +5050,7 @@
       "TotalConfirmed": "1015"
     },
     {
-      "Date": "20/05/2021",
+      "Date": "5/20/2021",
       "FID": "513",
       "CloseContact": "86",
       "CruiseShip": "293",
@@ -5061,7 +5061,7 @@
       "TotalConfirmed": "1016"
     },
     {
-      "Date": "21/05/2021",
+      "Date": "5/21/2021",
       "FID": "514",
       "CloseContact": "86",
       "CruiseShip": "293",
@@ -5072,7 +5072,7 @@
       "TotalConfirmed": "1016"
     },
     {
-      "Date": "22/05/2021",
+      "Date": "5/22/2021",
       "FID": "515",
       "CloseContact": "86",
       "CruiseShip": "293",
@@ -5083,7 +5083,7 @@
       "TotalConfirmed": "1016"
     },
     {
-      "Date": "23/05/2021",
+      "Date": "5/23/2021",
       "FID": "516",
       "CloseContact": "86",
       "CruiseShip": "293",
@@ -5094,7 +5094,7 @@
       "TotalConfirmed": "1016"
     },
     {
-      "Date": "24/05/2021",
+      "Date": "5/24/2021",
       "FID": "517",
       "CloseContact": "86",
       "CruiseShip": "293",
@@ -5105,7 +5105,7 @@
       "TotalConfirmed": "1017"
     },
     {
-      "Date": "25/05/2021",
+      "Date": "5/25/2021",
       "FID": "518",
       "CloseContact": "86",
       "CruiseShip": "293",
@@ -5116,7 +5116,7 @@
       "TotalConfirmed": "1017"
     },
     {
-      "Date": "26/05/2021",
+      "Date": "5/26/2021",
       "FID": "519",
       "CloseContact": "86",
       "CruiseShip": "293",
@@ -5127,7 +5127,7 @@
       "TotalConfirmed": "1017"
     },
     {
-      "Date": "27/05/2021",
+      "Date": "5/27/2021",
       "FID": "520",
       "CloseContact": "86",
       "CruiseShip": "293",
@@ -5138,7 +5138,7 @@
       "TotalConfirmed": "1017"
     },
     {
-      "Date": "28/05/2021",
+      "Date": "5/28/2021",
       "FID": "521",
       "CloseContact": "86",
       "CruiseShip": "293",
@@ -5149,7 +5149,7 @@
       "TotalConfirmed": "1017"
     },
     {
-      "Date": "29/05/2021",
+      "Date": "5/29/2021",
       "FID": "522",
       "CloseContact": "86",
       "CruiseShip": "293",
@@ -5160,7 +5160,7 @@
       "TotalConfirmed": "1017"
     },
     {
-      "Date": "30/05/2021",
+      "Date": "5/30/2021",
       "FID": "523",
       "CloseContact": "86",
       "CruiseShip": "293",
@@ -5171,7 +5171,7 @@
       "TotalConfirmed": "1017"
     },
     {
-      "Date": "31/05/2021",
+      "Date": "5/31/2021",
       "FID": "524",
       "CloseContact": "86",
       "CruiseShip": "293",
@@ -5182,7 +5182,7 @@
       "TotalConfirmed": "1018"
     },
     {
-      "Date": "1/06/2021",
+      "Date": "6/1/2021",
       "FID": "525",
       "CloseContact": "87",
       "CruiseShip": "293",
@@ -5193,7 +5193,7 @@
       "TotalConfirmed": "1019"
     },
     {
-      "Date": "2/06/2021",
+      "Date": "6/2/2021",
       "FID": "526",
       "CloseContact": "87",
       "CruiseShip": "293",
@@ -5204,7 +5204,7 @@
       "TotalConfirmed": "1018"
     },
     {
-      "Date": "3/06/2021",
+      "Date": "6/3/2021",
       "FID": "527",
       "CloseContact": "87",
       "CruiseShip": "293",
@@ -5215,7 +5215,7 @@
       "TotalConfirmed": "1018"
     },
     {
-      "Date": "4/06/2021",
+      "Date": "6/4/2021",
       "FID": "528",
       "CloseContact": "87",
       "CruiseShip": "293",
@@ -5226,7 +5226,7 @@
       "TotalConfirmed": "1018"
     },
     {
-      "Date": "5/06/2021",
+      "Date": "6/5/2021",
       "FID": "529",
       "CloseContact": "87",
       "CruiseShip": "293",
@@ -5237,7 +5237,7 @@
       "TotalConfirmed": "1018"
     },
     {
-      "Date": "6/06/2021",
+      "Date": "6/6/2021",
       "FID": "530",
       "CloseContact": "87",
       "CruiseShip": "293",
@@ -5248,7 +5248,7 @@
       "TotalConfirmed": "1018"
     },
     {
-      "Date": "7/06/2021",
+      "Date": "6/7/2021",
       "FID": "531",
       "CloseContact": "87",
       "CruiseShip": "293",
@@ -5259,7 +5259,7 @@
       "TotalConfirmed": "1018"
     },
     {
-      "Date": "8/06/2021",
+      "Date": "6/8/2021",
       "FID": "532",
       "CloseContact": "87",
       "CruiseShip": "293",
@@ -5270,7 +5270,7 @@
       "TotalConfirmed": "1018"
     },
     {
-      "Date": "9/06/2021",
+      "Date": "6/9/2021",
       "FID": "533",
       "CloseContact": "87",
       "CruiseShip": "293",
@@ -5281,7 +5281,7 @@
       "TotalConfirmed": "1018"
     },
     {
-      "Date": "10/06/2021",
+      "Date": "6/10/2021",
       "FID": "534",
       "CloseContact": "87",
       "CruiseShip": "293",
@@ -5292,7 +5292,7 @@
       "TotalConfirmed": "1018"
     },
     {
-      "Date": "11/06/2021",
+      "Date": "6/11/2021",
       "FID": "535",
       "CloseContact": "87",
       "CruiseShip": "293",
@@ -5303,7 +5303,7 @@
       "TotalConfirmed": "1018"
     },
     {
-      "Date": "12/06/2021",
+      "Date": "6/12/2021",
       "FID": "536",
       "CloseContact": "87",
       "CruiseShip": "293",
@@ -5314,7 +5314,7 @@
       "TotalConfirmed": "1018"
     },
     {
-      "Date": "13/06/2021",
+      "Date": "6/13/2021",
       "FID": "537",
       "CloseContact": "87",
       "CruiseShip": "293",
@@ -5325,7 +5325,7 @@
       "TotalConfirmed": "1018"
     },
     {
-      "Date": "14/06/2021",
+      "Date": "6/14/2021",
       "FID": "538",
       "CloseContact": "87",
       "CruiseShip": "293",
@@ -5336,7 +5336,7 @@
       "TotalConfirmed": "1018"
     },
     {
-      "Date": "15/06/2021",
+      "Date": "6/15/2021",
       "FID": "539",
       "CloseContact": "87",
       "CruiseShip": "293",
@@ -5347,7 +5347,7 @@
       "TotalConfirmed": "1019"
     },
     {
-      "Date": "16/06/2021",
+      "Date": "6/16/2021",
       "FID": "540",
       "CloseContact": "87",
       "CruiseShip": "293",
@@ -5358,7 +5358,7 @@
       "TotalConfirmed": "1020"
     },
     {
-      "Date": "17/06/2021",
+      "Date": "6/17/2021",
       "FID": "541",
       "CloseContact": "87",
       "CruiseShip": "293",
@@ -5369,7 +5369,7 @@
       "TotalConfirmed": "1020"
     },
     {
-      "Date": "18/06/2021",
+      "Date": "6/18/2021",
       "FID": "542",
       "CloseContact": "87",
       "CruiseShip": "293",
@@ -5380,7 +5380,7 @@
       "TotalConfirmed": "1020"
     },
     {
-      "Date": "19/06/2021",
+      "Date": "6/19/2021",
       "FID": "543",
       "CloseContact": "87",
       "CruiseShip": "293",
@@ -5391,7 +5391,7 @@
       "TotalConfirmed": "1020"
     },
     {
-      "Date": "20/06/2021",
+      "Date": "6/20/2021",
       "FID": "544",
       "CloseContact": "87",
       "CruiseShip": "293",
@@ -5402,7 +5402,7 @@
       "TotalConfirmed": "1020"
     },
     {
-      "Date": "21/06/2021",
+      "Date": "6/21/2021",
       "FID": "545",
       "CloseContact": "87",
       "CruiseShip": "293",
@@ -5413,7 +5413,7 @@
       "TotalConfirmed": "1020"
     },
     {
-      "Date": "22/06/2021",
+      "Date": "6/22/2021",
       "FID": "546",
       "CloseContact": "87",
       "CruiseShip": "293",
@@ -5424,7 +5424,7 @@
       "TotalConfirmed": "1020"
     },
     {
-      "Date": "23/06/2021",
+      "Date": "6/23/2021",
       "FID": "547",
       "CloseContact": "87",
       "CruiseShip": "293",
@@ -5435,7 +5435,7 @@
       "TotalConfirmed": "1020"
     },
     {
-      "Date": "24/06/2021",
+      "Date": "6/24/2021",
       "FID": "548",
       "CloseContact": "87",
       "CruiseShip": "293",
@@ -5446,7 +5446,7 @@
       "TotalConfirmed": "1021"
     },
     {
-      "Date": "25/06/2021",
+      "Date": "6/25/2021",
       "FID": "549",
       "CloseContact": "87",
       "CruiseShip": "293",
@@ -5457,7 +5457,7 @@
       "TotalConfirmed": "1021"
     },
     {
-      "Date": "26/06/2021",
+      "Date": "6/26/2021",
       "FID": "550",
       "CloseContact": "87",
       "CruiseShip": "293",
@@ -5468,7 +5468,7 @@
       "TotalConfirmed": "1021"
     },
     {
-      "Date": "27/06/2021",
+      "Date": "6/27/2021",
       "FID": "551",
       "CloseContact": "87",
       "CruiseShip": "293",
@@ -5479,7 +5479,7 @@
       "TotalConfirmed": "1021"
     },
     {
-      "Date": "28/06/2021",
+      "Date": "6/28/2021",
       "FID": "552",
       "CloseContact": "87",
       "CruiseShip": "293",
@@ -5490,7 +5490,7 @@
       "TotalConfirmed": "1022"
     },
     {
-      "Date": "29/06/2021",
+      "Date": "6/29/2021",
       "FID": "553",
       "CloseContact": "89",
       "CruiseShip": "293",
@@ -5501,7 +5501,7 @@
       "TotalConfirmed": "1024"
     },
     {
-      "Date": "30/06/2021",
+      "Date": "6/30/2021",
       "FID": "554",
       "CloseContact": "90",
       "CruiseShip": "293",
@@ -5512,7 +5512,7 @@
       "TotalConfirmed": "1028"
     },
     {
-      "Date": "1/07/2021",
+      "Date": "7/1/2021",
       "FID": "555",
       "CloseContact": "90",
       "CruiseShip": "293",
@@ -5523,7 +5523,7 @@
       "TotalConfirmed": "1028"
     },
     {
-      "Date": "2/07/2021",
+      "Date": "7/2/2021",
       "FID": "556",
       "CloseContact": "91",
       "CruiseShip": "293",
@@ -5534,7 +5534,7 @@
       "TotalConfirmed": "1029"
     },
     {
-      "Date": "3/07/2021",
+      "Date": "7/3/2021",
       "FID": "557",
       "CloseContact": "91",
       "CruiseShip": "293",
@@ -5545,7 +5545,7 @@
       "TotalConfirmed": "1029"
     },
     {
-      "Date": "4/07/2021",
+      "Date": "7/4/2021",
       "FID": "558",
       "CloseContact": "91",
       "CruiseShip": "293",
@@ -5556,7 +5556,7 @@
       "TotalConfirmed": "1030"
     },
     {
-      "Date": "5/07/2021",
+      "Date": "7/5/2021",
       "FID": "559",
       "CloseContact": "91",
       "CruiseShip": "293",
@@ -5567,7 +5567,7 @@
       "TotalConfirmed": "1030"
     },
     {
-      "Date": "6/07/2021",
+      "Date": "7/6/2021",
       "FID": "560",
       "CloseContact": "92",
       "CruiseShip": "293",
@@ -5578,7 +5578,7 @@
       "TotalConfirmed": "1033"
     },
     {
-      "Date": "7/07/2021",
+      "Date": "7/7/2021",
       "FID": "561",
       "CloseContact": "92",
       "CruiseShip": "293",
@@ -5589,7 +5589,7 @@
       "TotalConfirmed": "1033"
     },
     {
-      "Date": "8/07/2021",
+      "Date": "7/8/2021",
       "FID": "562",
       "CloseContact": "92",
       "CruiseShip": "293",
@@ -5600,7 +5600,7 @@
       "TotalConfirmed": "1033"
     },
     {
-      "Date": "9/07/2021",
+      "Date": "7/9/2021",
       "FID": "563",
       "CloseContact": "92",
       "CruiseShip": "293",
@@ -5611,7 +5611,7 @@
       "TotalConfirmed": "1033"
     },
     {
-      "Date": "10/07/2021",
+      "Date": "7/10/2021",
       "FID": "564",
       "CloseContact": "92",
       "CruiseShip": "293",
@@ -5622,7 +5622,7 @@
       "TotalConfirmed": "1033"
     },
     {
-      "Date": "11/07/2021",
+      "Date": "7/11/2021",
       "FID": "565",
       "CloseContact": "92",
       "CruiseShip": "293",
@@ -5633,7 +5633,7 @@
       "TotalConfirmed": "1033"
     },
     {
-      "Date": "12/07/2021",
+      "Date": "7/12/2021",
       "FID": "566",
       "CloseContact": "92",
       "CruiseShip": "293",
@@ -5644,7 +5644,7 @@
       "TotalConfirmed": "1036"
     },
     {
-      "Date": "13/07/2021",
+      "Date": "7/13/2021",
       "FID": "567",
       "CloseContact": "92",
       "CruiseShip": "293",
@@ -5655,7 +5655,7 @@
       "TotalConfirmed": "1036"
     },
     {
-      "Date": "14/07/2021",
+      "Date": "7/14/2021",
       "FID": "568",
       "CloseContact": "92",
       "CruiseShip": "293",
@@ -5666,7 +5666,7 @@
       "TotalConfirmed": "1036"
     },
     {
-      "Date": "15/07/2021",
+      "Date": "7/15/2021",
       "FID": "569",
       "CloseContact": "92",
       "CruiseShip": "293",
@@ -5677,7 +5677,7 @@
       "TotalConfirmed": "1036"
     },
     {
-      "Date": "16/07/2021",
+      "Date": "7/16/2021",
       "FID": "570",
       "CloseContact": "92",
       "CruiseShip": "293",
@@ -5688,7 +5688,7 @@
       "TotalConfirmed": "1036"
     },
     {
-      "Date": "17/07/2021",
+      "Date": "7/17/2021",
       "FID": "571",
       "CloseContact": "92",
       "CruiseShip": "293",
@@ -5699,7 +5699,7 @@
       "TotalConfirmed": "1037"
     },
     {
-      "Date": "18/07/2021",
+      "Date": "7/18/2021",
       "FID": "572",
       "CloseContact": "92",
       "CruiseShip": "293",
@@ -5710,7 +5710,7 @@
       "TotalConfirmed": "1037"
     },
     {
-      "Date": "19/07/2021",
+      "Date": "7/19/2021",
       "FID": "573",
       "CloseContact": "92",
       "CruiseShip": "293",
@@ -5721,7 +5721,7 @@
       "TotalConfirmed": "1038"
     },
     {
-      "Date": "20/07/2021",
+      "Date": "7/20/2021",
       "FID": "574",
       "CloseContact": "92",
       "CruiseShip": "301",
@@ -5732,7 +5732,7 @@
       "TotalConfirmed": "1046"
     },
     {
-      "Date": "21/07/2021",
+      "Date": "7/21/2021",
       "FID": "575",
       "CloseContact": "92",
       "CruiseShip": "303",
@@ -5743,7 +5743,7 @@
       "TotalConfirmed": "1048"
     },
     {
-      "Date": "22/07/2021",
+      "Date": "7/22/2021",
       "FID": "576",
       "CloseContact": "92",
       "CruiseShip": "303",
@@ -5754,7 +5754,7 @@
       "TotalConfirmed": "1048"
     },
     {
-      "Date": "23/07/2021",
+      "Date": "7/23/2021",
       "FID": "577",
       "CloseContact": "92",
       "CruiseShip": "303",
@@ -5765,7 +5765,7 @@
       "TotalConfirmed": "1048"
     },
     {
-      "Date": "24/07/2021",
+      "Date": "7/24/2021",
       "FID": "578",
       "CloseContact": "92",
       "CruiseShip": "303",
@@ -5776,7 +5776,7 @@
       "TotalConfirmed": "1048"
     },
     {
-      "Date": "25/07/2021",
+      "Date": "7/25/2021",
       "FID": "579",
       "CloseContact": "92",
       "CruiseShip": "303",
@@ -5787,7 +5787,7 @@
       "TotalConfirmed": "1048"
     },
     {
-      "Date": "26/07/2021",
+      "Date": "7/26/2021",
       "FID": "580",
       "CloseContact": "92",
       "CruiseShip": "303",
@@ -5798,7 +5798,7 @@
       "TotalConfirmed": "1048"
     },
     {
-      "Date": "27/07/2021",
+      "Date": "7/27/2021",
       "FID": "581",
       "CloseContact": "92",
       "CruiseShip": "303",
@@ -5809,7 +5809,7 @@
       "TotalConfirmed": "1050"
     },
     {
-      "Date": "28/07/2021",
+      "Date": "7/28/2021",
       "FID": "582",
       "CloseContact": "92",
       "CruiseShip": "304",
@@ -5820,7 +5820,7 @@
       "TotalConfirmed": "1051"
     },
     {
-      "Date": "29/07/2021",
+      "Date": "7/29/2021",
       "FID": "583",
       "CloseContact": "92",
       "CruiseShip": "312",
@@ -5831,7 +5831,7 @@
       "TotalConfirmed": "1057"
     },
     {
-      "Date": "30/07/2021",
+      "Date": "7/30/2021",
       "FID": "584",
       "CloseContact": "92",
       "CruiseShip": "312",
@@ -5842,7 +5842,7 @@
       "TotalConfirmed": "1057"
     },
     {
-      "Date": "31/07/2021",
+      "Date": "7/31/2021",
       "FID": "585",
       "CloseContact": "92",
       "CruiseShip": "312",
@@ -5853,7 +5853,7 @@
       "TotalConfirmed": "1057"
     },
     {
-      "Date": "1/08/2021",
+      "Date": "8/1/2021",
       "FID": "586",
       "CloseContact": "92",
       "CruiseShip": "312",
@@ -5864,7 +5864,7 @@
       "TotalConfirmed": "1057"
     },
     {
-      "Date": "2/08/2021",
+      "Date": "8/2/2021",
       "FID": "587",
       "CloseContact": "92",
       "CruiseShip": "312",
@@ -5875,7 +5875,7 @@
       "TotalConfirmed": "1058"
     },
     {
-      "Date": "3/08/2021",
+      "Date": "8/3/2021",
       "FID": "588",
       "CloseContact": "92",
       "CruiseShip": "312",
@@ -5886,7 +5886,7 @@
       "TotalConfirmed": "1058"
     },
     {
-      "Date": "4/08/2021",
+      "Date": "8/4/2021",
       "FID": "589",
       "CloseContact": "92",
       "CruiseShip": "312",
@@ -5897,7 +5897,7 @@
       "TotalConfirmed": "1058"
     },
     {
-      "Date": "5/08/2021",
+      "Date": "8/5/2021",
       "FID": "590",
       "CloseContact": "93",
       "CruiseShip": "312",
@@ -5908,7 +5908,7 @@
       "TotalConfirmed": "1059"
     },
     {
-      "Date": "6/08/2021",
+      "Date": "8/6/2021",
       "FID": "591",
       "CloseContact": "93",
       "CruiseShip": "312",
@@ -5919,7 +5919,7 @@
       "TotalConfirmed": "1059"
     },
     {
-      "Date": "7/08/2021",
+      "Date": "8/7/2021",
       "FID": "592",
       "CloseContact": "93",
       "CruiseShip": "312",
@@ -5930,7 +5930,7 @@
       "TotalConfirmed": "1059"
     },
     {
-      "Date": "8/08/2021",
+      "Date": "8/8/2021",
       "FID": "593",
       "CloseContact": "93",
       "CruiseShip": "312",
@@ -5941,7 +5941,7 @@
       "TotalConfirmed": "1059"
     },
     {
-      "Date": "9/08/2021",
+      "Date": "8/9/2021",
       "FID": "594",
       "CloseContact": "93",
       "CruiseShip": "312",
@@ -5952,7 +5952,7 @@
       "TotalConfirmed": "1059"
     },
     {
-      "Date": "10/08/2021",
+      "Date": "8/10/2021",
       "FID": "595",
       "CloseContact": "93",
       "CruiseShip": "312",
@@ -5963,7 +5963,7 @@
       "TotalConfirmed": "1059"
     },
     {
-      "Date": "11/08/2021",
+      "Date": "8/11/2021",
       "FID": "596",
       "CloseContact": "93",
       "CruiseShip": "312",
@@ -5974,7 +5974,7 @@
       "TotalConfirmed": "1059"
     },
     {
-      "Date": "12/08/2021",
+      "Date": "8/12/2021",
       "FID": "597",
       "CloseContact": "93",
       "CruiseShip": "312",
@@ -5985,7 +5985,7 @@
       "TotalConfirmed": "1059"
     },
     {
-      "Date": "13/08/2021",
+      "Date": "8/13/2021",
       "FID": "598",
       "CloseContact": "93",
       "CruiseShip": "312",
@@ -5996,7 +5996,7 @@
       "TotalConfirmed": "1059"
     },
     {
-      "Date": "14/08/2021",
+      "Date": "8/14/2021",
       "FID": "599",
       "CloseContact": "93",
       "CruiseShip": "312",
@@ -6007,7 +6007,7 @@
       "TotalConfirmed": "1059"
     },
     {
-      "Date": "15/08/2021",
+      "Date": "8/15/2021",
       "FID": "600",
       "CloseContact": "93",
       "CruiseShip": "312",
@@ -6018,7 +6018,7 @@
       "TotalConfirmed": "1059"
     },
     {
-      "Date": "16/08/2021",
+      "Date": "8/16/2021",
       "FID": "601",
       "CloseContact": "93",
       "CruiseShip": "312",
@@ -6029,7 +6029,7 @@
       "TotalConfirmed": "1061"
     },
     {
-      "Date": "17/08/2021",
+      "Date": "8/17/2021",
       "FID": "602",
       "CloseContact": "93",
       "CruiseShip": "312",
@@ -6040,7 +6040,7 @@
       "TotalConfirmed": "1061"
     },
     {
-      "Date": "18/08/2021",
+      "Date": "8/18/2021",
       "FID": "603",
       "CloseContact": "93",
       "CruiseShip": "312",
@@ -6051,7 +6051,7 @@
       "TotalConfirmed": "1062"
     },
     {
-      "Date": "19/08/2021",
+      "Date": "8/19/2021",
       "FID": "604",
       "CloseContact": "93",
       "CruiseShip": "312",
@@ -6062,7 +6062,7 @@
       "TotalConfirmed": "1062"
     },
     {
-      "Date": "20/08/2021",
+      "Date": "8/20/2021",
       "FID": "645",
       "CloseContact": "93",
       "CruiseShip": "312",
@@ -6073,7 +6073,7 @@
       "TotalConfirmed": "1063"
     },
     {
-      "Date": "21/08/2021",
+      "Date": "8/21/2021",
       "FID": "605",
       "CloseContact": "93",
       "CruiseShip": "312",
@@ -6084,7 +6084,7 @@
       "TotalConfirmed": "1063"
     },
     {
-      "Date": "22/08/2021",
+      "Date": "8/22/2021",
       "FID": "606",
       "CloseContact": "93",
       "CruiseShip": "312",
@@ -6095,7 +6095,7 @@
       "TotalConfirmed": "1063"
     },
     {
-      "Date": "23/08/2021",
+      "Date": "8/23/2021",
       "FID": "607",
       "CloseContact": "93",
       "CruiseShip": "312",
@@ -6106,7 +6106,7 @@
       "TotalConfirmed": "1064"
     },
     {
-      "Date": "24/08/2021",
+      "Date": "8/24/2021",
       "FID": "608",
       "CloseContact": "93",
       "CruiseShip": "312",
@@ -6117,7 +6117,7 @@
       "TotalConfirmed": "1064"
     },
     {
-      "Date": "25/08/2021",
+      "Date": "8/25/2021",
       "FID": "609",
       "CloseContact": "93",
       "CruiseShip": "332",
@@ -6128,7 +6128,7 @@
       "TotalConfirmed": "1084"
     },
     {
-      "Date": "26/08/2021",
+      "Date": "8/26/2021",
       "FID": "610",
       "CloseContact": "93",
       "CruiseShip": "332",
@@ -6139,7 +6139,7 @@
       "TotalConfirmed": "1084"
     },
     {
-      "Date": "27/08/2021",
+      "Date": "8/27/2021",
       "FID": "611",
       "CloseContact": "93",
       "CruiseShip": "332",
@@ -6150,7 +6150,7 @@
       "TotalConfirmed": "1084"
     },
     {
-      "Date": "28/08/2021",
+      "Date": "8/28/2021",
       "FID": "612",
       "CloseContact": "93",
       "CruiseShip": "333",
@@ -6161,7 +6161,7 @@
       "TotalConfirmed": "1086"
     },
     {
-      "Date": "29/08/2021",
+      "Date": "8/29/2021",
       "FID": "613",
       "CloseContact": "93",
       "CruiseShip": "333",
@@ -6172,7 +6172,7 @@
       "TotalConfirmed": "1086"
     },
     {
-      "Date": "30/08/2021",
+      "Date": "8/30/2021",
       "FID": "614",
       "CloseContact": "93",
       "CruiseShip": "333",
@@ -6183,7 +6183,7 @@
       "TotalConfirmed": "1086"
     },
     {
-      "Date": "31/08/2021",
+      "Date": "8/31/2021",
       "FID": "615",
       "CloseContact": "93",
       "CruiseShip": "333",
@@ -6194,7 +6194,7 @@
       "TotalConfirmed": "1086"
     },
     {
-      "Date": "1/09/2021",
+      "Date": "9/1/2021",
       "FID": "616",
       "CloseContact": "93",
       "CruiseShip": "333",
@@ -6205,7 +6205,7 @@
       "TotalConfirmed": "1086"
     },
     {
-      "Date": "2/09/2021",
+      "Date": "9/2/2021",
       "FID": "617",
       "CloseContact": "93",
       "CruiseShip": "333",
@@ -6216,7 +6216,7 @@
       "TotalConfirmed": "1086"
     },
     {
-      "Date": "3/09/2021",
+      "Date": "9/3/2021",
       "FID": "618",
       "CloseContact": "93",
       "CruiseShip": "333",
@@ -6227,7 +6227,7 @@
       "TotalConfirmed": "1086"
     },
     {
-      "Date": "4/09/2021",
+      "Date": "9/4/2021",
       "FID": "619",
       "CloseContact": "93",
       "CruiseShip": "333",
@@ -6238,7 +6238,7 @@
       "TotalConfirmed": "1086"
     },
     {
-      "Date": "5/09/2021",
+      "Date": "9/5/2021",
       "FID": "620",
       "CloseContact": "93",
       "CruiseShip": "333",
@@ -6249,7 +6249,7 @@
       "TotalConfirmed": "1086"
     },
     {
-      "Date": "6/09/2021",
+      "Date": "9/6/2021",
       "FID": "621",
       "CloseContact": "93",
       "CruiseShip": "333",
@@ -6260,7 +6260,7 @@
       "TotalConfirmed": "1087"
     },
     {
-      "Date": "7/09/2021",
+      "Date": "9/7/2021",
       "FID": "622",
       "CloseContact": "93",
       "CruiseShip": "333",
@@ -6271,7 +6271,7 @@
       "TotalConfirmed": "1087"
     },
     {
-      "Date": "8/09/2021",
+      "Date": "9/8/2021",
       "FID": "623",
       "CloseContact": "93",
       "CruiseShip": "333",
@@ -6282,7 +6282,7 @@
       "TotalConfirmed": "1087"
     },
     {
-      "Date": "9/09/2021",
+      "Date": "9/9/2021",
       "FID": "677",
       "CloseContact": "93",
       "CruiseShip": "333",
@@ -6293,7 +6293,7 @@
       "TotalConfirmed": "1088"
     },
     {
-      "Date": "10/09/2021",
+      "Date": "9/10/2021",
       "FID": "624",
       "CloseContact": "93",
       "CruiseShip": "333",
@@ -6304,7 +6304,7 @@
       "TotalConfirmed": "1088"
     },
     {
-      "Date": "11/09/2021",
+      "Date": "9/11/2021",
       "FID": "625",
       "CloseContact": "93",
       "CruiseShip": "333",
@@ -6315,7 +6315,7 @@
       "TotalConfirmed": "1088"
     },
     {
-      "Date": "12/09/2021",
+      "Date": "9/12/2021",
       "FID": "626",
       "CloseContact": "93",
       "CruiseShip": "333",
@@ -6326,7 +6326,7 @@
       "TotalConfirmed": "1089"
     },
     {
-      "Date": "13/09/2021",
+      "Date": "9/13/2021",
       "FID": "627",
       "CloseContact": "93",
       "CruiseShip": "333",
@@ -6337,7 +6337,7 @@
       "TotalConfirmed": "1089"
     },
     {
-      "Date": "14/09/2021",
+      "Date": "9/14/2021",
       "FID": "628",
       "CloseContact": "93",
       "CruiseShip": "333",
@@ -6348,7 +6348,7 @@
       "TotalConfirmed": "1089"
     },
     {
-      "Date": "15/09/2021",
+      "Date": "9/15/2021",
       "FID": "629",
       "CloseContact": "93",
       "CruiseShip": "333",
@@ -6359,7 +6359,7 @@
       "TotalConfirmed": "1089"
     },
     {
-      "Date": "16/09/2021",
+      "Date": "9/16/2021",
       "FID": "630",
       "CloseContact": "93",
       "CruiseShip": "333",
@@ -6370,7 +6370,7 @@
       "TotalConfirmed": "1089"
     },
     {
-      "Date": "17/09/2021",
+      "Date": "9/17/2021",
       "FID": "631",
       "CloseContact": "93",
       "CruiseShip": "333",
@@ -6381,7 +6381,7 @@
       "TotalConfirmed": "1091"
     },
     {
-      "Date": "18/09/2021",
+      "Date": "9/18/2021",
       "FID": "632",
       "CloseContact": "93",
       "CruiseShip": "333",
@@ -6392,7 +6392,7 @@
       "TotalConfirmed": "1092"
     },
     {
-      "Date": "19/09/2021",
+      "Date": "9/19/2021",
       "FID": "633",
       "CloseContact": "93",
       "CruiseShip": "333",
@@ -6403,7 +6403,7 @@
       "TotalConfirmed": "1093"
     },
     {
-      "Date": "20/09/2021",
+      "Date": "9/20/2021",
       "FID": "634",
       "CloseContact": "93",
       "CruiseShip": "333",
@@ -6414,7 +6414,7 @@
       "TotalConfirmed": "1094"
     },
     {
-      "Date": "21/09/2021",
+      "Date": "9/21/2021",
       "FID": "635",
       "CloseContact": "93",
       "CruiseShip": "333",
@@ -6425,7 +6425,7 @@
       "TotalConfirmed": "1094"
     },
     {
-      "Date": "22/09/2021",
+      "Date": "9/22/2021",
       "FID": "636",
       "CloseContact": "93",
       "CruiseShip": "333",
@@ -6436,7 +6436,7 @@
       "TotalConfirmed": "1094"
     },
     {
-      "Date": "23/09/2021",
+      "Date": "9/23/2021",
       "FID": "637",
       "CloseContact": "93",
       "CruiseShip": "333",
@@ -6447,7 +6447,7 @@
       "TotalConfirmed": "1094"
     },
     {
-      "Date": "24/09/2021",
+      "Date": "9/24/2021",
       "FID": "638",
       "CloseContact": "93",
       "CruiseShip": "333",
@@ -6458,7 +6458,7 @@
       "TotalConfirmed": "1095"
     },
     {
-      "Date": "25/09/2021",
+      "Date": "9/25/2021",
       "FID": "639",
       "CloseContact": "93",
       "CruiseShip": "333",
@@ -6469,7 +6469,7 @@
       "TotalConfirmed": "1095"
     },
     {
-      "Date": "27/09/2021",
+      "Date": "9/27/2021",
       "FID": "641",
       "CloseContact": "93",
       "CruiseShip": "333",
@@ -6480,7 +6480,7 @@
       "TotalConfirmed": "1096"
     },
     {
-      "Date": "28/09/2021",
+      "Date": "9/28/2021",
       "FID": "642",
       "CloseContact": "93",
       "CruiseShip": "333",
@@ -6491,7 +6491,7 @@
       "TotalConfirmed": "1096"
     },
     {
-      "Date": "29/09/2021",
+      "Date": "9/29/2021",
       "FID": "643",
       "CloseContact": "93",
       "CruiseShip": "333",
@@ -6502,7 +6502,7 @@
       "TotalConfirmed": "1096"
     },
     {
-      "Date": "30/09/2021",
+      "Date": "9/30/2021",
       "FID": "644",
       "CloseContact": "93",
       "CruiseShip": "333",
@@ -6513,7 +6513,7 @@
       "TotalConfirmed": "1096"
     },
     {
-      "Date": "1/10/2021",
+      "Date": "10/1/2021",
       "FID": "646",
       "CloseContact": "93",
       "CruiseShip": "333",
@@ -6524,7 +6524,7 @@
       "TotalConfirmed": "1096"
     },
     {
-      "Date": "2/10/2021",
+      "Date": "10/2/2021",
       "FID": "647",
       "CloseContact": "93",
       "CruiseShip": "333",
@@ -6535,7 +6535,7 @@
       "TotalConfirmed": "1096"
     },
     {
-      "Date": "3/10/2021",
+      "Date": "10/3/2021",
       "FID": "648",
       "CloseContact": "93",
       "CruiseShip": "335",
@@ -6546,7 +6546,7 @@
       "TotalConfirmed": "1099"
     },
     {
-      "Date": "4/10/2021",
+      "Date": "10/4/2021",
       "FID": "649",
       "CloseContact": "93",
       "CruiseShip": "345",
@@ -6557,7 +6557,7 @@
       "TotalConfirmed": "1109"
     },
     {
-      "Date": "5/10/2021",
+      "Date": "10/5/2021",
       "FID": "650",
       "CloseContact": "93",
       "CruiseShip": "345",
@@ -6568,7 +6568,7 @@
       "TotalConfirmed": "1110"
     },
     {
-      "Date": "6/10/2021",
+      "Date": "10/6/2021",
       "FID": "651",
       "CloseContact": "93",
       "CruiseShip": "345",
@@ -6579,7 +6579,7 @@
       "TotalConfirmed": "1110"
     },
     {
-      "Date": "7/10/2021",
+      "Date": "10/7/2021",
       "FID": "652",
       "CloseContact": "93",
       "CruiseShip": "345",
@@ -6590,7 +6590,7 @@
       "TotalConfirmed": "1110"
     },
     {
-      "Date": "8/10/2021",
+      "Date": "10/8/2021",
       "FID": "653",
       "CloseContact": "93",
       "CruiseShip": "345",
@@ -6601,7 +6601,7 @@
       "TotalConfirmed": "1110"
     },
     {
-      "Date": "9/10/2021",
+      "Date": "10/9/2021",
       "FID": "654",
       "CloseContact": "93",
       "CruiseShip": "345",
@@ -6623,7 +6623,7 @@
       "TotalConfirmed": "1110"
     },
     {
-      "Date": "11/10/2021",
+      "Date": "10/11/2021",
       "FID": "656",
       "CloseContact": "93",
       "CruiseShip": "345",
@@ -6634,7 +6634,7 @@
       "TotalConfirmed": "1110"
     },
     {
-      "Date": "12/10/2021",
+      "Date": "10/12/2021",
       "FID": "657",
       "CloseContact": "93",
       "CruiseShip": "345",
@@ -6645,7 +6645,7 @@
       "TotalConfirmed": "1111"
     },
     {
-      "Date": "13/10/2021",
+      "Date": "10/13/2021",
       "FID": "658",
       "CloseContact": "93",
       "CruiseShip": "345",
@@ -6656,7 +6656,7 @@
       "TotalConfirmed": "1111"
     },
     {
-      "Date": "14/10/2021",
+      "Date": "10/14/2021",
       "FID": "659",
       "CloseContact": "93",
       "CruiseShip": "345",
@@ -6667,7 +6667,7 @@
       "TotalConfirmed": "1111"
     },
     {
-      "Date": "15/10/2021",
+      "Date": "10/15/2021",
       "FID": "660",
       "CloseContact": "93",
       "CruiseShip": "345",
@@ -6678,7 +6678,7 @@
       "TotalConfirmed": "1111"
     },
     {
-      "Date": "16/10/2021",
+      "Date": "10/16/2021",
       "FID": "661",
       "CloseContact": "93",
       "CruiseShip": "345",
@@ -6689,7 +6689,7 @@
       "TotalConfirmed": "1112"
     },
     {
-      "Date": "17/10/2021",
+      "Date": "10/17/2021",
       "FID": "662",
       "CloseContact": "93",
       "CruiseShip": "345",
@@ -6700,7 +6700,7 @@
       "TotalConfirmed": "1112"
     },
     {
-      "Date": "19/10/2021",
+      "Date": "10/19/2021",
       "FID": "664",
       "CloseContact": "93",
       "CruiseShip": "345",
@@ -6711,7 +6711,7 @@
       "TotalConfirmed": "1112"
     },
     {
-      "Date": "20/10/2021",
+      "Date": "10/20/2021",
       "FID": "665",
       "CloseContact": "93",
       "CruiseShip": "345",
@@ -6722,7 +6722,7 @@
       "TotalConfirmed": "1112"
     },
     {
-      "Date": "21/10/2021",
+      "Date": "10/21/2021",
       "FID": "666",
       "CloseContact": "93",
       "CruiseShip": "345",
@@ -6733,7 +6733,7 @@
       "TotalConfirmed": "1112"
     },
     {
-      "Date": "22/10/2021",
+      "Date": "10/22/2021",
       "FID": "667",
       "CloseContact": "93",
       "CruiseShip": "345",
@@ -6744,7 +6744,7 @@
       "TotalConfirmed": "1112"
     },
     {
-      "Date": "23/10/2021",
+      "Date": "10/23/2021",
       "FID": "668",
       "CloseContact": "93",
       "CruiseShip": "345",
@@ -6755,7 +6755,7 @@
       "TotalConfirmed": "1112"
     },
     {
-      "Date": "24/10/2021",
+      "Date": "10/24/2021",
       "FID": "669",
       "CloseContact": "93",
       "CruiseShip": "345",
@@ -6766,7 +6766,7 @@
       "TotalConfirmed": "1112"
     },
     {
-      "Date": "25/10/2021",
+      "Date": "10/25/2021",
       "FID": "670",
       "CloseContact": "93",
       "CruiseShip": "345",
@@ -6777,7 +6777,7 @@
       "TotalConfirmed": "1112"
     },
     {
-      "Date": "26/10/2021",
+      "Date": "10/26/2021",
       "FID": "671",
       "CloseContact": "93",
       "CruiseShip": "345",
@@ -6788,7 +6788,7 @@
       "TotalConfirmed": "1112"
     },
     {
-      "Date": "27/10/2021",
+      "Date": "10/27/2021",
       "FID": "672",
       "CloseContact": "93",
       "CruiseShip": "345",
@@ -6799,7 +6799,7 @@
       "TotalConfirmed": "1112"
     },
     {
-      "Date": "28/10/2021",
+      "Date": "10/28/2021",
       "FID": "673",
       "CloseContact": "93",
       "CruiseShip": "345",
@@ -6810,7 +6810,7 @@
       "TotalConfirmed": "1112"
     },
     {
-      "Date": "29/10/2021",
+      "Date": "10/29/2021",
       "FID": "674",
       "CloseContact": "93",
       "CruiseShip": "345",
@@ -6821,7 +6821,7 @@
       "TotalConfirmed": "1112"
     },
     {
-      "Date": "30/10/2021",
+      "Date": "10/30/2021",
       "FID": "675",
       "CloseContact": "93",
       "CruiseShip": "345",
@@ -6832,7 +6832,7 @@
       "TotalConfirmed": "1112"
     },
     {
-      "Date": "31/10/2021",
+      "Date": "10/31/2021",
       "FID": "676",
       "CloseContact": "93",
       "CruiseShip": "345",
@@ -6843,7 +6843,7 @@
       "TotalConfirmed": "1112"
     },
     {
-      "Date": "1/11/2021",
+      "Date": "11/1/2021",
       "FID": "678",
       "CloseContact": "93",
       "CruiseShip": "345",
@@ -6854,7 +6854,7 @@
       "TotalConfirmed": "1112"
     },
     {
-      "Date": "2/11/2021",
+      "Date": "11/2/2021",
       "FID": "679",
       "CloseContact": "93",
       "CruiseShip": "345",
@@ -6865,7 +6865,7 @@
       "TotalConfirmed": "1112"
     },
     {
-      "Date": "3/11/2021",
+      "Date": "11/3/2021",
       "FID": "680",
       "CloseContact": "93",
       "CruiseShip": "345",
@@ -6876,7 +6876,7 @@
       "TotalConfirmed": "1112"
     },
     {
-      "Date": "4/11/2021",
+      "Date": "11/4/2021",
       "FID": "681",
       "CloseContact": "93",
       "CruiseShip": "345",
@@ -6887,7 +6887,7 @@
       "TotalConfirmed": "1112"
     },
     {
-      "Date": "5/11/2021",
+      "Date": "11/5/2021",
       "FID": "682",
       "CloseContact": "93",
       "CruiseShip": "345",
@@ -6898,7 +6898,7 @@
       "TotalConfirmed": "1112"
     },
     {
-      "Date": "6/11/2021",
+      "Date": "11/6/2021",
       "FID": "683",
       "CloseContact": "93",
       "CruiseShip": "345",
@@ -6909,7 +6909,7 @@
       "TotalConfirmed": "1112"
     },
     {
-      "Date": "7/11/2021",
+      "Date": "11/7/2021",
       "FID": "684",
       "CloseContact": "93",
       "CruiseShip": "345",
@@ -6920,7 +6920,7 @@
       "TotalConfirmed": "1112"
     },
     {
-      "Date": "8/11/2021",
+      "Date": "11/8/2021",
       "FID": "685",
       "CloseContact": "93",
       "CruiseShip": "345",
@@ -6931,7 +6931,7 @@
       "TotalConfirmed": "1112"
     },
     {
-      "Date": "9/11/2021",
+      "Date": "11/9/2021",
       "FID": "686",
       "CloseContact": "93",
       "CruiseShip": "345",
@@ -6942,7 +6942,7 @@
       "TotalConfirmed": "1112"
     },
     {
-      "Date": "10/11/2021",
+      "Date": "11/10/2021",
       "FID": "687",
       "CloseContact": "93",
       "CruiseShip": "345",
@@ -6964,7 +6964,7 @@
       "TotalConfirmed": "1112"
     },
     {
-      "Date": "12/11/2021",
+      "Date": "11/12/2021",
       "FID": "689",
       "CloseContact": "93",
       "CruiseShip": "345",
@@ -6975,7 +6975,7 @@
       "TotalConfirmed": "1112"
     },
     {
-      "Date": "13/11/2021",
+      "Date": "11/13/2021",
       "FID": "690",
       "CloseContact": "93",
       "CruiseShip": "345",
@@ -6986,7 +6986,7 @@
       "TotalConfirmed": "1112"
     },
     {
-      "Date": "14/11/2021",
+      "Date": "11/14/2021",
       "FID": "691",
       "CloseContact": "93",
       "CruiseShip": "345",
@@ -6997,7 +6997,7 @@
       "TotalConfirmed": "1112"
     },
     {
-      "Date": "15/11/2021",
+      "Date": "11/15/2021",
       "FID": "692",
       "CloseContact": "93",
       "CruiseShip": "345",
@@ -7008,7 +7008,7 @@
       "TotalConfirmed": "1113"
     },
     {
-      "Date": "16/11/2021",
+      "Date": "11/16/2021",
       "FID": "693",
       "CloseContact": "93",
       "CruiseShip": "345",
@@ -7019,7 +7019,7 @@
       "TotalConfirmed": "1116"
     },
     {
-      "Date": "17/11/2021",
+      "Date": "11/17/2021",
       "FID": "694",
       "CloseContact": "93",
       "CruiseShip": "345",
@@ -7030,7 +7030,7 @@
       "TotalConfirmed": "1116"
     },
     {
-      "Date": "18/11/2021",
+      "Date": "11/18/2021",
       "FID": "695",
       "CloseContact": "93",
       "CruiseShip": "345",
@@ -7041,7 +7041,7 @@
       "TotalConfirmed": "1117"
     },
     {
-      "Date": "19/11/2021",
+      "Date": "11/19/2021",
       "FID": "696",
       "CloseContact": "93",
       "CruiseShip": "345",
@@ -7052,7 +7052,7 @@
       "TotalConfirmed": "1118"
     },
     {
-      "Date": "20/11/2021",
+      "Date": "11/20/2021",
       "FID": "697",
       "CloseContact": "93",
       "CruiseShip": "345",
@@ -7063,7 +7063,7 @@
       "TotalConfirmed": "1119"
     },
     {
-      "Date": "21/11/2021",
+      "Date": "11/21/2021",
       "FID": "698",
       "CloseContact": "93",
       "CruiseShip": "345",
@@ -7074,7 +7074,7 @@
       "TotalConfirmed": "1120"
     },
     {
-      "Date": "22/11/2021",
+      "Date": "11/22/2021",
       "FID": "699",
       "CloseContact": "93",
       "CruiseShip": "345",
@@ -7085,7 +7085,7 @@
       "TotalConfirmed": "1121"
     },
     {
-      "Date": "23/11/2021",
+      "Date": "11/23/2021",
       "FID": "700",
       "CloseContact": "93",
       "CruiseShip": "345",
@@ -7096,7 +7096,7 @@
       "TotalConfirmed": "1121"
     },
     {
-      "Date": "23/11/2021",
+      "Date": "11/23/2021",
       "FID": "701",
       "CloseContact": "93",
       "CruiseShip": "345",
@@ -7107,7 +7107,7 @@
       "TotalConfirmed": "1121"
     },
     {
-      "Date": "24/11/2021",
+      "Date": "11/24/2021",
       "FID": "702",
       "CloseContact": "93",
       "CruiseShip": "345",
@@ -7118,7 +7118,7 @@
       "TotalConfirmed": "1121"
     },
     {
-      "Date": "25/11/2021",
+      "Date": "11/25/2021",
       "FID": "703",
       "CloseContact": "93",
       "CruiseShip": "345",
@@ -7129,7 +7129,7 @@
       "TotalConfirmed": "1122"
     },
     {
-      "Date": "26/11/2021",
+      "Date": "11/26/2021",
       "FID": "704",
       "CloseContact": "93",
       "CruiseShip": "345",
@@ -7140,7 +7140,7 @@
       "TotalConfirmed": "1122"
     },
     {
-      "Date": "27/11/2021",
+      "Date": "11/27/2021",
       "FID": "705",
       "CloseContact": "93",
       "CruiseShip": "345",
@@ -7151,7 +7151,7 @@
       "TotalConfirmed": "1122"
     },
     {
-      "Date": "28/11/2021",
+      "Date": "11/28/2021",
       "FID": "706",
       "CloseContact": "92",
       "CruiseShip": "345",
@@ -7162,7 +7162,7 @@
       "TotalConfirmed": "1121"
     },
     {
-      "Date": "29/11/2021",
+      "Date": "11/29/2021",
       "FID": "707",
       "CloseContact": "92",
       "CruiseShip": "345",
@@ -7173,7 +7173,7 @@
       "TotalConfirmed": "1121"
     },
     {
-      "Date": "30/11/2021",
+      "Date": "11/30/2021",
       "FID": "708",
       "CloseContact": "92",
       "CruiseShip": "345",
@@ -7184,7 +7184,7 @@
       "TotalConfirmed": "1121"
     },
     {
-      "Date": "1/12/2021",
+      "Date": "12/1/2021",
       "FID": "709",
       "CloseContact": "92",
       "CruiseShip": "345",
@@ -7195,7 +7195,7 @@
       "TotalConfirmed": "1121"
     },
     {
-      "Date": "2/12/2021",
+      "Date": "12/2/2021",
       "FID": "710",
       "CloseContact": "92",
       "CruiseShip": "345",
@@ -7206,7 +7206,7 @@
       "TotalConfirmed": "1121"
     },
     {
-      "Date": "3/12/2021",
+      "Date": "12/3/2021",
       "FID": "711",
       "CloseContact": "92",
       "CruiseShip": "345",
@@ -7217,7 +7217,7 @@
       "TotalConfirmed": "1122"
     },
     {
-      "Date": "4/12/2021",
+      "Date": "12/4/2021",
       "FID": "712",
       "CloseContact": "92",
       "CruiseShip": "345",
@@ -7228,7 +7228,7 @@
       "TotalConfirmed": "1122"
     },
     {
-      "Date": "5/12/2021",
+      "Date": "12/5/2021",
       "FID": "713",
       "CloseContact": "92",
       "CruiseShip": "345",
@@ -7239,7 +7239,7 @@
       "TotalConfirmed": "1122"
     },
     {
-      "Date": "6/12/2021",
+      "Date": "12/6/2021",
       "FID": "714",
       "CloseContact": "92",
       "CruiseShip": "345",
@@ -7250,7 +7250,7 @@
       "TotalConfirmed": "1122"
     },
     {
-      "Date": "7/12/2021",
+      "Date": "12/7/2021",
       "FID": "715",
       "CloseContact": "92",
       "CruiseShip": "345",
@@ -7261,7 +7261,7 @@
       "TotalConfirmed": "1122"
     },
     {
-      "Date": "8/12/2021",
+      "Date": "12/8/2021",
       "FID": "716",
       "CloseContact": "92",
       "CruiseShip": "345",
@@ -7272,7 +7272,7 @@
       "TotalConfirmed": "1122"
     },
     {
-      "Date": "9/12/2021",
+      "Date": "12/9/2021",
       "FID": "717",
       "CloseContact": "92",
       "CruiseShip": "345",
@@ -7283,7 +7283,7 @@
       "TotalConfirmed": "1123"
     },
     {
-      "Date": "10/12/2021",
+      "Date": "12/10/2021",
       "FID": "718",
       "CloseContact": "92",
       "CruiseShip": "345",
@@ -7294,7 +7294,7 @@
       "TotalConfirmed": "1123"
     },
     {
-      "Date": "11/12/2021",
+      "Date": "12/11/2021",
       "FID": "719",
       "CloseContact": "92",
       "CruiseShip": "345",
@@ -7316,7 +7316,7 @@
       "TotalConfirmed": "1123"
     },
     {
-      "Date": "13/12/2021",
+      "Date": "12/13/2021",
       "FID": "721",
       "CloseContact": "92",
       "CruiseShip": "345",
@@ -7327,7 +7327,7 @@
       "TotalConfirmed": "1124"
     },
     {
-      "Date": "14/12/2021",
+      "Date": "12/14/2021",
       "FID": "722",
       "CloseContact": "92",
       "CruiseShip": "345",
@@ -7338,7 +7338,7 @@
       "TotalConfirmed": "1125"
     },
     {
-      "Date": "15/12/2021",
+      "Date": "12/15/2021",
       "FID": "723",
       "CloseContact": "92",
       "CruiseShip": "345",
@@ -7349,7 +7349,7 @@
       "TotalConfirmed": "1125"
     },
     {
-      "Date": "16/12/2021",
+      "Date": "12/16/2021",
       "FID": "724",
       "CloseContact": "92",
       "CruiseShip": "345",
@@ -7360,7 +7360,7 @@
       "TotalConfirmed": "1125"
     },
     {
-      "Date": "17/12/2021",
+      "Date": "12/17/2021",
       "FID": "725",
       "CloseContact": "92",
       "CruiseShip": "345",
@@ -7371,7 +7371,7 @@
       "TotalConfirmed": "1125"
     },
     {
-      "Date": "18/12/2021",
+      "Date": "12/18/2021",
       "FID": "726",
       "CloseContact": "92",
       "CruiseShip": "345",
@@ -7382,7 +7382,7 @@
       "TotalConfirmed": "1125"
     },
     {
-      "Date": "19/12/2021",
+      "Date": "12/19/2021",
       "FID": "727",
       "CloseContact": "92",
       "CruiseShip": "345",
@@ -7393,7 +7393,7 @@
       "TotalConfirmed": "1125"
     },
     {
-      "Date": "20/12/2021",
+      "Date": "12/20/2021",
       "FID": "728",
       "CloseContact": "92",
       "CruiseShip": "345",
@@ -7404,7 +7404,7 @@
       "TotalConfirmed": "1125"
     },
     {
-      "Date": "21/12/2021",
+      "Date": "12/21/2021",
       "FID": "729",
       "CloseContact": "92",
       "CruiseShip": "345",
@@ -7415,7 +7415,7 @@
       "TotalConfirmed": "1126"
     },
     {
-      "Date": "22/12/2021",
+      "Date": "12/22/2021",
       "FID": "730",
       "CloseContact": "92",
       "CruiseShip": "345",
@@ -7426,7 +7426,7 @@
       "TotalConfirmed": "1130"
     },
     {
-      "Date": "23/12/2021",
+      "Date": "12/23/2021",
       "FID": "731",
       "CloseContact": "93",
       "CruiseShip": "345",
@@ -7437,7 +7437,7 @@
       "TotalConfirmed": "1133"
     },
     {
-      "Date": "24/12/2021",
+      "Date": "12/24/2021",
       "FID": "732",
       "CloseContact": "94",
       "CruiseShip": "345",
@@ -7448,7 +7448,7 @@
       "TotalConfirmed": "1133"
     },
     {
-      "Date": "25/12/2021",
+      "Date": "12/25/2021",
       "FID": "733",
       "CloseContact": "99",
       "CruiseShip": "345",
@@ -7459,7 +7459,7 @@
       "TotalConfirmed": "1142"
     },
     {
-      "Date": "26/12/2021",
+      "Date": "12/26/2021",
       "FID": "734",
       "CloseContact": "99",
       "CruiseShip": "345",
@@ -7470,7 +7470,7 @@
       "TotalConfirmed": "1143"
     },
     {
-      "Date": "27/12/2021",
+      "Date": "12/27/2021",
       "FID": "735",
       "CloseContact": "101",
       "CruiseShip": "345",
@@ -7481,7 +7481,7 @@
       "TotalConfirmed": "1145"
     },
     {
-      "Date": "28/12/2021",
+      "Date": "12/28/2021",
       "FID": "736",
       "CloseContact": "101",
       "CruiseShip": "345",
@@ -7492,7 +7492,7 @@
       "TotalConfirmed": "1148"
     },
     {
-      "Date": "29/12/2021",
+      "Date": "12/29/2021",
       "FID": "737",
       "CloseContact": "101",
       "CruiseShip": "345",
@@ -7503,7 +7503,7 @@
       "TotalConfirmed": "1148"
     },
     {
-      "Date": "30/12/2021",
+      "Date": "12/30/2021",
       "FID": "738",
       "CloseContact": "103",
       "CruiseShip": "345",
@@ -7514,7 +7514,7 @@
       "TotalConfirmed": "1153"
     },
     {
-      "Date": "31/12/2021",
+      "Date": "12/31/2021",
       "FID": "739",
       "CloseContact": "104",
       "CruiseShip": "345",
@@ -7525,7 +7525,7 @@
       "TotalConfirmed": "1158"
     },
     {
-      "Date": "1/01/2022",
+      "Date": "1/1/2022",
       "FID": "740",
       "CloseContact": "106",
       "CruiseShip": "345",
@@ -7536,7 +7536,7 @@
       "TotalConfirmed": "1161"
     },
     {
-      "Date": "2/01/2022",
+      "Date": "1/2/2022",
       "FID": "741",
       "CloseContact": "106",
       "CruiseShip": "345",
@@ -7547,7 +7547,7 @@
       "TotalConfirmed": "1168"
     },
     {
-      "Date": "3/01/2022",
+      "Date": "1/3/2022",
       "FID": "742",
       "CloseContact": "107",
       "CruiseShip": "345",
@@ -7558,7 +7558,7 @@
       "TotalConfirmed": "1176"
     },
     {
-      "Date": "4/01/2022",
+      "Date": "1/4/2022",
       "FID": "743",
       "CloseContact": "107",
       "CruiseShip": "345",
@@ -7569,7 +7569,7 @@
       "TotalConfirmed": "1190"
     },
     {
-      "Date": "5/01/2022",
+      "Date": "1/5/2022",
       "FID": "744",
       "CloseContact": "110",
       "CruiseShip": "345",
@@ -7580,7 +7580,7 @@
       "TotalConfirmed": "1206"
     },
     {
-      "Date": "6/01/2022",
+      "Date": "1/6/2022",
       "FID": "745",
       "CloseContact": "111",
       "CruiseShip": "345",
@@ -7591,7 +7591,7 @@
       "TotalConfirmed": "1215"
     },
     {
-      "Date": "7/01/2022",
+      "Date": "1/7/2022",
       "FID": "746",
       "CloseContact": "111",
       "CruiseShip": "345",
@@ -7602,7 +7602,7 @@
       "TotalConfirmed": "1221"
     },
     {
-      "Date": "8/01/2022",
+      "Date": "1/8/2022",
       "FID": "747",
       "CloseContact": "112",
       "CruiseShip": "345",
@@ -7613,7 +7613,7 @@
       "TotalConfirmed": "1229"
     },
     {
-      "Date": "9/01/2022",
+      "Date": "1/9/2022",
       "FID": "748",
       "CloseContact": "116",
       "CruiseShip": "345",
@@ -7624,7 +7624,7 @@
       "TotalConfirmed": "1231"
     },
     {
-      "Date": "10/01/2022",
+      "Date": "1/10/2022",
       "FID": "749",
       "CloseContact": "119",
       "CruiseShip": "345",
@@ -7635,7 +7635,7 @@
       "TotalConfirmed": "1239"
     },
     {
-      "Date": "11/01/2022",
+      "Date": "1/11/2022",
       "FID": "750",
       "CloseContact": "122",
       "CruiseShip": "345",
@@ -7644,6 +7644,479 @@
       "Pending": "0",
       "Unknown": "16",
       "TotalConfirmed": "1254"
+    },
+    {
+      "Date": "1/12/2022",
+      "FID": "751",
+      "CloseContact": "123",
+      "CruiseShip": "345",
+      "Interstate": "74",
+      "Overseas": "701",
+      "Pending": "1",
+      "Unknown": "16",
+      "TotalConfirmed": "1260"
+    },
+    {
+      "Date": "1/13/2022",
+      "FID": "752",
+      "CloseContact": "125",
+      "CruiseShip": "345",
+      "Interstate": "85",
+      "Overseas": "704",
+      "Pending": "1",
+      "Unknown": "16",
+      "TotalConfirmed": "1276"
+    },
+    {
+      "Date": "1/14/2022",
+      "FID": "753",
+      "CloseContact": "127",
+      "CruiseShip": "345",
+      "Interstate": "92",
+      "Overseas": "705",
+      "Pending": "0",
+      "Unknown": "16",
+      "TotalConfirmed": "1285"
+    },
+    {
+      "Date": "1/15/2022",
+      "FID": "754",
+      "CloseContact": "128",
+      "CruiseShip": "345",
+      "Interstate": "98",
+      "Overseas": "706",
+      "Pending": "0",
+      "Unknown": "17",
+      "TotalConfirmed": "1294"
+    },
+    {
+      "Date": "1/16/2022",
+      "FID": "755",
+      "CloseContact": "130",
+      "CruiseShip": "345",
+      "Interstate": "99",
+      "Overseas": "706",
+      "Pending": "1",
+      "Unknown": "16",
+      "TotalConfirmed": "1297"
+    },
+    {
+      "Date": "1/17/2022",
+      "FID": "756",
+      "CloseContact": "134",
+      "CruiseShip": "345",
+      "Interstate": "107",
+      "Overseas": "707",
+      "Pending": "0",
+      "Unknown": "16",
+      "TotalConfirmed": "1309"
+    },
+    {
+      "Date": "1/18/2022",
+      "FID": "757",
+      "CloseContact": "136",
+      "CruiseShip": "345",
+      "Interstate": "117",
+      "Overseas": "709",
+      "Pending": "0",
+      "Unknown": "16",
+      "TotalConfirmed": "1323"
+    },
+    {
+      "Date": "1/19/2022",
+      "FID": "758",
+      "CloseContact": "138",
+      "CruiseShip": "345",
+      "Interstate": "119",
+      "Overseas": "709",
+      "Pending": "1",
+      "Unknown": "16",
+      "TotalConfirmed": "1328"
+    },
+    {
+      "Date": "1/20/2022",
+      "FID": "759",
+      "CloseContact": "142",
+      "CruiseShip": "345",
+      "Interstate": "123",
+      "Overseas": "710",
+      "Pending": "2",
+      "Unknown": "16",
+      "TotalConfirmed": "1338"
+    },
+    {
+      "Date": "1/21/2022",
+      "FID": "760",
+      "CloseContact": "148",
+      "CruiseShip": "345",
+      "Interstate": "124",
+      "Overseas": "712",
+      "Pending": "3",
+      "Unknown": "16",
+      "TotalConfirmed": "1348"
+    },
+    {
+      "Date": "1/22/2022",
+      "FID": "761",
+      "CloseContact": "153",
+      "CruiseShip": "345",
+      "Interstate": "126",
+      "Overseas": "714",
+      "Pending": "4",
+      "Unknown": "17",
+      "TotalConfirmed": "1359"
+    },
+    {
+      "Date": "1/23/2022",
+      "FID": "762",
+      "CloseContact": "176",
+      "CruiseShip": "345",
+      "Interstate": "127",
+      "Overseas": "715",
+      "Pending": "5",
+      "Unknown": "17",
+      "TotalConfirmed": "1385"
+    },
+    {
+      "Date": "1/24/2022",
+      "FID": "763",
+      "CloseContact": "187",
+      "CruiseShip": "345",
+      "Interstate": "127",
+      "Overseas": "717",
+      "Pending": "7",
+      "Unknown": "17",
+      "TotalConfirmed": "1400"
+    },
+    {
+      "Date": "1/25/2022",
+      "FID": "764",
+      "CloseContact": "197",
+      "CruiseShip": "345",
+      "Interstate": "128",
+      "Overseas": "720",
+      "Pending": "9",
+      "Unknown": "19",
+      "TotalConfirmed": "1418"
+    },
+    {
+      "Date": "1/26/2022",
+      "FID": "765",
+      "CloseContact": "219",
+      "CruiseShip": "345",
+      "Interstate": "128",
+      "Overseas": "720",
+      "Pending": "10",
+      "Unknown": "20",
+      "TotalConfirmed": "1442"
+    },
+    {
+      "Date": "1/27/2022",
+      "FID": "766",
+      "CloseContact": "229",
+      "CruiseShip": "345",
+      "Interstate": "129",
+      "Overseas": "721",
+      "Pending": "10",
+      "Unknown": "20",
+      "TotalConfirmed": "1454"
+    },
+    {
+      "Date": "1/28/2022",
+      "FID": "767",
+      "CloseContact": "231",
+      "CruiseShip": "345",
+      "Interstate": "130",
+      "Overseas": "721",
+      "Pending": "15",
+      "Unknown": "20",
+      "TotalConfirmed": "1462"
+    },
+    {
+      "Date": "1/29/2022",
+      "FID": "768",
+      "CloseContact": "253",
+      "CruiseShip": "345",
+      "Interstate": "131",
+      "Overseas": "721",
+      "Pending": "15",
+      "Unknown": "20",
+      "TotalConfirmed": "1485"
+    },
+    {
+      "Date": "1/30/2022",
+      "FID": "769",
+      "CloseContact": "270",
+      "CruiseShip": "345",
+      "Interstate": "129",
+      "Overseas": "721",
+      "Pending": "18",
+      "Unknown": "22",
+      "TotalConfirmed": "1505"
+    },
+    {
+      "Date": "1/31/2022",
+      "FID": "770",
+      "CloseContact": "285",
+      "CruiseShip": "345",
+      "Interstate": "140",
+      "Overseas": "722",
+      "Pending": "15",
+      "Unknown": "20",
+      "TotalConfirmed": "1527"
+    },
+    {
+      "Date": "2/1/2022",
+      "FID": "771",
+      "CloseContact": "292",
+      "CruiseShip": "345",
+      "Interstate": "151",
+      "Overseas": "722",
+      "Pending": "21",
+      "Unknown": "20",
+      "TotalConfirmed": "1551"
+    },
+    {
+      "Date": "2/2/2022",
+      "FID": "772",
+      "CloseContact": "307",
+      "CruiseShip": "345",
+      "Interstate": "163",
+      "Overseas": "723",
+      "Pending": "22",
+      "Unknown": "20",
+      "TotalConfirmed": "1580"
+    },
+    {
+      "Date": "2/3/2022",
+      "FID": "773",
+      "CloseContact": "323",
+      "CruiseShip": "345",
+      "Interstate": "168",
+      "Overseas": "726",
+      "Pending": "26",
+      "Unknown": "20",
+      "TotalConfirmed": "1608"
+    },
+    {
+      "Date": "2/4/2022",
+      "FID": "774",
+      "CloseContact": "338",
+      "CruiseShip": "345",
+      "Interstate": "181",
+      "Overseas": "727",
+      "Pending": "26",
+      "Unknown": "23",
+      "TotalConfirmed": "1640"
+    },
+    {
+      "Date": "2/5/2022",
+      "FID": "775",
+      "CloseContact": "357",
+      "CruiseShip": "345",
+      "Interstate": "183",
+      "Overseas": "727",
+      "Pending": "30",
+      "Unknown": "24",
+      "TotalConfirmed": "1666"
+    },
+    {
+      "Date": "2/6/2022",
+      "FID": "776",
+      "CloseContact": "384",
+      "CruiseShip": "345",
+      "Interstate": "197",
+      "Overseas": "728",
+      "Pending": "33",
+      "Unknown": "25",
+      "TotalConfirmed": "1712"
+    },
+    {
+      "Date": "2/7/2022",
+      "FID": "777",
+      "CloseContact": "409",
+      "CruiseShip": "345",
+      "Interstate": "206",
+      "Overseas": "729",
+      "Pending": "33",
+      "Unknown": "26",
+      "TotalConfirmed": "1748"
+    },
+    {
+      "Date": "2/8/2022",
+      "FID": "778",
+      "CloseContact": "418",
+      "CruiseShip": "345",
+      "Interstate": "248",
+      "Overseas": "741",
+      "Pending": "35",
+      "Unknown": "26",
+      "TotalConfirmed": "1813"
+    },
+    {
+      "Date": "2/9/2022",
+      "FID": "779",
+      "CloseContact": "427",
+      "CruiseShip": "345",
+      "Interstate": "314",
+      "Overseas": "754",
+      "Pending": "39",
+      "Unknown": "26",
+      "TotalConfirmed": "1905"
+    },
+    {
+      "Date": "2/10/2022",
+      "FID": "780",
+      "CloseContact": "455",
+      "CruiseShip": "345",
+      "Interstate": "422",
+      "Overseas": "750",
+      "Pending": "44",
+      "Unknown": "27",
+      "TotalConfirmed": "2043"
+    },
+    {
+      "Date": "2/11/2022",
+      "FID": "781",
+      "CloseContact": "497",
+      "CruiseShip": "345",
+      "Interstate": "456",
+      "Overseas": "764",
+      "Pending": "47",
+      "Unknown": "31",
+      "TotalConfirmed": "2140"
+    },
+    {
+      "Date": "2/12/2022",
+      "FID": "782",
+      "CloseContact": "520",
+      "CruiseShip": "345",
+      "Interstate": "477",
+      "Overseas": "769",
+      "Pending": "46",
+      "Unknown": "29",
+      "TotalConfirmed": "2186"
+    },
+    {
+      "Date": "2/13/2022",
+      "FID": "783",
+      "CloseContact": "546",
+      "CruiseShip": "345",
+      "Interstate": "494",
+      "Overseas": "776",
+      "Pending": "63",
+      "Unknown": "29",
+      "TotalConfirmed": "2253"
+    },
+    {
+      "Date": "2/14/2022",
+      "FID": "784",
+      "CloseContact": "599",
+      "CruiseShip": "345",
+      "Interstate": "507",
+      "Overseas": "776",
+      "Pending": "69",
+      "Unknown": "29",
+      "TotalConfirmed": "2325"
+    },
+    {
+      "Date": "2/15/2022",
+      "FID": "785",
+      "CloseContact": "633",
+      "CruiseShip": "345",
+      "Interstate": "519",
+      "Overseas": "777",
+      "Pending": "80",
+      "Unknown": "29",
+      "TotalConfirmed": "2383"
+    },
+    {
+      "Date": "2/16/2022",
+      "FID": "786",
+      "CloseContact": "697",
+      "CruiseShip": "345",
+      "Interstate": "531",
+      "Overseas": "777",
+      "Pending": "116",
+      "Unknown": "43",
+      "TotalConfirmed": "2509"
+    },
+    {
+      "Date": "2/17/2022",
+      "FID": "787",
+      "CloseContact": "798",
+      "CruiseShip": "345",
+      "Interstate": "543",
+      "Overseas": "778",
+      "Pending": "153",
+      "Unknown": "76",
+      "TotalConfirmed": "2693"
+    },
+    {
+      "Date": "2/18/2022",
+      "FID": "788",
+      "CloseContact": "902",
+      "CruiseShip": "345",
+      "Interstate": "549",
+      "Overseas": "780",
+      "Pending": "193",
+      "Unknown": "123",
+      "TotalConfirmed": "2892"
+    },
+    {
+      "Date": "2/19/2022",
+      "FID": "789",
+      "CloseContact": "1012",
+      "CruiseShip": "345",
+      "Interstate": "562",
+      "Overseas": "780",
+      "Pending": "288",
+      "Unknown": "149",
+      "TotalConfirmed": "3136"
+    },
+    {
+      "Date": "2/20/2022",
+      "FID": "790",
+      "CloseContact": "1156",
+      "CruiseShip": "345",
+      "Interstate": "569",
+      "Overseas": "781",
+      "Pending": "310",
+      "Unknown": "197",
+      "TotalConfirmed": "3358"
+    },
+    {
+      "Date": "2/21/2022",
+      "FID": "791",
+      "CloseContact": "1436",
+      "CruiseShip": "345",
+      "Interstate": "572",
+      "Overseas": "781",
+      "Pending": "218",
+      "Unknown": "220",
+      "TotalConfirmed": "3572"
+    },
+    {
+      "Date": "2/22/2022",
+      "FID": "792",
+      "CloseContact": "1457",
+      "CruiseShip": "345",
+      "Interstate": "585",
+      "Overseas": "786",
+      "Pending": "340",
+      "Unknown": "311",
+      "TotalConfirmed": "3824"
+    },
+    {
+      "Date": "2/23/2022",
+      "FID": "793",
+      "CloseContact": "1700",
+      "CruiseShip": "345",
+      "Interstate": "587",
+      "Overseas": "787",
+      "Pending": "599",
+      "Unknown": "434",
+      "TotalConfirmed": "4452"
     }
   ]
 }
