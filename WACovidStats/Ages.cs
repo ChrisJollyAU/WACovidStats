@@ -31,6 +31,7 @@ namespace WACovidStats
                 stat.Male = (string)((JValue)item["Male"]).Value.ToString();
                 stat.Female = (string)((JValue)item["Female"]).Value.ToString();
                 stat.Total = (string)((JValue)item["Total"]).Value.ToString();
+                stat.NotStated = (string)((JValue)item["NotStated"]).Value?.ToString();
                 list.Add(stat);
             }
             JsonObject item2 = new JsonObject();
@@ -46,6 +47,7 @@ namespace WACovidStats
         public string Age_Group { get; set; }
         public string Male { get; set; }
         public string Female { get; set; }
+        public string NotStated { get; set; }
         public string Total { get; set; }
     }
 }
