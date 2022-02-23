@@ -5,6 +5,7 @@
       "Age_Group": "00-09",
       "Male": "214",
       "Female": "182",
+      "NotStated": null,
       "Total": "396"
     },
     {
@@ -12,6 +13,7 @@
       "Age_Group": "10-19",
       "Male": "299",
       "Female": "334",
+      "NotStated": null,
       "Total": "633"
     },
     {
@@ -19,6 +21,7 @@
       "Age_Group": "20-29",
       "Male": "598",
       "Female": "591",
+      "NotStated": null,
       "Total": "1189"
     },
     {
@@ -26,6 +29,7 @@
       "Age_Group": "30-39",
       "Male": "481",
       "Female": "341",
+      "NotStated": null,
       "Total": "822"
     },
     {
@@ -33,6 +37,7 @@
       "Age_Group": "40-49",
       "Male": "295",
       "Female": "187",
+      "NotStated": null,
       "Total": "482"
     },
     {
@@ -40,6 +45,7 @@
       "Age_Group": "50-59",
       "Male": "227",
       "Female": "155",
+      "NotStated": null,
       "Total": "382"
     },
     {
@@ -47,6 +53,7 @@
       "Age_Group": "60-69",
       "Male": "128",
       "Female": "124",
+      "NotStated": null,
       "Total": "252"
     },
     {
@@ -54,6 +61,7 @@
       "Age_Group": "70-79",
       "Male": "80",
       "Female": "73",
+      "NotStated": null,
       "Total": "153"
     },
     {
@@ -61,6 +69,7 @@
       "Age_Group": "80+",
       "Male": "20",
       "Female": "22",
+      "NotStated": null,
       "Total": "42"
     },
     {
@@ -68,6 +77,7 @@
       "Age_Group": "Total",
       "Male": "2342",
       "Female": "2009",
+      "NotStated": "101",
       "Total": "4351"
     }
   ]
