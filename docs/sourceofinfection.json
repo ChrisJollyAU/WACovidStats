@@ -16,29 +16,29 @@
     },
     {
       "Name": " Close contact",
-      "Number": "2060",
-      "Active": "1130",
+      "Number": "2520",
+      "Active": "1466",
       "NumberLast7Days": "80",
       "NumberLast24Hours": "80"
     },
     {
       "Name": "Interstate travel",
-      "Number": "596",
-      "Active": "39",
+      "Number": "599",
+      "Active": "36",
       "NumberLast7Days": "7",
       "NumberLast24Hours": "7"
     },
     {
       "Name": "Unknown source",
-      "Number": "829",
-      "Active": "690",
+      "Number": "1323",
+      "Active": "1048",
       "NumberLast7Days": "13",
       "NumberLast24Hours": "13"
     },
     {
       "Name": "Pending",
-      "Number": "544",
-      "Active": "403",
+      "Number": "618",
+      "Active": "478",
       "NumberLast7Days": "0",
       "NumberLast24Hours": "0"
     }
