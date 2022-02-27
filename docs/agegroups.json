@@ -3,66 +3,66 @@
     {
       "FID": "1",
       "Age_Group": "00-09",
-      "Male": "323",
-      "Female": "286",
+      "Male": "382",
+      "Female": "331",
       "NotStated": null,
-      "Total": "609"
+      "Total": "713"
     },
     {
       "FID": "2",
       "Age_Group": "10-19",
-      "Male": "555",
-      "Female": "587",
+      "Male": "655",
+      "Female": "685",
       "NotStated": null,
-      "Total": "1142"
+      "Total": "1340"
     },
     {
       "FID": "3",
       "Age_Group": "20-29",
-      "Male": "1081",
-      "Female": "1096",
+      "Male": "1186",
+      "Female": "1207",
       "NotStated": null,
-      "Total": "2177"
+      "Total": "2393"
     },
     {
       "FID": "4",
       "Age_Group": "30-39",
-      "Male": "689",
-      "Female": "519",
+      "Male": "741",
+      "Female": "584",
       "NotStated": null,
-      "Total": "1208"
+      "Total": "1325"
     },
     {
       "FID": "5",
       "Age_Group": "40-49",
-      "Male": "419",
-      "Female": "299",
+      "Male": "454",
+      "Female": "339",
       "NotStated": null,
-      "Total": "718"
+      "Total": "793"
     },
     {
       "FID": "6",
       "Age_Group": "50-59",
-      "Male": "283",
-      "Female": "224",
+      "Male": "308",
+      "Female": "242",
       "NotStated": null,
-      "Total": "507"
+      "Total": "550"
     },
     {
       "FID": "7",
       "Age_Group": "60-69",
-      "Male": "147",
-      "Female": "143",
+      "Male": "154",
+      "Female": "159",
       "NotStated": null,
-      "Total": "290"
+      "Total": "313"
     },
     {
       "FID": "8",
       "Age_Group": "70-79",
-      "Male": "83",
-      "Female": "83",
+      "Male": "86",
+      "Female": "86",
       "NotStated": null,
-      "Total": "166"
+      "Total": "172"
     },
     {
       "FID": "9",
@@ -75,10 +75,10 @@
     {
       "FID": "10",
       "Age_Group": "Total",
-      "Male": "3605",
-      "Female": "3262",
-      "NotStated": "378",
-      "Total": "6867"
+      "Male": "3991",
+      "Female": "3658",
+      "NotStated": "601",
+      "Total": "7649"
     }
   ]
 }
