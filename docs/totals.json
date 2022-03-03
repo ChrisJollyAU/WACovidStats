@@ -7442,17 +7442,17 @@
     },
     {
       "Date": "3/2/2022",
-      "new_cases": "415",
-      "total_cases": "14587",
+      "new_cases": "417",
+      "total_cases": "14589",
       "total_recovered": "5209",
       "total_death": "10",
-      "existing": "9368",
+      "existing": "9370",
       "total_ruledout": null,
       "hospitalized": null
     },
     {
       "Date": "3/3/2022",
-      "new_cases": "2",
+      "new_cases": "0",
       "total_cases": "14589",
       "total_recovered": "6158",
       "total_death": "11",
