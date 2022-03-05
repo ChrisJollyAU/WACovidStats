@@ -8216,6 +8216,17 @@
       "Pending": "3164",
       "Unknown": "4624",
       "TotalConfirmed": "16684"
+    },
+    {
+      "Date": "3/5/2022",
+      "FID": "803",
+      "CloseContact": "8746",
+      "CruiseShip": "345",
+      "Interstate": "639",
+      "Overseas": "812",
+      "Pending": "2829",
+      "Unknown": "5560",
+      "TotalConfirmed": "18931"
     }
   ]
 }
