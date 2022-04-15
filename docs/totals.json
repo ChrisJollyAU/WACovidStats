@@ -7879,6 +7879,16 @@
       "existing": "40539",
       "total_ruledout": null,
       "hospitalized": null
+    },
+    {
+      "Date": "4/15/2022",
+      "new_cases": "0",
+      "total_cases": "273449",
+      "total_recovered": "240481",
+      "total_death": "90",
+      "existing": "32878",
+      "total_ruledout": null,
+      "hospitalized": null
     }
   ]
 }
