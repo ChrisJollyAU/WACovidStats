@@ -25,6 +25,7 @@ namespace WACovidStats
             foreach (var it in des["features"])
             {
                 var item = it.First().First();
+                if (((JValue)item["date"]).Value == null) continue;
                 DetailsDateOb stat = new DetailsDateOb();
                 stat.Date = (string)((JValue)item["date"]).Value.ToString();
                 long unixmil = long.Parse(stat.Date);
