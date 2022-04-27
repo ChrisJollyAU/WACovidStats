@@ -67,18 +67,18 @@
     {
       "FID": "9",
       "Age_Group": "80+",
-      "Male": "1131",
-      "Female": "1341",
+      "Male": "1156",
+      "Female": "1367",
       "NotStated": null,
-      "Total": "2472"
+      "Total": "2523"
     },
     {
       "FID": "10",
       "Age_Group": "Total",
-      "Male": "88586",
-      "Female": "90033",
-      "NotStated": "176658",
-      "Total": "178619"
+      "Male": "89977",
+      "Female": "91631",
+      "NotStated": "181993",
+      "Total": "181608"
     }
   ]
 }
