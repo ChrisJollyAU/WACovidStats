@@ -8082,8 +8082,8 @@
     },
     {
       "Date": "5/5/2022",
-      "new_cases": "2164",
-      "total_cases": "433294",
+      "new_cases": "2165",
+      "total_cases": "433295",
       "total_recovered": "378883",
       "total_death": "157",
       "existing": "54254",
@@ -8093,7 +8093,7 @@
     {
       "Date": "5/6/2022",
       "new_cases": "0",
-      "total_cases": "433294",
+      "total_cases": "433295",
       "total_recovered": "384304",
       "total_death": "157",
       "existing": "48833",
