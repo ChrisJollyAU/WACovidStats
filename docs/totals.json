@@ -8086,7 +8086,7 @@
       "total_cases": "433295",
       "total_recovered": "378883",
       "total_death": "157",
-      "existing": "54254",
+      "existing": "54255",
       "total_ruledout": null,
       "hospitalized": null
     },
@@ -8096,7 +8096,17 @@
       "total_cases": "433295",
       "total_recovered": "384304",
       "total_death": "157",
-      "existing": "48833",
+      "existing": "48834",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "5/7/2022",
+      "new_cases": "0",
+      "total_cases": "433295",
+      "total_recovered": "390458",
+      "total_death": "163",
+      "existing": "42674",
       "total_ruledout": null,
       "hospitalized": null
     }
