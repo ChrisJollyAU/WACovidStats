@@ -3,82 +3,82 @@
     {
       "FID": "1",
       "Age_Group": "00-09",
-      "Male": "16448",
-      "Female": "15479",
+      "Male": "16683",
+      "Female": "15706",
       "NotStated": null,
-      "Total": "31927"
+      "Total": "32389"
     },
     {
       "FID": "2",
       "Age_Group": "10-19",
-      "Male": "21937",
-      "Female": "23002",
+      "Male": "22296",
+      "Female": "23427",
       "NotStated": null,
-      "Total": "44939"
+      "Total": "45723"
     },
     {
       "FID": "3",
       "Age_Group": "20-29",
-      "Male": "26023",
-      "Female": "28292",
+      "Male": "26460",
+      "Female": "28831",
       "NotStated": null,
-      "Total": "54315"
+      "Total": "55291"
     },
     {
       "FID": "4",
       "Age_Group": "30-39",
-      "Male": "23577",
-      "Female": "26061",
+      "Male": "24042",
+      "Female": "26666",
       "NotStated": null,
-      "Total": "49638"
+      "Total": "50708"
     },
     {
       "FID": "5",
       "Age_Group": "40-49",
-      "Male": "18929",
-      "Female": "21225",
+      "Male": "19402",
+      "Female": "21826",
       "NotStated": null,
-      "Total": "40154"
+      "Total": "41228"
     },
     {
       "FID": "6",
       "Age_Group": "50-59",
-      "Male": "13286",
-      "Female": "13584",
+      "Male": "13591",
+      "Female": "13906",
       "NotStated": null,
-      "Total": "26870"
+      "Total": "27497"
     },
     {
       "FID": "7",
       "Age_Group": "60-69",
-      "Male": "7260",
-      "Female": "7099",
+      "Male": "7451",
+      "Female": "7318",
       "NotStated": null,
-      "Total": "14359"
+      "Total": "14769"
     },
     {
       "FID": "8",
       "Age_Group": "70-79",
-      "Male": "3890",
-      "Female": "3573",
+      "Male": "3990",
+      "Female": "3659",
       "NotStated": null,
-      "Total": "7463"
+      "Total": "7649"
     },
     {
       "FID": "9",
       "Age_Group": "80+",
-      "Male": "1971",
-      "Female": "2416",
+      "Male": "2011",
+      "Female": "2465",
       "NotStated": null,
-      "Total": "4387"
+      "Total": "4476"
     },
     {
       "FID": "10",
       "Age_Group": "Total",
-      "Male": "133321",
-      "Female": "140731",
-      "NotStated": "335546",
-      "Total": "274052"
+      "Male": "135926",
+      "Female": "143804",
+      "NotStated": "345044",
+      "Total": "279730"
     }
   ]
 }
