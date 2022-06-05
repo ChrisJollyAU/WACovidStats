@@ -8389,6 +8389,16 @@
       "existing": "38521",
       "total_ruledout": null,
       "hospitalized": null
+    },
+    {
+      "Date": "6/5/2022",
+      "new_cases": "0",
+      "total_cases": "759435",
+      "total_recovered": "727326",
+      "total_death": "284",
+      "existing": "31825",
+      "total_ruledout": null,
+      "hospitalized": null
     }
   ]
 }
