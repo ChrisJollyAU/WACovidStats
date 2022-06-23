@@ -2,8 +2,8 @@
   "data": [
     {
       "Name": "Overseas travel",
-      "Number": "4432",
-      "Active": "427",
+      "Number": "4558",
+      "Active": "403",
       "NumberLast7Days": "528",
       "NumberLast24Hours": "533"
     },
@@ -16,29 +16,29 @@
     },
     {
       "Name": " Close contact",
-      "Number": "420495",
-      "Active": "12179",
+      "Number": "423955",
+      "Active": "12126",
       "NumberLast7Days": "80",
       "NumberLast24Hours": "80"
     },
     {
       "Name": "Interstate travel",
-      "Number": "16153",
-      "Active": "750",
+      "Number": "16340",
+      "Active": "704",
       "NumberLast7Days": "7",
       "NumberLast24Hours": "7"
     },
     {
       "Name": "Unknown source",
-      "Number": "308896",
-      "Active": "11670",
+      "Number": "310356",
+      "Active": "11650",
       "NumberLast7Days": "13",
       "NumberLast24Hours": "13"
     },
     {
       "Name": "Pending",
-      "Number": "116132",
-      "Active": "3744",
+      "Number": "116223",
+      "Active": "3720",
       "NumberLast7Days": "0",
       "NumberLast24Hours": "0"
     }
