@@ -9800,6 +9800,17 @@
       "Pending": "144149",
       "Unknown": "395594",
       "TotalConfirmed": "1048353"
+    },
+    {
+      "Date": "7/28/2022",
+      "FID": "948",
+      "CloseContact": "479269",
+      "CruiseShip": "345",
+      "Interstate": "22698",
+      "Overseas": "7813",
+      "Pending": "144889",
+      "Unknown": "398176",
+      "TotalConfirmed": "1053190"
     }
   ]
 }
