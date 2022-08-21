@@ -9169,6 +9169,26 @@
       "existing": "11595",
       "total_ruledout": null,
       "hospitalized": null
+    },
+    {
+      "Date": "8/20/2022",
+      "new_cases": "0",
+      "total_cases": "1113823",
+      "total_recovered": "0",
+      "total_death": "0",
+      "existing": "1113823",
+      "total_ruledout": null,
+      "hospitalized": null
+    },
+    {
+      "Date": "8/21/2022",
+      "new_cases": "0",
+      "total_cases": "1113823",
+      "total_recovered": "1105093",
+      "total_death": "571",
+      "existing": "8159",
+      "total_ruledout": null,
+      "hospitalized": null
     }
   ]
 }
